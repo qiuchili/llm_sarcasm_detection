@@ -1,0 +1,401 @@
+Label,Example
+0,"Context:
+chandler: i'll tell you what. when we're 40, if neither one of us are married, what do you say you and i get together and have one?
+monica: why won't i be married when i'm 40?
+
+Input:
+chandler: oh, no, no. i just meant hypothetically.
+
+Cues:
+**topic:**
+marriage plans and future hypothetical scenarios.
+**cultural background:**
+the characters are from the popular television show ""friends,"" which often features discussions about relationships and future plans among close-knit friends.
+**surface emotion:**
+chandler is attempting to reassure monica and clarify his statement.
+**common knowledge:**
+friends often make pacts or hypothetical plans about the future if certain conditions are not met. chandler's reassurance is straightforward and not intended to be sarcastic.
+**keywords:**
+""hypothetically,"" ""no, no,"" ""meant""
+
+Label:
+not sarcastic"
+0,"Context:
+**person:** what are you doing here?
+
+**sheldon:** hang on. 130 over 80. it's a little high.
+
+**sheldon:** we can attribute that to the stress of sneaking past the security desk.
+
+**person:** where did you get the stethoscope and the blood pressure cuff?
+
+Input:
+**sheldon:** my aunt marion gave them to me for my 12th birthday.
+
+Cues:
+**1. topic:**
+   - the topic here is sheldon explaining where he got the stethoscope and blood pressure cuff.
+**2. rhetorical devices:**
+   - sheldon’s answer is straightforward and lacks rhetorical devices such as irony, hyperbole, or understatement that could suggest sarcasm.
+**3. special symbols:**
+   - no special symbols are present.
+**4. cultural background:**
+   - in some cultures, unconventional gifts such as medical equipment can be a sign of interest in a particular field from an early age. here, it’s a plausible and culturally coherent statement that an aunt might give such a gift to encourage a young sheldon’s interest in science or medicine.
+**5. emotional contrasts:**
+   - there is no stark emotional contrast in the statement. sheldon is neither showing humor nor any conflicting emotions that would imply sarcasm. he simply provides factual information.
+
+Label:
+not sarcastic"
+0,"Context:
+howard: oh, hey, stuart, i got you a little souvenir from my trip to space.
+person: well, howard, that's very nice of you.
+leonard: yeah, maybe. open it first.
+howard: it's my official nasa portrait.
+
+Input:
+person: ""to stuart, your comic book store is out of this world. just like the guy in this picture was.""
+
+Cues:
+keywords: comic book store, out of this world, picture, guy
+topic: complimenting stuart's comic book store and comparing it with howard's space trip
+emotional contrasts: none evident
+rhetorical devices: simile (""just like the guy in this picture was."")
+emotional words: out of this world (positive connotation)
+
+Label:
+not sarcastic"
+0,"Context:
+phoebe: hey you guys i'm gonna go out and take a walk.
+ross: phoebe, why is your bag moving?
+phoebe: oh, it's not!
+
+Input:
+rachel: seriously, it's moving!
+
+Cues:
+1. **rhetorical devices:** rachel uses a direct statement without employing sarcasm-related rhetorical devices like irony or understatement.
+2. **surface emotion:** rachel appears to be surprised or concerned rather than dismissive or mocking.
+3. **special symbols:** there are no special symbols (like italics or quotation marks) that would suggest sarcasm.
+4. **common knowledge:** the context implies that something unusual is happening, which could genuinely worry or surprise someone.
+5. **emotional words:** the use of ""seriously"" conveys a level of earnestness and concern rather than sarcasm.
+
+Label:
+not sarcastic"
+0,"Context:
+joey: uhh, well i've got an audition down the street and i spilled sauce all over the front of my shirt. you got an extra one?
+rachel: yeah, sure. umm .. here.
+joey: great. you got anything that's not
+
+Input:
+rachel: yeah, i don't think so joe.
+
+Cues:
+- **special symbols**: none present.
+- **cultural background**: the dialogue takes place in a casual, everyday situation typical of friends interacting. it is from the popular american tv show ""friends"".
+- **language style**: the language is straightforward and conversational.
+- **keywords**: ""i don't think so"", ""joe"".
+- **emotional contrasts**: there is no emotional contrast suggesting sarcasm. rachel's response is flat and straightforward, indicative of simply not having what joey asked for rather than mocking him.
+
+Label:
+not sarcastic"
+0,"Context:
+joey: hey. what, what are you doing here?
+phoebe: well, i-i thought a lot about what you said, and um, i realilized duh, all right maybe i was a little judgmental. yeah, oh, but oh...
+
+Input:
+joey: look now, phoebe remember, hey, their just fulfilling their christmas....
+
+Cues:
+- surface emotion: joey appears to be calm and perhaps slightly admonishing.
+- cultural background: the mention of christmas suggests a cultural context likely familiar with the holiday and its associated customs.
+- special symbols: none.
+- emotional words: ""remember"" indicates a reference to prior discussion, suggesting concern.
+- rhetorical devices: joey’s statement seems direct, lacking irony, exaggeration, or other markers of sarcasm.
+
+Label:
+not sarcastic"
+0,"Context:
+person: spring vacation.
+ross: spring vacation.
+person: oh good.
+ross: look, i ..   look, i'm having a great time with you and i just don't want us to move to fast or put to much pressure on us.
+
+Input:
+ross: so, i'm sorry i just don't think we should go away together yet.
+
+Cues:
+- **rhetorical devices:** the statement contains an apology and a clear explanation.
+- **emotional words:** ""sorry"", ""great time"", ""pressure"" suggest genuine feelings.
+- **context:** ross and the other person are discussing spring vacation and the progression of their relationship.
+- **emotional contrasts:** the contrast between having a ""great time"" and ""don't want us to move too fast"" expresses concern and care.
+- **language style:** the language is straightforward, direct, and sincere.
+
+Label:
+not sarcastic"
+0,"Context:
+phoebe: i need to talk to you, it's pretty urgent. it's about monica and chandler.
+ross: oh my god! of course, of course.
+
+Input:
+ross: umm, would you please excuse me for a moment?
+
+Cues:
+1. **cultural background**: the interaction takes place among friends in a casual, conversational setting, likely in a western context.
+2. **language style**: polite and formal. ross uses ""umm"" indicating hesitation or contemplation.
+3. **keywords**: ""excuse me,"" ""please,"" ""moment.""
+4. **topic**: request for a brief break in the conversation, likely to process or attend to something.
+5. **special symbols**: none
+
+Label:
+not sarcastic"
+0,"Context:
+ross: that only is not funny, it's physically impossible! okay? depending on the species i'd have to have a six foot long...
+
+Input:
+ross: it's not funny!
+
+Cues:
+- **language style:** the language is straightforward and direct.
+- **emotional contrasts:** there are no extreme emotional contrasts; ross is simply stating a fact.
+- **punctuation:** the exclamation mark suggests emphasis and frustration but not sarcasm.
+- **common knowledge:** understanding that ross is emphasizing the impossibility of a situation.
+- **cultural background:** recognizing that ross typically speaks in a rational, direct manner in the context of ""friends,"" and his statement aligns with his logical character.
+
+Label:
+not sarcastic"
+0,"Context:
+raj: oh, there it is: now that you don't have a girlfriend, you want to hang out with me again.
+leonard: i never stopped hanging out with you. oh, please, we all know i'm the friend you call when you have no other options. if we were the justice league, i'd be aquaman.
+howard: i wish you were aquaman. then i could send you to scoop my mom out of the old lady tank.
+
+Input:
+sheldon: excuse me, i'm thirsty, so i'm going to go to the refrigerator and get myself a refreshing beverage.
+
+Cues:
+1. **language style**: the language used by sheldon is straightforward and direct, lacking any complex or overly sophisticated vocabulary that would imply sarcasm.
+2. **surface emotion**: the emotion in sheldon's statement is neutral. he is simply stating a fact without any underlying tone of frustration, irritation, or humor.
+3. **emotional words**: the word ""thirsty"" and ""refreshing beverage"" are emotional to an extent but are not exaggerated or used in a way that implies a different meaning. 
+4. **rhetorical devices**: there are no rhetorical devices such as irony, hyperbole, or understatement present in the input. sheldon's statement is literal.
+5. **special symbols**: there are no special symbols like exclaimlation marks or quotation marks that would indicate a differing tone or meaning from what is explicitly stated.
+
+Label:
+not sarcastic"
+1,"Context:
+monica: could guys please try to keep it down? we are trying to start a tournament.
+
+Input:
+chandler: these people find out that a spelling game is going over there, there will be nobody left at our party.
+
+Cues:
+- **surface emotion:** bemusement or mockery
+- **emotional words:** none directly, but the tone implies skepticism or mock dismay.
+- **rhetorical devices:** hyperbole: chandler exaggerates that everyone would leave their party for a spelling game. irony: he's implying the opposite of what he says; a spelling game is unlikely to draw a crowd away from a party.
+- **keywords:** ""spelling game,"" ""nobody left,"" ""our party""
+- **language style:** informal, colloquial, mocking tone
+
+Label:
+sarcastic"
+1,"Context:
+dorothy: supposed to study for my french final with a fourteen year old in the house, its hard enough with an eighty year old.
+sophia: are you referring to me?
+
+Input:
+dorothy: ofcourse no ma, i am referring to carrey grant, he is living in the broom closet.
+
+Cues:
+**emotional words:** no ma
+**keywords:** referring, carrey grant, broom closet
+**topic:** the challenge of studying for an exam with distractions at home.
+**rhetorical devices:** sarcasm (using an obviously false statement to humorously imply the truth), hyperbole (exaggerating the absurdity of the situation)
+**cultural background:** knowledge of a classic hollywood actor (cary grant) and a common broom closet, which contributes to understanding the absurdity and humor in the statement.
+
+Label:
+sarcastic"
+1,"Context:
+leonard: okay. so... we went out, saw a movie, met some nice people,
+
+Input:
+leonard: said horrible things about each other in public... all in all, a pretty magical night.
+
+Cues:
+- **rhetorical devices:** the use of irony is evident in leonard’s statement. he describes a negative experience (""said horrible things about each other in public"") followed by an excessively positive phrase (""a pretty magical night""), which creates a clear contrast and implies that he does not literally mean the night was magical.
+- **keywords:** “horrible things,” “public,” “magical night.”
+- **cultural background:** the culture of sarcasm in language often involves stating something positive about a negative experience to highlight the contrast and indicate the opposite of what is being said.
+- **emotional contrasts:** the contrast between the negative action of saying ""horrible things about each other"" and the positive description ""a pretty magical night"" signals sarcasm. the emotional weight of ""horrible things"" clashing with ""magical night"" amplifies this.
+- **context:** in the earlier part, leonard rightly describes mundane, pleasant activities. the following statement about ""horrible things"" and “magical night” directly contrasts with the earlier tone, indicating he doesn’t actually believe the night was magical but is speaking ironically.
+
+Label:
+sarcastic"
+1,"Context:
+joey: oh umm, my big scene is coming up. big scene coming up.
+chandler: if you said, ""big lima bean, bubbling up."" would she understand the difference?
+monica: rach? what are you doing?
+
+Input:
+rachel: oh boy, i just can't watch. it's too scary!
+
+
+Cues:
+1. **surface emotion:**
+   - rachel's statement seems to express anxiety or fear (""oh boy, i just can't watch. it's too scary!"").
+2. **topic:**
+   - rachel is conveying her feelings about a scene, presumably in a tv show or movie that joey is acting in.
+3. **punctuation:**
+   - the statement contains punctuation that expresses heightened emotion (""oh boy,"" ""it's too scary!"").
+4. **emotional contrasts:**
+   - the emotion conveyed (anxiety or fear) contrasts sharply with the expected context, as joey's scene is probably not genuinely scary.
+5. **cultural background:**
+   - the context suggests a dynamic of friends joking and teasing one another, typical in western tv sitcoms which often use sarcasm for humor.
+
+Label:
+sarcastic"
+1,"Context:
+sheldon: i don't believe it matters what the topic is.
+sheldon: what's crucial for a salon is that we conduct the discussion in an elevated and insightful way. 
+it's all about the execution.
+leonard: of course you'd focus on that rather than the inspiration.
+leonard: uh, new salon topic.
+what's more important, an idea or its execution?
+bernadette: oh, that's fun.
+
+Input:
+sheldon: yeah, good for you, leonard. that's a lovely little notion. kind of like, i wish i could talk to my uncle in chicago. yeah, now stand back while i invent the telephone. hello? oh, hold on. leonard, it's your uncle. he says you just got burned.
+
+Cues:
+1. **keywords:**
+   - ""good for you""
+   - ""lovely little notion""
+   - ""i wish i could talk to my uncle""
+   - ""stand back while i invent the telephone""
+   - ""you just got burned""
+2. **punctuation:**
+   - use of an exclamation point: ""good for you, leonard.""
+   - periods and commas create a rhythmic, mocking tone.
+3. **surface emotion:**
+   - mocking, condescending
+4. **cultural background:**
+   - the setting appears to be an intellectual discussion, typical in the show ""the big bang theory.""
+   - reference to inventing the telephone implies sarcasm rooted in historical technological achievements.
+5. **topic:**
+   - discussion on the importance of ideas vs. execution, which sheldon undercuts with sarcasm.
+
+Label:
+sarcastic"
+1,"Context:
+dorothy: morning everybody, rose honey i hope you don't mind, i borrowed your golf club, i have a date to play this morning.
+blanche: with a man?
+
+Input:
+dorothy: no blanche, with a venus fly trap
+
+Cues:
+1. **rhetorical devices:**
+   - **irony:** dorothy's response uses irony by mentioning a ""venus fly trap"" instead of a man, which is an unexpected and absurd alternative.
+   - **hyperbole:** the response exaggerates the situation for comedic effect, implying that going on a date with a plant is just as plausible as blanche’s implied assumption that dorothy would only play golf with a man.
+2. **surface emotion:**
+   - **mocking or playful:** dorothy's reply indicates a playful or mocking attitude toward blanche’s assumption that she needed a man to accompany her for golf.
+3. **context:**
+   - **all-female conversation:** the context involves dorothy and blanche talking casually about dorothy’s morning plans.
+   - **question and answer format:** blanche's question sets up an expected answer, which dorothy subverts.
+4. **cultural background:**
+   - **sitcom setting:** the dialogue is characteristic of witty banter often found in american sitcoms, where characters frequently use sarcasm to entertain the audience.
+   - **gender norms discussion:** the underlying context subtly touches on the concept that women need men for certain activities, which dorothy is vividly dismissing through sarcasm.
+5. **language style:**
+   - **informal and humorous:** dorothy’s quip is casual and humorous, consistent with informal dialogue aimed at eliciting laughter.
+
+Label:
+sarcastic"
+1,"Context:
+leonard: do you think penny's mad at me?
+
+Input:
+bernadette: because you're in the right lane behind a bus and you won't go around it? i'm sure she finds it charming.
+
+Cues:
+1. **topic:**
+   - leonard wonders if penny is mad at him, and bernadette responds by focusing on a specific action of leonard’s driving.
+2. **common knowledge:**
+   - it's commonly known that being stuck behind a slow-moving vehicle like a bus can be frustrating, and refusing to go around it can annoy passengers.
+3. **emotional contrasts:**
+   - bernadette’s words initially might suggest she’s commenting kindly, but the context and her choice of words indicate frustration and annoyance.
+4. **punctuation:**
+   - the use of a question mark conveys a rhetorical question, and the period at the end solidifies the finality of her sarcastic statement.
+5. **special symbols:**
+   - no special symbols are present, but the phrasing itself acts as a tool to imply sarcasm.
+
+Label:
+sarcastic"
+1,"Context:
+ross: look i drew a sketch of how we are gonna do it ok? rach, that's you, that's the couch  
+rachel: what's that?  
+ross: oh, that's me.  
+rachel: wow! certainly think a lot of yourself.  
+ross: no, that's my arm.
+
+Input:
+chandler: oh i see, i thought you just really really liked your new couch.
+
+Cues:
+1. **surface emotion**:
+   - **rachel's comment (""wow! certainly think a lot of yourself."")**: she seems to be teasing ross, implying that he thinks highly of himself.
+   - **chandler's comment (""oh i see, i thought you just really really liked your new couch."")**: the tone is mocking and playful.
+2. **common knowledge**:
+   - the context suggests that chandler is aware of ross's character and the dynamics of their group. chandler often employs sarcasm in his interactions.
+   - it's common knowledge that chandler uses humor and sarcasm extensively.
+3. **cultural background**:
+   - the dialogue occurs between characters from the american sitcom ""friends,"" known for its frequent use of sarcasm and humor. the show's cultural background plays a significant role.
+   - the context of making fun of everyday situations is typical in the show.
+4. **punctuation**:
+   - the use of commas and the exclamation point in rachel's comment adds emphasis to the teasing tone.
+   - chandler uses a calm, matter-of-fact tone which is often employed sarcastically to emphasize the obviousness or absurdity, strengthening the sarcasm.
+5. **language style**:
+   - **rachel**: casual, playful with slight teasing. ""wow! certainly think a lot of yourself.""
+   - **chandler**: dry and mocking. his understatement ""really really liked"" underlines the sarcastic nature.
+
+Label:
+sarcastic"
+1,"Context:
+dorothy: honey you alright?
+rose: i'll be fine
+blanche: is this about arnie?
+
+Input:
+dorothy: no blanche she is upset because they keep changing the taste of coke.
+
+Cues:
+- **common knowledge:**
+  - people generally do not become emotionally upset over changes in the taste of a soft drink.
+  - the name ""arnie"" suggests a personal relationship, which typically involves deeper emotions than a change in a beverage.
+
+- **keywords:**
+  - ""upset""
+  - ""changing the taste of coke""
+
+- **cultural background:**
+  - there is a known history of public complaints about changes in the recipe of coca-cola (e.g., new coke), but such changes are not typically a source of significant personal distress.
+  - the dialogue is from a comedy show, which often uses sarcasm for humor.
+
+- **topic:**
+  - emotional distress
+  - personal relationships vs. trivial matters
+
+- **special symbols:**
+  - n/a
+
+Label:
+sarcastic"
+1,"Context:
+penny: i don't think i've eaten that much in my entire life.
+
+Input:
+howard: it's why my people wandered the desert for 40 years. took that long to walk it off.
+
+Cues:
+language style: informal, conversational
+topic: cultural reference mixed with humorous exaggeration
+keywords: ""wandered the desert for 40 years,"" ""walk it off""
+emotional contrasts: casual statement contrasted with exaggerated explanation
+surface emotion: light-hearted, humorous
+
+Label:
+sarcastic"

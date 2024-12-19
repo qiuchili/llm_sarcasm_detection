@@ -1,0 +1,328 @@
+Label,Example
+0,"Input: ""are you trying to make a point here? or are you just spewing forth your hoplophobic tendencies because you're got nothing better to do?   one of the problems with school children is that it's become a crime to discipline them the way our parents were disciplined. there's no spankings, corner times, or sitting on a chair with a dunce cap, because that's all been labeled as abuse to emotional development. instead we have counseling and the administration of powerful prescription drugs to kids who can barely read.   kids are spoiled rotten and left unsupervised with tv shows and video games that glorify violence and murdering people for fun. parents are stuck working two or more jobs just to make enough money for bills so they don't wind up on the streets.   we need massive reform. we gotta go back to how kids were raised in the 50s.""
+
+Steps:
+step 1: surface sentiment
+- the text starts with confrontational questions, suggesting frustration or anger.
+- uses strong language like ""spewing forth,"" ""crime to discipline,"" ""spoiled rotten.""
+- expresses nostalgia for past disciplinary methods and criticism of current approaches.
+- concludes with a call for ""massive reform"" and returning to 1950s child-rearing practices.
+
+step 2: true intention
+- the author appears genuinely concerned about perceived problems in modern child-rearing.
+- they criticize current disciplinary methods, parenting practices, and societal issues.
+- the tone is direct and argumentative, without subtle irony or contradiction.
+- the call for reform seems sincere, aligning with the overall sentiment of the text.
+
+step 3: comparison and analysis
+- the surface sentiment and true intention align consistently throughout the text.
+- there's no discernible gap between what is said and what is meant.
+- the language, while passionate and somewhat exaggerated, does not employ irony or sarcasm.
+- the author's views, while potentially controversial, appear to be expressed earnestly.
+
+Label:
+not sarcastic"
+0,"Input: ""they aren't afraid of that. that a government agency would actually be financially competitive is ridiculous. the only way it could compete for customers would be by running at an enormous loss or legislating away competition. that's what people are ""afraid"" of, not some idiotic speculation that government is great at business.""
+
+Steps:
+step 1: surface sentiment
+- negative tone towards government agencies' competitiveness
+- use of strong words like ""ridiculous"" and ""idiotic""
+- quotation marks around ""afraid"" suggest skepticism
+
+step 2: true intention
+- the author is directly stating their opinion
+- they argue that government agencies cannot be financially competitive
+- the author explains why people are concerned about government competition
+
+step 3: comparison and analysis
+- the surface sentiment aligns with the true intention
+- there's no contradiction between what's said and what's meant
+- the use of quotation marks around ""afraid"" emphasizes the author's point rather than indicating sarcasm
+
+Label:
+not sarcastic"
+0,"Input: ""it is rather disrespectful but don't think it is limited to one side. most protestors on both sides aren't great. one thing did spark my interest, and it is said often, why is it a ""hard decision"" if you are pro-choice? is it hard because you don't know if you want a baby around or not? couldn't this decision be just as hard before being pregnant? even so, why link it to going to an abortion clinic? you hear ""it was hard enough to come to this decision in the first place"" but how is going through some protestors making this decision harder? no one would admit to this but it is statements like ""it was hard enough to come to this decision in the first place"" that make me believe that someone realizes it is wrong and the struggle that makes it hard is whether or not to do the right thing or do they thing that would benefit you the most. and in that case, i agree...that can be a tough decision.""
+
+Steps:
+step 1: surface sentiment
+the text presents a critical but thoughtful examination of the abortion debate. it uses questioning to explore the complexities of the decision-making process. the tone is inquisitive and analytical rather than overtly emotional or mocking.
+
+step 2: true intention
+the author is genuinely trying to understand and analyze the reasons behind describing abortion as a ""hard decision."" they are examining the logic and motivations behind pro-choice arguments. the questions posed seem to be sincere attempts to understand the perspective, not rhetorical devices meant to ridicule.
+
+step 3: comparison and analysis
+the surface sentiment and true intention align in this text. there's no significant discrepancy between what is said and what is meant. the author is expressing their thoughts directly and honestly, without employing sarcasm or irony to make their point.
+
+Label:
+not sarcastic"
+0,"Input: [the provided text about gun rights and voting rights]
+
+Steps:
+step 1: surface sentiment
+the surface sentiment is strongly pro-gun rights and pro-voting rights. key phrases like ""i will not give up my right to vote"" and ""i will not give up my firearms"" indicate a passionate stance. the tone is serious and assertive throughout.
+
+step 2: true intention
+the true intention appears to align with the surface sentiment. the author is making a genuine argument for gun ownership rights, drawing parallels with voting rights and citing examples from around the world. there are no apparent rhetorical devices or stylistic choices that suggest an underlying sarcastic tone.
+
+step 3: comparison and analysis
+the surface sentiment and true intention are consistent. the author maintains a serious tone throughout, presenting their arguments in a straightforward manner without any noticeable irony or sarcasm. the examples and analogies used (e.g., comparing gun rights to voting rights, mentioning other countries) are presented as sincere supporting evidence for their stance.
+
+Label:
+not sarcastic"
+0,"Input: ""i'm glad to see you've finally come around.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears positive, with the phrase ""i'm glad"" indicating happiness or satisfaction. the word ""finally"" suggests a sense of relief or accomplishment after a period of waiting or disagreement.
+
+step 2: true intention
+there are no clear indicators of sarcasm or irony in this statement. the language is straightforward and doesn't employ exaggeration or contradiction. the phrase ""come around"" implies a genuine change of opinion or agreement after previous disagreement.
+
+step 3: comparison and analysis
+the surface sentiment aligns with the likely true intention of the speaker. there's no discrepancy between the literal meaning and the intended meaning, which is typically present in sarcastic statements.
+
+Label:
+not sarcastic"
+0,"Input: ""yes and my post was proving that""
+
+Steps:
+step 1: surface sentiment
+- the statement begins with ""yes,"" indicating agreement or affirmation.
+- the phrase ""my post was proving that"" suggests a factual or explanatory tone.
+- there are no obvious emotional keywords, exaggerations, or emojis.
+
+step 2: true intention
+- the speaker appears to be directly stating that their previous post (comment or message) was providing evidence or support for something.
+- the language is straightforward and lacks any rhetorical devices or stylistic elements that might suggest hidden meaning.
+- the tone seems matter-of-fact and sincere.
+
+step 3: comparison and analysis
+- the surface sentiment and true intention align closely.
+- there's no discrepancy between what is said and what is meant.
+- the statement lacks typical sarcastic indicators such as exaggeration, irony, or contradictory elements.
+
+Label:
+not sarcastic"
+0,"Input: ""the question is illogical. by declaring the existence of an all powerful god then saying god cannot do something is not a comment on his powerfulness but rather the direct representation of his nature. your question by its very statement does not test wether or not god is all powerful but wether or not god is comprehensible. see another thread for that topic.   the statement that god is all powerful defines his nature. to state then that he cannot do something outside of his nature as proof of the non existence of his nature is circular in logic.""
+
+Steps:
+step 1: surface sentiment
+the text appears to be a serious, logical argument. it uses formal language and philosophical concepts without obvious emotional indicators or exaggeration.
+
+step 2: true intention
+the author is genuinely attempting to explain a logical fallacy in the reasoning about god's nature and omnipotence. the intention is to provide a thoughtful, rational critique of the original question.
+
+step 3: comparison and analysis
+the surface sentiment and true intention align. there are no contradictions between the literal meaning and the intended message. the text lacks typical sarcastic elements like irony, exaggeration, or mock enthusiasm.
+
+Label:
+not sarcastic"
+0,"Input: ""the anti-abortionists claim that would be killing a human life to save one.""
+
+Steps:
+step 1: surface sentiment
+the statement appears neutral in tone. it uses matter-of-fact language to describe a claim made by anti-abortionists. there are no obvious emotional keywords, sentimental phrases, or emojis that would indicate a strong positive or negative sentiment.
+
+step 2: true intention
+the sentence seems to be straightforwardly reporting a viewpoint held by anti-abortion advocates. it doesn't employ rhetorical devices like hyperbole, irony, or exaggeration that might suggest sarcasm. the language is direct and informative rather than stylized or dramatized.
+
+step 3: comparison and analysis
+the surface sentiment (neutral reporting) aligns with the true intention (conveying information about a stance). there's no discrepancy between what is said and what is meant that would indicate sarcasm.
+
+Label:
+not sarcastic"
+0,"Input: ""said the troll that lives in the uk""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears neutral. there are no overtly positive or negative words, emojis, or sentimental phrases. the statement is matter-of-fact in tone.
+
+step 2: true intention
+the statement seems to be a straightforward description or attribution of a quote to someone characterized as a ""troll"" who lives in the uk. while calling someone a ""troll"" can be negative, the overall intention appears to be simply identifying the source of a previous statement.
+
+step 3: comparison and analysis
+there is no significant discrepancy between the surface sentiment and the true intention. the statement doesn't employ typical sarcastic devices like exaggeration, irony, or mock enthusiasm. it's a direct attribution that doesn't seem to hide any deeper meaning or contradiction.
+
+Label:
+not sarcastic"
+0,"Input: ""if we were created in god's image, then it would make sense that equally our emotions are a reflection of god's emotions. that our emotions are imperfect versions of his.   of course i would personally say that when man invented god, they felt the need to give him human characteristics in order to make their invention more understandable. and to assist in the oppression of others by the ever-present threat of an 'angry god who will smite you'. an 'ambivalent god who is above that sort of thing' just isn't as good at convincing people that whatever you say is right.""
+
+Steps:
+step 1: surface sentiment
+- the first part presents a logical argument about human emotions being a reflection of god's.
+- the second part introduces a contrasting personal view about the human invention of god.
+- keywords like ""of course"" and phrases like ""angry god who will smite you"" might initially suggest sarcasm.
+
+step 2: true intention
+- the text presents two contrasting viewpoints on the origin of human emotions and god.
+- the author clearly states their personal opinion (""i would personally say"") rather than using sarcasm to convey it.
+- the language is direct and explanatory, presenting a logical argument for the author's perspective.
+
+step 3: comparison and analysis
+- while there are elements that could be interpreted as sarcastic (e.g., ""angry god who will smite you""), the overall tone is more analytical and explanatory.
+- the author openly presents their view without relying on irony or sarcasm to make their point.
+- the text aims to provide a reasoned argument rather than mock or ridicule the opposing viewpoint.
+
+Label:
+not sarcastic"
+1,"Input: ""oh, and i found this from here:   http://www.jci.org/cgi/content/full/112/9/1291   ""the discovery of species-specific as well as universal intercellular signaling molecules reveals that bacteria interact with one another using surprisingly sophisticated mechanisms of communication. in nature, bacteria are rarely found in isolation, and evolution appears to have provided a mechanism that allows them to detect when they are in heterogeneous communities, to assess the proportions of self and other in mixed-species environments, and to respond to this information by appropriately modulating gene expression.""   it appears biologists haven't gotten it wrong, evolution is the explaination for bacterial signaling. and the bacteria still isn't exhibiting any intelligence. the only one getting anything wrong here is you.""
+
+Steps:
+step 1: the surface sentiment appears informative and somewhat confrontational. the comment starts with ""oh, and i found this,"" suggesting additional information. it then presents a scientific quote and concludes with statements that seem to correct someone's misconception.
+
+step 2: upon closer examination, the true intention becomes clearer:
+- the ""oh, and i found this"" opener has a casual, almost dismissive tone.
+- the scientific quote is used to build credibility for the argument.
+- the phrase ""it appears biologists haven't gotten it wrong"" is likely sarcastic, implying the opposite.
+- the final sentence, ""the only one getting anything wrong here is you,"" is a direct, sarcastic attack on the person being addressed.
+
+step 3: comparing steps 1 and 2, we can infer that while the surface appears informative, the true intention is to sarcastically refute someone's argument. the casual opening, the use of scientific evidence to contradict the other person, and the final direct attack all contribute to a sarcastic tone.
+
+Label:
+sarcastic"
+1,"Input: ""and ends with the woman, whose body is the one having to endure the pregnancy.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears matter-of-fact and straightforward. it states a biological reality about pregnancy affecting a woman's body without overtly positive or negative language.
+
+step 2: true intention
+the true intention seems to be highlighting the disproportionate burden placed on women in pregnancy, likely in the context of abortion debates. the use of ""endure"" suggests hardship and implies criticism of those who may overlook this aspect.
+
+step 3: comparison and analysis
+while the surface statement is factual, the underlying tone and word choice (""endure"") reveal a critical perspective. however, this doesn't align clearly with typical sarcastic structures or exaggeration.
+
+Label:
+sarcastic"
+1,"Input: ""oh! and i just finished breakfast...   can anyone say, ""fly by!""""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears excited or enthusiastic, indicated by:
+- the exclamation ""oh!""
+- use of ellipsis to build anticipation
+- the rhetorical question ""can anyone say...""
+
+step 2: true intention
+analyzing deeper:
+- the phrase ""i just finished breakfast"" implies it's early in the day
+- ""fly by"" suggests something happening very quickly
+- the contrast between a leisurely activity (breakfast) and sudden rush implies frustration
+
+step 3: comparison and analysis
+- the excited surface tone contradicts the likely frustration
+- the rhetorical question emphasizes the contrast sarcastically
+- the overall message conveys irritation at having to rush right after finishing breakfast
+
+Label:
+sarcastic"
+1,"Input: ""oh, well, that convinces me.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears positive or agreeable. the phrase ""oh, well"" suggests acceptance, and ""that convinces me"" indicates being persuaded.
+
+step 2: true intention
+the brevity and simplicity of the statement, combined with the casual ""oh, well"" opener, suggest insincerity. the speaker likely means the opposite - they are not convinced at all.
+
+step 3: comparison and analysis
+the contrast between the superficially positive surface sentiment and the likely negative true intention strongly indicates sarcasm. the speaker is using verbal irony to express skepticism or disagreement.
+
+Label:
+sarcastic"
+1,"Input: ""yeah they were. mostly killed by criminals with guns. now prove that any legislation that obama could have enacted would have prevented those deaths.   i'm not holding my breath and i'm not expecting a rational response either...""
+
+Steps:
+step 1: surface sentiment
+- appears to agree initially: ""yeah they were.""
+- seems to challenge obama's potential legislation
+- expresses skepticism: ""i'm not holding my breath""
+- appears dismissive: ""not expecting a rational response""
+
+step 2: true intention
+- the initial agreement is likely insincere
+- the challenge to ""prove"" legislation effectiveness is likely rhetorical
+- ""i'm not holding my breath"" implies strong disbelief
+- ""not expecting a rational response"" suggests the commenter views opposing arguments as irrational
+
+step 3: comparison and analysis
+- the surface agreement contrasts with the overall skeptical and dismissive tone
+- the rhetorical challenge and expressions of disbelief indicate the commenter is not earnestly seeking proof
+- the final statement about expecting no rational response further reinforces the sarcastic intent
+
+Label:
+sarcastic"
+1,"Input: ""millions of athiests trying to make up for lost time""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears neutral to slightly negative. there are no overtly positive or negative words. the phrase ""make up for lost time"" could imply a sense of urgency or regret.
+
+step 2: true intention
+the true intention seems to be mocking or criticizing atheists. the statement implies that atheists are suddenly rushing to do something, as if they've realized they were wrong. this plays on the stereotype that atheists might regret their lack of faith.
+
+step 3: comparison and analysis
+there's a clear disconnect between the surface neutrality and the underlying mockery. the statement uses irony by suggesting atheists are frantically trying to compensate for something, likely implying a sudden turn to faith or spiritual activities.
+
+Label:
+sarcastic"
+1,"Input: ""ah, i see. your reasons are secret reasons. on a debate forum, about gay rights, you oppose it based on....well you won't say! nice debate. who's really playing the game here?""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears to be agreeable and understanding, with phrases like ""ah, i see"" and ""nice debate."" however, this is quickly undermined by the following analysis.
+
+step 2: true intention
+the true intention is to criticize and mock the opponent's lack of substantive arguments. this is evident through:
+- rhetorical devices: using irony in ""your reasons are secret reasons"" and ""nice debate""
+- language style: short, punchy sentences and ellipsis (...) to emphasize the opponent's failure to provide reasons
+- rhetorical question: ""who's really playing the game here?"" implies the opponent is being disingenuous
+
+step 3: comparison and analysis
+the surface agreeableness in step 1 sharply contrasts with the critical true intention in step 2. this mismatch, combined with the use of irony and mockery, clearly indicates sarcasm.
+
+Label:
+sarcastic"
+1,"Input: [the provided example input]
+
+Steps:
+step 1: surface sentiment
+the text appears to be informative and educational, providing detailed scientific information about the relationship between wolves and dogs. the tone seems neutral and factual, citing sources and presenting genetic evidence.
+
+step 2: true intention
+upon closer inspection, the opening sentence reveals a different intention: ""i'm not surprised that no one on your side of the debate would correct you, but wolves and dogs are both members of the same species."" this suggests the author is actually criticizing the opposing side's lack of knowledge or willingness to admit facts.
+
+step 3: comparison and analysis
+the contrast between the seemingly neutral, fact-based content and the opening critical remark indicates sarcasm. the author is using an abundance of scientific information to highlight the perceived ignorance or stubbornness of the opposing side in the debate.
+
+Label:
+sarcastic"
+1,"Input: ""so, in order to be against gay marriage, a person has to be faithful in his own marriage? gimme a break. he supports what his constituents want him to support or he doesn't get elected. in case you haven't noticed, the majority of americans are against gay marriage.""
+
+Steps:
+step 1 (surface sentiment):
+the surface sentiment appears critical and dismissive. key phrases like ""gimme a break"" indicate frustration or disbelief. the tone seems confrontational and assertive, especially in the last sentence.
+
+step 2 (true intention):
+the true intention is to mock the idea that personal fidelity is required to oppose gay marriage. the author uses a rhetorical question and sarcasm to highlight the perceived hypocrisy or irrelevance of this argument. they then cynically suggest that politicians simply follow public opinion for electoral gain, regardless of personal beliefs or behavior.
+
+step 3 (comparison and analysis):
+the surface criticism aligns with the underlying sarcastic intent, but the sarcasm adds a layer of mockery that goes beyond simple disagreement. the rhetorical question, casual language (""gimme a break""), and the matter-of-fact explanation of political motivations all contribute to a sarcastic tone that undermines the arguments it appears to present.
+
+Label:
+sarcastic"
+1,"Input: ""not in matters of atheism. tell me, when science discovers something that seems to agree with the 150 year old writings of darwin, are the writings of darwin disregarded? or is that type of history trumpeted to the masses?""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears to be inquisitive, asking questions about how scientific discoveries related to darwin's writings are treated. there are no overtly positive or negative keywords or emojis present.
+
+step 2: true intention
+the true intention becomes clearer when we examine the rhetorical questions and word choice. the phrase ""trumpeted to the masses"" suggests exaggeration and implies that darwin's writings are overly celebrated. the contrast between ""disregarded"" and ""trumpeted"" sets up a stark, unrealistic dichotomy.
+
+step 3: comparison and analysis
+while the surface appears to be genuine questions, the true intention is to criticize how darwin's work is treated in relation to new scientific discoveries. the sarcasm lies in the implied answer to the rhetorical questions - that darwin's writings are indeed ""trumpeted to the masses"" rather than critically examined.
+
+Label:
+sarcastic"

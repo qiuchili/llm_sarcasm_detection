@@ -1,0 +1,13 @@
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/rocm6.0
+huggingface-hub==0.23.3
+git+https://github.com/meta-llama/llama3
+openai==0.28.0
+langchain==0.2.1
+langchain-anthropic==0.1.20
+langchain-community==0.2.1
+langchain-core==0.2.21
+langchain-experimental==0.0.59
+langchain-huggingface==0.0.3
+langchain-text-splitters==0.2.0
+scikit-learn==1.5.0
+anthropic==0.31.2

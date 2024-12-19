@@ -1,0 +1,256 @@
+Label,Example
+0,"Input: ""days when you just want everyone to leave you alone  #in #a #good #mood #nohunting""
+
+Cues:
+1. surface emotion: the text expresses a desire for solitude, which is a genuine feeling many people experience.
+2. common knowledge: it's widely understood that people sometimes need personal space or time alone, even when in a good mood.
+3. punctuation: the lack of punctuation at the end of the sentence doesn't indicate sarcasm.
+4. special symbols: the hashtags are used to categorize the post, not to convey sarcasm.
+5. language style: the statement is straightforward and doesn't use exaggeration or irony typical of sarcastic expressions.
+
+Label:
+not sarcastic"
+0,"Input: ""@getontvn @thesharktweet what's going on with sharks hair? looks like the council has cut it""
+
+Cues:
+1. common knowledge: 
+   - ""shark"" likely refers to a person's nickname or username
+   - ""council"" typically refers to a local government body
+2. punctuation:
+   - use of question mark indicates genuine inquiry
+   - no excessive punctuation or capitalization that might suggest exaggeration
+3. topic:
+   - discussing someone's hair appearance
+   - mentioning local council in relation to haircut
+4. emotional words:
+   - no strong emotional words present
+5. emotional contrasts:
+   - no contrasting emotions or sentiments expressed
+
+Label:
+not sarcastic"
+0,"Input: ""dear next person that seeks to educate me on anything please be very educated themselves, which means knowing multiple points of view http:...""
+
+Cues:
+1. keywords: ""educate,"" ""please,"" ""educated,"" ""multiple points of view""
+2. punctuation: capitalization of ""please"" for emphasis
+3. cultural background: implies a culture that values education and diverse perspectives
+4. context: addressing future interactions with people who want to share knowledge
+5. topic: education and the importance of being well-informed
+
+Label:
+not sarcastic"
+0,"Input: ""now gonna enjoy this day with my babies!!:victory_hand:️""
+
+Cues:
+1. language style: casual and informal (""gonna"" instead of ""going to"")
+2. emotional contrast: none present; consistent positive tone
+3. punctuation: double exclamation marks (!!) indicating enthusiasm
+4. keywords: ""enjoy,"" ""babies"" - positive and affectionate terms
+5. topic: spending time with family/children
+
+Label:
+not sarcastic"
+0,"Input: ""@loveeallyy i literally do not know""
+
+Cues:
+1. common knowledge: the phrase ""i don't know"" is a straightforward expression of uncertainty or lack of information.
+2. special symbols: ""@loveeallyy"" is a twitter username mention, indicating a direct response to another user.
+3. cultural background: no specific cultural references are present.
+4. language style: informal, conversational tone typical of social media interactions.
+5. rhetorical devices: use of ""literally"" as an intensifier, which is common in casual speech to emphasize sincerity.
+
+Label:
+not sarcastic"
+0,"Input: ""suppose i best move my arse to the #gym. anything to put off wrapping presents :confused_face::wrapped_present: #christmas #chore""
+
+Cues:
+1. language style: casual, colloquial (""move my arse"")
+2. surface emotion: mild reluctance, confusion (indicated by :confused_face:)
+3. rhetorical devices: none apparent
+4. keywords: gym, wrapping presents, christmas, chore
+5. context: holiday season, procrastination
+
+Label:
+not sarcastic"
+0,"Input: ""sessions!! #why  #scary #canary #sydney #australia by lavin56 http://t.co/rs4wsrpsmj http://t.co/ewbwx6zin3""
+
+Cues:
+1. special symbols: 
+   - exclamation marks (!!) indicate enthusiasm or excitement
+   - hashtags (#) are used to categorize the tweet
+2. context:
+   - mentions ""sessions"" which could refer to a music or photography session
+   - location tags for sydney and australia suggest a specific event or place
+3. keywords:
+   - ""sessions"", ""why"", ""scary"", ""canary"", ""sydney"", ""australia""
+4. emotional words:
+   - ""scary"" could indicate anticipation or excitement rather than fear in this context
+5. rhetorical devices:
+   - none apparent
+
+Label:
+not sarcastic"
+0,"Input: ""@koadmedia how many championships? you trying to say that makes him worth more than saban?""
+
+Cues:
+1. language style: informal, direct questioning style typical of social media interactions.
+2. topic: sports, specifically football championships and coach valuation.
+3. surface emotion: curiosity, slight skepticism.
+4. cultural background: american sports culture, particularly college football.
+5. emotional contrasts: none evident; the tone is consistent throughout.
+
+Label:
+not sarcastic"
+0,"Input: ""sometimes i wonder, am i the mouse, or am i the experimenter?""
+
+Cues:
+1. cultural background: the reference to ""mouse"" and ""experimenter"" suggests familiarity with scientific experiments, possibly indicating an educated or scientifically-aware background.
+2. language style: reflective and philosophical, using a rhetorical question format.
+3. emotional words: none explicitly present.
+4. surface emotion: thoughtful, introspective.
+5. keywords: ""wonder,"" ""mouse,"" ""experimenter""
+
+Label:
+not sarcastic"
+0,"Input: ""breaking up with your girl so you don't have to buy her any presents ||#lowbudget #smartmove  #a #good #idea #butscheming doe""
+
+Cues:
+1. topic: relationship breakup to avoid gift-giving
+2. keywords: breaking up, girl, presents, #lowbudget, #smartmove, #goodidea, #butscheming
+3. language style: casual, social media-like, using hashtags
+4. rhetorical devices: none apparent
+5. common knowledge: gift-giving is expected in relationships, especially during holidays
+
+Label:
+not sarcastic"
+1,"Input: ""getting ready to ship surplus ink cartridges out to nunavut communities- yup that's a great use of time/resources! #sofulfilled""
+
+Cues:
+1. topic: shipping surplus ink cartridges to remote communities
+2. surface emotion: seemingly positive, but with an underlying tone of frustration
+3. keywords: ""surplus,"" ""great use,"" ""time/resources,"" ""#sofulfilled""
+4. punctuation: use of exclamation mark and hashtag
+5. language style: informal, conversational
+
+Label:
+sarcastic"
+1,"Input: ""@mickstaxis my favourite day of the year !!!!  http://t.co/fqobkvzvrc""
+
+Cues:
+1. language style:
+   - informal, conversational tone
+   - excessive punctuation (""!!!!"")
+2. topic:
+   - referring to a specific day, likely an unpleasant one given the sarcastic label
+3. rhetorical devices:
+   - hyperbole (""favourite day of the year"")
+   - exclamation for emphasis
+4. surface emotion:
+   - exaggerated enthusiasm
+5. keywords:
+   - ""favourite day""
+   - excessive exclamation marks
+
+Label:
+sarcastic"
+1,"Input: ""can't believe ash made this, too funny #tolo  #never  http://t.co/ln0hr11haq""
+
+Cues:
+1. context: the tweet refers to something made by ""ash"" and includes hashtags and a link.
+2. special symbols: hashtags (#tolo, #never) and a shortened url are present.
+3. common knowledge: ""can't believe"" often indicates surprise or disbelief.
+4. surface emotion: the phrase ""too funny"" suggests amusement.
+5. topic: the tweet is about a creation or content made by someone named ""ash.""
+
+Label:
+sarcastic"
+1,"Input: ""this sounds like loads of fun...  snow, freezing drizzle, rain, 110km/h winds... http://t.co/fea4pvmwlc""
+
+Cues:
+1. common knowledge: severe weather conditions like snow, freezing drizzle, rain, and high winds are generally considered unpleasant and dangerous.
+2. cultural background: the phrase ""loads of fun"" is often used sarcastically to describe situations that are actually unpleasant or tedious.
+3. rhetorical devices: 
+   - use of ellipsis (...) to create a pause for dramatic effect
+   - contrast between the positive phrase ""loads of fun"" and the list of negative weather conditions
+4. surface emotion: false enthusiasm, indicated by the use of ""sounds like loads of fun""
+5. emotional contrasts: the contrast between the seemingly positive opening statement and the list of harsh weather conditions creates a clear sarcastic tone.
+
+Label:
+sarcastic"
+1,"Input: ""@thereall_bray i mean that all matter this game""
+
+Cues:
+1. context: the tweet is directed at a specific user (@thereall_bray), suggesting a conversation or response.
+2. punctuation: lack of punctuation, especially a period at the end, may indicate casual or rushed communication.
+3. special symbols: the @ symbol is used for mentioning another user on social media platforms.
+4. emotional contrasts: the phrase ""all matter"" contrasts with the casual tone, potentially indicating sarcasm.
+5. rhetorical devices: the use of hyperbole (""all matter"") could be a sarcastic exaggeration.
+
+Label:
+sarcastic"
+1,"Input: ""@bungie @destinythegame thanks for plan c two weeks in a row! getting rid of exotic engrams is also an amazing move!""
+
+Cues:
+1. keywords:
+   - ""thanks"" (potentially insincere)
+   - ""two weeks in a row"" (repetition, possibly unwanted)
+   - ""getting rid of"" (negative action)
+   - ""amazing move"" (potentially insincere praise)
+2. punctuation:
+   - exclamation marks (!) used twice, possibly for emphasis or exaggeration
+3. rhetorical devices:
+   - irony: praising actions that are likely perceived as negative by the player
+4. emotional words:
+   - ""amazing"" (used sarcastically to express disappointment)
+5. special symbols:
+   - @ mentions: @bungie @destinythegame (directly addressing the game developers)
+
+Label:
+sarcastic"
+1,"Input: ""i'm seeing more and more people using the term #gamergate and i can't believe i'm going to say this but they're using it incorrectly""
+
+Cues:
+1. context: the tweet refers to #gamergate, a controversial online movement.
+2. common knowledge: gamergate was a complex and divisive topic, often misunderstood or misrepresented.
+3. cultural background: online discourse and hashtag usage are prevalent in social media culture.
+4. emotional words: ""i can't believe i'm going to say this"" expresses exasperation or disbelief.
+5. language style: informal, conversational tone typical of social media posts.
+
+Label:
+sarcastic"
+1,"Input: ""well, my nmu computer just took a poop on me :/ hopefully it will start back up later.. #whatdoiexpect #nmucomputersarethebest  :expressionless_face::unamused_face:""
+
+Cues:
+1. special symbols: "":/"" and emojis "":expressionless_face::unamused_face:"" indicate frustration and dissatisfaction.
+2. keywords: ""took a poop on me"" is a colloquial phrase expressing malfunction or failure.
+3. language style: informal and conversational, typical of social media posts.
+4. rhetorical devices: 
+   - irony in ""#nmucomputersarethebest"" contrasts with the described negative experience.
+   - rhetorical question in ""#whatdoiexpect"" implies a history of issues.
+5. emotional contrasts: feigned hope (""hopefully it will start back up later"") vs. clear frustration.
+
+Label:
+sarcastic"
+1,"Input: ""@bigjoeonthego #thingsbetterthantitansjags napalm hotwings #bigjoefavorite  love the show #keep it real""
+
+Cues:
+1. surface emotion: seemingly positive with phrases like ""love the show"" and ""#keep it real""
+2. context: discussing a football game (titans vs jags) and comparing it to other things
+3. emotional contrasts: juxtaposition of violent ""napalm"" with casual ""hotwings""
+4. language style: informal, hashtag-heavy, typical of social media
+5. keywords: ""napalm,"" ""hotwings,"" ""thingsbetterthantitansjags""
+
+Label:
+sarcastic"
+1,"Input: ""big thanks to my teachers for the four tests i have to take tomorrow #woohoo""
+
+Cues:
+1. punctuation: the use of all caps in ""four"" emphasizes the number of tests, suggesting exaggeration.
+2. common knowledge: students generally dislike having multiple tests on the same day, making the ""thanks"" seem insincere.
+3. rhetorical devices: the use of hyperbole in ""big thanks"" contrasts with the undesirable situation of having four tests.
+4. special symbols: the hashtag ""#woohoo"" is typically used to express excitement, but in this context, it's likely used ironically.
+5. cultural background: in academic settings, it's common for students to complain about heavy workloads and multiple tests.
+
+Label:
+sarcastic"

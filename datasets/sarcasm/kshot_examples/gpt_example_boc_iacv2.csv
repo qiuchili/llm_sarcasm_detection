@@ -1,0 +1,287 @@
+Label,Example
+0,"Input:
+i'm not aware that the police used violence in arresting any of the people discussed in this case. besides, i'm not discussing personal morality here, i'm discussing what should be legal, and what is practical in a society where not everyone shares the same moral views. government is there to apply limits to what is permitted, based on the will of the people.
+
+Cues:
+- **surface emotion:** the writer appears calm and rational, focusing on a reasoned discussion rather than expressing strong emotions or using exaggerated language.
+- **emotional contrasts:** there are no significant emotional contrasts in the text, which is generally even-toned and does not exhibit sudden shifts in emotional expression.
+- **cultural background:** the comments are situated within a democratic society that values rule of law and collective decision-making. the reference to ""the will of the people"" and a government applying limits suggests a western democratic context.
+- **keywords:** government, legal, practical, moral views, will of the people, not aware, police, violence, arresting.
+- **common knowledge:** in democratic societies, it is understood that legality and practicality often take precedence over individual moral views in forming laws, and that the government serves to implement the collective will through legal means.
+
+Label:
+not sarcastic"
+0,"Input:
+and if they are governed and regulated people can be victimized by the system. in fact, the regulation might be the very thing victimizing people. again, it isn't the system but the people who are in society that make a morality.
+
+Cues:
+1. **emotional words:**
+   - victimized
+   - morality
+
+   these words convey concern and seriousness rather than sarcasm.
+
+2. **cultural background:**
+   - the message appears to be a critique of regulatory systems and their impact on society, which is a topic of universal concern across many cultures, indicating earnestness and realism.
+
+3. **language style:**
+   - the style is straightforward and analytical, suggesting a genuine discussion on governance and regulations.
+   - the phrase ""in fact"" is used to emphasize a point, which indicates the speaker's intention to clarify rather than to mock.
+
+4. **special symbols:**
+   - none present that might indicate sarcasm.
+
+5. **context:**
+   - the discussion centers on the effects of regulations on people, highlighting issues like victimization and morality. the focus is on presenting an argument rather than mocking or ridiculing the subject.
+
+Label:
+not sarcastic"
+0,"Input:
+you know, that is one aspect of the story that no one ever seems to focus on when refuting the flood. i think it is an excellent extra point of refutation of the whole ridiculous story.
+
+Cues:
+1. **common knowledge**: public discussions on the flood story and its refutation are familiar within academic and skeptical communities.
+2. **punctuation**: standard use of punctuation without any excessive exclamations or unusual emphasis marks.
+3. **cultural background**: skepticism about certain historical or religious stories is a common cultural phenomenon, particularly within scientific and critical thinking circles.
+4. **emotional words**: words such as ""excellent"" and ""ridiculous"" convey strong opinions but do not suggest the speaker is mocking or being sarcastic about the subject.
+5. **keywords**: ""aspect,"" ""refuting,"" ""story,"" ""excellent,"" ""ridiculous""—focus on the logical discourse rather than a mocking tone.
+
+Label:
+not sarcastic"
+0,"Input:
+yes, i've noticed that. i do think part of the problem is that he hasn't bothered to get educated in the subject. from the arguments i've seen from him over the time he's been here he seems to rely on yec websites for information, and when he gets to something he doesn't know it seems like he cuts-and-pastes (often without fuly reading) from google (leading to the civil war dinosaur fiasco and the nazca stones fiasco) that seems to support his views
+
+Cues
+keywords: educated, arguments, yec websites, information, google, civil war dinosaur fiasco, nazca stones fiasco, support his views
+topic: critique of someone's understanding and methodology regarding a subject
+cultural background: online academic discussions, likely involving young earth creationism vs. scientific consensus debates
+language style: analytical, informative
+emotional words: none significant; the tone is more critical than emotional
+        
+Label:
+not sarcastic"
+0,"Input:
+yea the legalizatioin of drugs would cause an epedimic of problems. crime, suicide, mental health problems, and physical health problems.
+
+Cues:
+- **punctuation**: the input text uses a period after each sentence, which suggests a straightforward flow of information without any abrupt or ironic pauses.
+- **context**: the statement discusses the potential negative consequences of legalizing drugs in a serious manner.
+- **topic**: the topic is the legalization of drugs and its associated problems.
+- **special symbols**: there are no special symbols used, which indicates a lack of emphasis on particular words or phrases that might suggest sarcasm.
+- **emotional words**: words like ""epedimic"" (epidemic), ""problems"", ""crime"", ""suicide"", ""mental health problems"", and ""physical health problems"" are serious and convey a legitimate concern rather than sarcasm.
+
+Label:
+not sarcastic"
+0,"Input:
+same place. australia.   that, after 5 or 6 thousand illegal guns were just handed in during the last in a series of never-ending amnesties.
+
+Cues:
+language style: informative, factual.
+punctuation: uses periods, indicating a straightforward tone.
+special symbols: none.
+common knowledge: reference to australia's gun amnesty program.
+cultural background: australia experienced multiple gun amnesty programs aimed at reducing illegal firearms.
+
+Label:
+not sarcastic"
+0,"Input:
+actually, i've heard it all before and it is wrong. the article is full of misinformation and misrepresentation. it is, as you say, slanted rather than an honest report of the data.
+
+Cues:
+- common knowledge: the text discusses issues of misinformation and biased reporting, concepts generally known and understood by the public.
+- language style: the language is direct, assertive, and straightforward without using irony, exaggeration, or ridicule.
+- topic: the credibility of an article, focusing on misinformation and bias.
+- keywords: misinformation, misrepresentation, slanted, honest report.
+- cultural background: reflective of a culture that values accuracy and fairness in information dissemination. no indications of cultural sarcasm triggers.
+
+Label:
+not sarcastic"
+0,"Input:
+this is a very simple, easily answerable question. most people, especially in america, have problems with people telling them what to do. teenagers hate being under the authority of adults. adults hate being under the authority of the government and enforcers of the law. everyone in the world is under worldly authority, but to actually have a god who created you, which gives him the right to make commandments stating what is good for you and what is not, that makes most people really xxxxxx off.
+
+Cues:
+- cultural background: the text references common social dynamics in america, including attitudes toward authority by teenagers, adults, and the broader population.
+- emotional words: ""hate,"" ""really xxxxxx off"" (implies strong negative emotions).
+- topic: the nature of authority and people’s reactions to it, particularly in the context of religious and worldly command structures.
+- context: discussing societal and individual reactions to different types of authority figures, especially contrasting secular and divine authority.
+- surface emotion: frustration and resentment toward authority.
+
+Label:
+not sarcastic"
+0,"Input:
+this is true from the atheistic and secular humanist perspective since they will grasp at any natural explanation, no matter how flimsy and shallow rather than the spiritual explanation. but it doesn't answer the specific question i asked at all.
+
+Cues:
+- **topic**: atheism vs. spiritual explanations in addressing a specific question.
+- **language style**: formal and serious.
+- **keywords**: atheistic, secular humanist perspective, natural explanation, spiritual explanation, specific question.
+- **special symbols**: none.
+- **emotional contrasts**: the text contrasts the eagerness of atheists and secular humanists to accept natural explanations with the failure of these explanations to address a specific question. however, the tone remains direct and factual without elements of irony or mockery.
+
+Label:
+not sarcastic"
+0,"Input:
+well said. with this religion, the gap is very wide between the ""average guy"" and ""authority"", because their clergy is more involved in politics than the clergy of christianity, or the creator himself. it fits with more democrats being evolutionists, and more democrats favoring bigger domestic government.
+
+Cues:
+1. **cultural background**: this text references specific cultural aspects related to religion and political affiliations, indicating knowledge about religious practices and political tendencies.
+2. **punctuation**: there is standard punctuation, such as commas and quotation marks, which do not suggest sarcasm.
+3. **common knowledge**: the statements reflect widely discussed topics about religious clergy involvement in politics and general political tendencies among democrats.
+4. **emotional words**: the text does not contain overly emotional words; it’s more explanatory and factual.
+5. **emotional contrasts**: there is no stark juxtaposition of emotions that typically signal sarcasm.
+
+Label:
+not sarcastic"
+1,"Input:
+actually, i read that the god of the bible was really a macaroni monster. he likes cheese, too.
+
+Cues:
+1. **emotional contrasts:** the statement presents a humorous and mocking contrast by equating the revered deity with a ""macaroni monster,"" which is absurd and trivializes the seriousness associated with religious concepts.
+2. **special symbols:** the use of ""macaroni monster"" and ""he likes cheese, too"" are symbolic of something nonsensical and playful, undermining the expectation of a serious discussion about a religious figure.
+3. **context:** the context of discussing the god of the bible sets an expectation of a solemn or respectful tone. the abrupt shift to an absurd comparison creates a jarring and humorous contrast.
+4. **cultural background:** the text leverages familiar western religious concepts and juxtaposes them with modern, ridiculous imagery (a macaroni monster), which would be recognizable and thus evoke a stronger reaction from those acquainted with these cultural and religious backgrounds.
+5. **language style:** the casual and exaggerated language (""really a macaroni monster,"" ""likes cheese, too"") suggests a playful and mocking tone rather than a serious or genuine statement.
+
+Label:
+sarcastic"
+1,"Input:
+oh, i see. so america does not care for the rights of the people? america cares only for the opinion of the majority? hrm, that's funny. i fail to remember learning that part in all my us history classes. when did the founding fathers say that? where in the constitution, the declaration of independence, or the bill of rights might i find such a notion?
+
+Cues:
+1. **topic:**
+   - rights of the people vs. opinion of the majority
+   - us history and foundational documents (constitution, declaration of independence, bill of rights)
+2. **special symbols:**
+   - none
+3. **emotional words:**
+   - ""funny"" (used in a dismissive, mocking tone)
+4. **rhetorical devices:**
+   - rhetorical questions to suggest absurdity: ""so america does not care for the rights of the people?"", ""america cares only for the opinion of the majority?"", ""when did the founding fathers say that?""
+   - irony: the statement ""hrm, that's funny"" implies disbelief and contradiction to the user's understanding of historical teachings.
+5. **punctuation:**
+   - question marks (?): multiple rhetorical questions to emphasize the point
+   - period (.) and commas (,) to structure thoughts and imply a tone of skepticism and ridicule.
+
+Label:
+sarcastic"
+1,"Input:**  
+doesn't surprise me lets all jump ship and put our heads in the sand... even more of a reason i should run for public office :p
+
+Cues:
+**language style:** informal, colloquial, uses idiomatic expressions and internet shorthand (e.g., "":p"" emoji).
+**cultural background:** likely from a culture familiar with english idioms, modern political discourse, and internet slang.
+**keywords:** ""doesn't surprise me,"" ""jump ship,"" ""put our heads in the sand,"" ""run for public office,"" "":p""
+**surface emotion:** disillusionment, cynicism, light-heartedness evidenced by the "":p"" emoji.
+**context:** the speaker is commenting on a lack of surprise in a situation, likely related to politics or societal behavior, and facetiously suggests a solution, highlighting the absurdity of the situation by mentioning their own candidacy for public office.
+
+Label:
+sarcastic"
+1,"Input:
+was that so hard? anti gay christians do want gays to oppose their, marriages, discriminate against them, oppose christians from being able to adopt, and practice thier religion. since anti gay christians are doing all these things to gay people then that is how they want gay people to treat christians.
+
+Cues:
+1. **rhetorical devices**:
+   - **rhetorical question**: ""was that so hard?"" the question is designed to imply that the actions of anti-gay christians are hypocritically simple to reverse.
+   - **irony**: the statement about anti-gay christians wanting gays to oppose their marriages and discriminate against them is ironic, as it highlights the inconsistency and hypocrisy in anti-gay actions.
+2. **cultural background**:
+   - the text refers to contemporary issues around lgbtq+ rights and christian beliefs. the tension between these groups is well-known in modern western sociopolitical discussions.
+3. **common knowledge**:
+   - it's commonly known that there are conflicts between some christian groups and lgbtq+ individuals, often revolving around rights, marriage, and discrimination.
+4. **special symbols**:
+   - no special symbols are used directly in the text, but the structure and punctuation, particularly the rhetorical question, contribute to the sarcastic tone.
+5. **context**:
+   - the context is a critique of anti-gay christian behavior by suggesting that if such christians faced the same treatment they impose on lgbtq+ individuals, they would realize the injustice and harm.
+
+Label:
+sarcastic"
+1,"Input:
+even if winnie the poo could read he simply doesn't have the brain power to comprehend.
+
+Cues:
+- **cultural background:** 
+  the character ""winnie the pooh"" is well-known from a.a. milne's children's books and disney adaptations. the character is portrayed as a lovable but simple-minded bear who often gets into silly situations.
+- **keywords:** 
+  ""winnie the poo"", ""read"", ""brain power"", ""comprehend""
+- **special symbols:**
+  none.
+- **context:**
+  the sentence implies an assumption about winnie the pooh's intellectual abilities, suggesting that even if he could read, he wouldn't understand the material.
+- **emotional words:**
+  ""brain power"", ""comprehend""
+
+Label:
+sarcastic"
+1,"Input: 
+you could probably use it since in all likelihood you know absolutely nothing about it.
+
+Cues:
+- punctuation: the sentence ends with a period.
+- cultural background: this type of comment is often used in western cultures where sarcasm is a common form of humor or criticism.
+- keywords: ""probably,"" ""in all likelihood,"" ""absolutely nothing.""
+- emotional words: ""absolutely nothing"" implies a critique or belittlement.
+- surface emotion: the sentence superficially appears to offer advice, but the underlying intent seems to criticize the other person's knowledge.
+
+Label:
+sarcastic"
+1,"Input:
+make sure you clap when our defense is gutted and we can't adequately defend our own liberty. turkey. you don't have an ounce of common sense.
+
+Cues:
+**emotional contrasts:**
+- the sentence conveys disapproval and frustration, but it's framed in a mockingly supportive way (""make sure you clap"").
+
+**keywords:**
+- ""make sure you clap"": pointing out an absurd reaction to a negative scenario.
+- ""our defense is gutted"": indicates a critical issue.
+- ""we can't adequately defend our own liberty"": emphasizes the severity of the situation.
+- ""turkey"": insult suggesting stupidity.
+
+**cultural background:**
+- in western cultures, clapping is typically seen as approval or praise, so asking someone to clap for something negative implies sarcasm.
+
+**rhetorical devices:**
+- **sarcasm**: the entire sentence is built on the premise of sarcasm, using positive actions (clapping) to highlight negative outcomes.
+- **irony**: there's a clear contrast between the expected reaction (concern or opposition) and the suggested reaction (clapping).
+
+**language style:**
+- the language used is informal and colloquial, suitable for expressing frustration and mockery.
+- direct insults like ""turkey"" and ""you don't have an ounce of common sense"" add to the sarcastic tone.
+
+Label:
+sarcastic"
+1,"Input:
+except for other inmates, guards, medical staff, etc. and no...nobody has ever escaped from prison and killed again...no...that wouldn't happen.
+
+Cues:
+- topic: prison security and inmate behavior.
+- emotional words: none overtly emotional but a tone of skepticism and disbelief is evident.
+- punctuation: extensive use of ellipses and repetition of ""no."" these suggest a mocking or disbelieving tone.
+- keywords: ""inmates,"" ""guards,"" ""escape,"" ""killed.""
+- emotional contrasts: the phrasing ""no...that wouldn't happen"" heavily implies that the speaker actually means the opposite, showcasing a contrast between the literal meaning and the intended sarcastic message.
+
+Label:
+sarcastic"
+1,"Input:
+i guess cheer leaders are the new tough guys and gals!
+
+Cues:
+1. **special symbols:** none
+2. **topic:** cheerleaders and toughness
+3. **language style:** casual, with use of the phrase ""i guess,"" which often implies doubt or incredulity.
+4. **emotional words:** ""tough guys and gals"" contrasts with the stereotypical perception of cheerleaders as not particularly tough.
+5. **context:** the statement implies a juxtaposition, as cheerleaders are not typically seen as ""tough guys.""
+
+Label:
+sarcastic"
+1,"Input:
+it's only obvious to the delusional ones, as i did not lift it from anyone. just stating the truth. if it hurts, tough.
+
+Cues:
+- **topic:** defense against an accusation.
+- **keywords:** obvious, delusional, did not lift, truth, hurts, tough.
+- **emotional words:** delusional, hurts, tough.
+- **language style:** condescending, defensive, dismissive.
+- **context:** the speaker is responding to an accusation or misunderstanding and employs dismissive and defensive language, suggesting that any offense taken is the accuser's problem.
+
+Label:
+sarcastic"

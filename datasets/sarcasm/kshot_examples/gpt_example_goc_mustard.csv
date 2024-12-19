@@ -1,0 +1,349 @@
+Example,Label
+"input:
+chandler: no, no, i am just looking for a man to draw on me with chalk.
+
+steps:
+yes
+
+label:
+### label:
+sarcastic",1
+"input:
+monica: alright, i'm gonna go pick up a few things for the trip.
+
+steps:
+no
+next_cue_response:keywords
+no
+next_cue_response:emotional contrasts
+no
+next_cue_response:rhetorical devices
+no
+next_cue_response:topic
+no. the provided cues indicate that the text is straightforward and lacks explicit emotional contrasts or rhetorical devices that are typically associated with sarcasm. therefore, these cues are not sufficient to detect the sarcastic polarity of the text.
+next_cue_response:common knowledge
+no. the provided cues indicate that the text is straightforward and lacks explicit emotional contrasts or rhetorical devices that are typically associated with sarcasm. therefore, the cues are sufficient to determine that the text does not exhibit sarcastic polarity.
+next_cue_response:language style
+no. the provided cues indicate that the text is straightforward and lacks explicit emotional contrasts, rhetorical devices, or conflicting emotions that are typically associated with sarcasm. therefore, the cues are not sufficient to detect sarcastic polarity in the text.
+next_cue_response:emotional words
+no. the provided cues indicate that the text is straightforward and lacks explicit emotional contrasts, rhetorical devices, or conflicting emotions that are typically associated with sarcasm. therefore, these cues are not sufficient to detect sarcastic polarity in the text.
+next_cue_response:punctuation
+
+label:
+not sarcastic",0
+"input:
+leonard: also instead of just living in your mother's house, you could actually live inside her body.
+
+steps:
+no
+next_cue_response:context
+no
+next_cue_response:rhetorical devices
+yes. the cues provided, such as the use of hyperbole and the absurdity of the suggestion, are sufficient to detect the sarcastic polarity of the text. leonard's exaggerated statement about living inside someone's body instead of just their house clearly indicates a humorous and sarcastic tone.
+
+label:
+### label:
+sarcastic",1
+"input:
+howard: how about you? did you have a fun night? yeah, we, uh, made gift bags, had wine, and then went online and saw this.
+
+steps:
+no.
+next_cue_response:keywords
+no
+next_cue_response:emotional contrasts
+no. the given cues are not sufficient to definitively detect the sarcastic polarity of the text. while there is a contrast between the activities described and the potential surprise or unsettling experience of seeing something online, the text does not provide enough context or explicit indicators of sarcasm.
+next_cue_response:rhetorical devices
+no. the cues provided do not clearly indicate sarcasm. the description of the activities (making gift bags, having wine, and going online) is straightforward and lacks explicit rhetorical devices or tonal indicators that would suggest a sarcastic polarity.
+next_cue_response:common knowledge
+no. the cues provided do not clearly indicate sarcasm. the description of the activities (making gift bags, having wine, and going online) is straightforward and lacks explicit rhetorical devices or tonal indicators that would suggest a sarcastic polarity.
+next_cue_response:language style
+no. the cues provided do not clearly indicate sarcasm. the description of the activities (making gift bags, having wine, and going online) is straightforward and lacks explicit markers of sarcasm such as exaggerated tone, irony, or context that would suggest a sarcastic intent. the text appears to be a simple recounting of events without clear indicators of sarcastic polarity.
+next_cue_response:topic
+no. the cues provided are not sufficient to definitively detect the sarcastic polarity of the text. while there is a potential contrast between the activities described and the phrase ""saw this,"" the lack of explicit rhetorical devices and the straightforward, conversational language make it difficult to ascertain sarcasm with high confidence.
+next_cue_response:emotional words
+no. 
+
+the cues provided do not clearly indicate sarcasm. the description of the activities (making gift bags, having wine, and going online) could be interpreted as either genuinely enjoyable or sarcastically mundane, depending on the context and tone, which are not explicitly provided here. without more context or explicit rhetorical devices, it is difficult to definitively determine the sarcastic polarity of the text.
+next_cue_response:punctuation
+
+label:
+sarcastic",1
+"input:
+chandler: oh i left them in my bulldozer .. i don't have tools!
+
+steps:
+no
+next_cue_response:context
+yes
+
+label:
+sarcastic",1
+"input:
+person: i'm the supply manager.
+
+steps:
+no
+next_cue_response:context
+no
+next_cue_response:punctuation
+no
+next_cue_response:keywords
+no
+next_cue_response:rhetorical devices
+no
+next_cue_response:language style
+no
+next_cue_response:common knowledge
+no
+next_cue_response:emotional contrasts
+no.
+next_cue_response:topic
+
+label:
+        not sarcastic",0
+"input:
+sheldon: if you're compiling a mix cd for a double suicide. oh, i hope that scratching post is for you.
+
+steps:
+no
+next_cue_response:context
+yes
+
+label:
+sarcastic",1
+"input:
+howard: smart. whisper so the deaf chick can't hear you.
+
+steps:
+yes
+
+label:
+### label:
+sarcastic",1
+"input:
+sheldon: oh, i see why you're confused. no, her news sounded important, but what you're forgetting is, it was an achievement in the field of biology. that's all about yucky, squishy things.
+
+steps:
+yes
+
+label:
+sarcastic",1
+"input:
+chandler: i just have to do one thing, really quickly, its not a big thing  ...  get up||
+
+steps:
+no
+next_cue_response:context
+no
+next_cue_response:keywords
+no
+next_cue_response:rhetorical devices
+yes. the cues provided, such as the use of hyperbole and the contrast between the downplaying of the task and the exaggerated urgency, are sufficient to detect the sarcastic polarity of the text.
+
+label:
+        sarcastic",1
+"input:
+person: why don't you ask scotty to beam you up?
+
+steps:
+no.
+next_cue_response:context
+yes. the cues provided, such as the informal and conversational language style, the playful and humorous tone, and the reference to popular culture (""scotty"" and ""beam you up"" from star trek), are sufficient to detect the sarcastic polarity of the text. the phrase ""why don't you ask scotty to beam you up?"" is used humorously or metaphorically, suggesting an easy or fantastical solution to a problem, which is a common characteristic of sarcasm.
+
+label:
+sarcastic",1
+"input:
+joey: take a couple deep breaths.
+
+steps:
+no
+next_cue_response:context
+no
+next_cue_response:keywords
+no
+next_cue_response:emotional contrasts
+no
+next_cue_response:rhetorical devices
+no. the given cues do not provide sufficient information to detect the sarcastic polarity of the text. the text ""joey: take a couple deep breaths."" is straightforward and lacks explicit rhetorical devices or context that would indicate sarcasm.
+next_cue_response:topic
+no. the provided cues do not indicate any clear signs of sarcasm. the text ""joey: take a couple deep breaths."" is straightforward and lacks explicit rhetorical devices or contextual hints that would suggest a sarcastic tone.
+next_cue_response:common knowledge
+no. the provided cues do not indicate any clear signs of sarcasm. the text ""joey: take a couple deep breaths."" appears to be a straightforward directive or piece of advice without any explicit rhetorical devices or context that would suggest a sarcastic tone.
+next_cue_response:emotional words
+no. the provided cues do not offer sufficient information to detect the sarcastic polarity of the text. the text ""joey: take a couple deep breaths."" is straightforward and lacks explicit indicators of sarcasm, such as exaggerated tone, context of irony, or contradictory statements.
+next_cue_response:punctuation
+
+label:
+        not sarcastic",0
+"input:
+phoebe: yeah. yeah, that's what you need a good .. pill.
+
+steps:
+no
+next_cue_response:context
+no
+next_cue_response:emotional words
+no
+next_cue_response:rhetorical devices
+yes. the cues provided, including the context of phoebe's response, the use of the word ""good"" in a potentially mocking manner, and the overall tone suggesting sarcasm, are sufficient to detect the sarcastic polarity of the text.
+
+label:
+        sarcastic",1
+"input:
+person: ross umm, there's something that i've got to tell you, there's-there's someone else.
+
+steps:
+no
+next_cue_response:context
+no
+next_cue_response:rhetorical devices
+no
+next_cue_response:emotional contrasts
+no. the provided cues focus on the emotional contrast, rhetorical device, and the context of ross informing someone about another person in his life. however, they do not provide sufficient information to determine the sarcastic polarity of the text. sarcasm often relies on tone, context, and additional cues that are not explicitly mentioned here.
+next_cue_response:language style
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text. the analysis focuses on ross's hesitation and the emotional contrast between his initial nervousness and the eventual revelation of a difficult truth. however, it does not provide any clear indicators of sarcasm, such as exaggerated tone, context that contradicts the literal meaning, or other linguistic markers typically associated with sarcasm. therefore, without additional context or cues, it is not possible to confidently determine if the text is sarcastic.
+next_cue_response:common knowledge
+no. the provided cues do not offer sufficient information to definitively detect the sarcastic polarity of the text. the cues describe the emotional contrast, language style, and rhetorical device used, but they do not provide clear indicators of sarcasm, such as tone, context, or specific linguistic markers that are typically associated with sarcasm.
+next_cue_response:topic
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text. the cues indicate hesitation, nervousness, and a difficult revelation, but they do not provide clear evidence of sarcasm. sarcasm typically involves a tone or context that suggests the speaker means the opposite of what they are saying, which is not evident from the given information.
+next_cue_response:emotional words
+no. 
+
+the provided cues do not sufficiently indicate the sarcastic polarity of the text. the cues describe the emotional contrast, language style, and topic, but they do not provide clear evidence of sarcasm. sarcasm typically involves a tone or context that suggests the speaker means the opposite of what they are saying, often with a mocking or ironic intent. the cues here suggest hesitation and a difficult revelation, but not necessarily sarcasm.
+next_cue_response:punctuation
+
+label:
+### label:
+not sarcastic",0
+"input:
+sheldon: my aunt marion gave them to me for my 12th birthday.
+
+steps:
+no
+next_cue_response:keywords
+no
+next_cue_response:emotional contrasts
+no. the provided cues and the input text do not offer sufficient information to detect the sarcastic polarity. the statement is neutral and lacks explicit emotional contrasts or indicators of sarcasm.
+next_cue_response:rhetorical devices
+no, the given cues are not sufficient to detect the sarcastic polarity of the text. the information provided is straightforward and lacks any explicit emotional contrasts or indicators of sarcasm. the text simply recounts a factual event without any additional context that would suggest a sarcastic tone.
+next_cue_response:topic
+no. the provided cues do not indicate any explicit emotional contrasts or context that would suggest sarcasm. the text simply states a factual anecdote about sheldon receiving a gift from his aunt marion for his 12th birthday. without additional context or tonal indicators, it is not possible to determine sarcastic polarity with sufficient certainty.
+next_cue_response:common knowledge
+no. the provided cues do not offer sufficient information to detect the sarcastic polarity of the text. the text simply states a factual event without any explicit emotional contrasts or indicators of sarcasm.
+next_cue_response:language style
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text. the text simply states a factual event without any explicit emotional contrasts or indicators of sarcasm.
+next_cue_response:emotional words
+no. the provided cues do not offer sufficient information to detect the sarcastic polarity of the text. the text simply states a fact about sheldon receiving a gift from his aunt marion for his 12th birthday without any explicit emotional contrasts or indicators of sarcasm.
+next_cue_response:punctuation
+
+label:
+not sarcastic",0
+"input:
+ross: oh my god, wh-what happened?
+
+steps:
+no
+next_cue_response:context
+no
+next_cue_response:language style
+no
+next_cue_response:keywords
+no
+next_cue_response:rhetorical devices
+no. the provided cues indicate surprise, shock, and concern, but they do not provide sufficient information to determine whether the text is sarcastic. sarcasm often relies on additional context, tone, and situational cues that are not present in the given information.
+next_cue_response:common knowledge
+no. the provided cues indicate that ross is expressing genuine surprise and concern, but they do not provide sufficient information to determine if the statement is sarcastic. sarcasm often relies on additional context, tone of voice, or situational irony, none of which are clearly present in the given cues.
+next_cue_response:emotional contrasts
+no. the provided cues indicate that ross is expressing surprise, shock, and concern, but they do not provide sufficient information to determine whether the statement is sarcastic. sarcasm often relies on additional context, tone of voice, or situational irony, none of which are clearly indicated in the given cues.
+next_cue_response:topic
+no. the provided cues indicate that ross is expressing surprise, shock, or concern, but they do not provide sufficient information to determine whether the statement is sarcastic. sarcasm often relies on additional context, tone, or prior knowledge of the situation, which is not available in the given cues.
+next_cue_response:punctuation
+
+label:
+not sarcastic",0
+"input:
+joey: well, i like it. here you go.
+
+steps:
+no
+next_cue_response:keywords
+no
+next_cue_response:emotional contrasts
+no
+next_cue_response:rhetorical devices
+no. the given cues are not sufficient to detect the sarcastic polarity of the text. the text is straightforward and lacks explicit rhetorical devices or clear indicators of sarcasm.
+next_cue_response:topic
+no.
+next_cue_response:common knowledge
+no. the provided cues do not clearly indicate sarcasm. joey's statement ""well, i like it. here you go."" appears straightforward and lacks explicit markers of sarcasm such as exaggerated tone, context of contradiction, or rhetorical devices.
+next_cue_response:language style
+no.
+next_cue_response:emotional words
+no. the given cues are not sufficient to detect the sarcastic polarity of the text. the text is straightforward and lacks explicit indicators of sarcasm, such as exaggerated tone, context, or rhetorical devices.
+next_cue_response:punctuation
+
+label:
+not sarcastic",0
+"input:
+phoebe: yeah?
+
+steps:
+no
+next_cue_response:context
+no.
+next_cue_response:keywords
+no
+next_cue_response:rhetorical devices
+no. the given cues are not sufficient to detect the sarcastic polarity of the text. the single word ""yeah?"" spoken by phoebe lacks context, emotional tone, and additional conversational details that are typically necessary to identify sarcasm.
+next_cue_response:common knowledge
+no. the given cues are not sufficient to detect the sarcastic polarity of the text. the single word ""yeah?"" spoken by phoebe lacks context, emotional tone, and additional conversational details that are necessary to accurately determine whether it is sarcastic or not.
+next_cue_response:emotional contrasts
+no. the cues provided are insufficient to detect the sarcastic polarity of the text. the single word ""yeah?"" spoken by phoebe lacks context, emotional contrasts, and rhetorical devices that could help determine whether it is sarcastic or not.
+next_cue_response:topic
+no. the given cues are insufficient to detect the sarcastic polarity of the text. the phrase ""phoebe: yeah?"" is too brief and lacks the necessary context to determine whether it is being used sarcastically or sincerely. additional context, such as the preceding dialogue, tone of voice, or situational background, would be required to make a more accurate judgment.
+next_cue_response:punctuation
+no. the cues provided are insufficient to detect the sarcastic polarity of the text. the phrase ""phoebe: yeah?"" is too brief and lacks the necessary context to determine whether it is meant sarcastically or sincerely. additional context, such as the preceding dialogue, tone of voice, or situational context, would be required to make a more accurate judgment.
+next_cue_response:language style
+
+label:
+not sarcastic",0
+"input:
+person: yes it is.
+
+steps:
+no
+next_cue_response:context
+no
+next_cue_response:language style
+no
+next_cue_response:keywords
+no
+next_cue_response:rhetorical devices
+no. the given cues are not sufficient to detect the sarcastic polarity of the text. the phrase ""yes it is"" is straightforward and lacks explicit emotional words, rhetorical devices, or additional context that would indicate sarcasm. sarcasm often relies on tone, context, and additional cues that are not present in the provided text.
+
+label:
+not sarcastic",0
+"input:
+person: whoa, whoa, whoa.
+
+steps:
+no
+next_cue_response:context
+no
+next_cue_response:emotional contrasts
+no. the provided cues indicate surprise or alarm but do not provide enough context to determine if the text is sarcastic.
+next_cue_response:keywords
+no. the provided cues indicate that the text expresses surprise or alarm, but they do not provide sufficient information to determine whether the surprise or alarm is genuine or sarcastic. the repetition of ""whoa"" could be used in both sincere and sarcastic contexts, and without additional context or cues, it is not possible to accurately detect the sarcastic polarity of the text.
+next_cue_response:rhetorical devices
+no. the provided cues indicate that the phrase ""whoa, whoa, whoa"" suggests surprise, shock, or a need to pause and reassess a situation. however, these cues do not provide sufficient information to determine the sarcastic polarity of the text. sarcasm often relies on additional context, tone, and situational cues that are not present in the given information.
+next_cue_response:topic
+no.
+next_cue_response:common knowledge
+no. the cues provided indicate that the phrase ""whoa, whoa, whoa"" is an exclamation used to express surprise, shock, or a request for someone to stop or slow down. however, without additional context, it is not possible to determine whether the exclamation is being used sarcastically or sincerely. therefore, the cues are insufficient to detect the sarcastic polarity of the text.
+next_cue_response:emotional words
+no.
+next_cue_response:punctuation
+
+label:
+not sarcastic",0

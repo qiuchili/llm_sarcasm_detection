@@ -1,0 +1,358 @@
+Label,Example
+0,"Input: ""actually, i believe it was a reagan policy continued by both bushes.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears neutral to slightly informative. the use of ""actually"" suggests a correction or clarification. there are no overtly emotional or sentimental words or phrases.
+
+step 2: true intention
+the statement seems to be a straightforward factual claim or correction about a policy's origin and continuation. there's no apparent use of rhetorical devices or unusual language style that would suggest a hidden meaning.
+
+step 3: comparison and analysis
+the surface sentiment aligns with the apparent true intention. the statement is presenting information in a direct manner without any detectable irony or contradiction between what is said and what is meant.
+
+Label:
+not sarcastic"
+0,"Input: ""your use of the word ""replace"" reveals your ignorance of evolution.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment is negative and critical. key phrases like ""reveals your ignorance"" indicate a direct criticism of the addressee's understanding.
+
+step 2: true intention
+the true intention appears to be a straightforward critique of someone's misuse or misunderstanding of evolutionary concepts. the speaker is directly pointing out what they perceive as a flaw in the other person's argument or knowledge.
+
+step 3: comparison and analysis
+the surface sentiment and true intention align in this case. there's no apparent irony, exaggeration, or mismatch between what is said and what is meant. the statement is a direct, albeit harsh, criticism.
+
+Label:
+not sarcastic"
+0,"Input: [the provided text about biological reproduction and sexual activities]
+
+Steps:
+step 1: surface sentiment
+the text appears to be a serious, though controversial, discussion about biological reproduction and sexual activities. the tone is direct and argumentative, with phrases like ""be cynical if you want"" and ""i understand that female biology undergoes trauma too."" there are no obvious sarcastic keywords or emojis present.
+
+step 2: true intention
+the author seems to be genuinely expressing their views on the biological aspects of reproduction and comparing different types of sexual activities. they are attempting to make a point about the importance of penile-vaginal sex for human existence and discussing the physical effects of various sexual activities. the language style is straightforward and explanatory, without apparent irony or hidden meaning.
+
+step 3: comparison and analysis
+the surface sentiment and true intention align in this case. the author is presenting their argument in a direct manner, without employing sarcasm or irony to convey their point. the text, while potentially offensive or controversial to some readers, does not show signs of sarcastic intent.
+
+Label:
+not sarcastic"
+0,"Input: ""this is my understanding as well. interestingly, concepts only approximate that which they intend to define. confusion between concept and actuality is fertile ground for misunderstanding.""
+
+Steps:
+step 1: surface sentiment
+- the tone appears thoughtful and analytical
+- uses words like ""interestingly"" which suggests genuine engagement
+- no overtly emotional or exaggerated language
+
+step 2: true intention
+- the statement seems to be a sincere reflection on the nature of concepts and understanding
+- the language is academic and philosophical in style
+- there's no apparent contradiction or irony between what's said and what's meant
+
+step 3: comparison and analysis
+- the surface sentiment and true intention align
+- there's no detectable mismatch between literal meaning and intended meaning
+- the statement appears to be a straightforward expression of an intellectual observation
+
+Label:
+not sarcastic"
+0,"Input: ""well . . . one could make that argument about anything--voting for instance. amendments are created by voting, and people and legislatures vote (hopefully) their conscience (and the will of their constituents), even if they are religious. i think this is a different matter than, say, displaying religious icons on courtroom walls or grounds, which is a clear endorsement of religion by the government. the 18th amendment was religion-motivated, but it didn't get rescinded for that reason. it got rescinded because it didn't work practically. (and because fdr wanted to see the returns on the economy for his new deal)""
+
+Steps:
+step 1: surface sentiment
+the text appears to be a thoughtful, analytical discussion. there are no extreme emotional words or phrases that might indicate sarcasm. the tone is measured and explanatory, using phrases like ""one could make that argument,"" ""i think this is a different matter,"" and providing historical context.
+
+step 2: true intention
+the author seems to be genuinely explaining their perspective on the relationship between religion and government policies. they differentiate between religious influence in voting and direct government endorsement of religion. the historical example of the 18th amendment is used to illustrate the point, showing a nuanced understanding of the topic.
+
+step 3: comparison and analysis
+the surface sentiment and true intention align in this case. there are no contradictions or exaggerations that would suggest sarcasm. the text maintains a consistent, informative tone throughout.
+
+Label:
+not sarcastic"
+0,"Input: the provided example text discussing the consequences of state recognition of gay marriages.
+
+Steps:
+step 1 (surface sentiment):
+the text presents a series of negative consequences that followed the recognition of gay marriages in a state. the tone appears critical of this recognition and its political fallout. key phrases like ""democrats lost more seats,"" ""minority democratic leader was defeated,"" and ""fell under a slew of legal challenges"" indicate a negative sentiment towards the outcomes.
+
+step 2 (true intention):
+the author seems to be genuinely listing historical events and consequences that occurred after gay marriage recognition. the language is direct and factual, without obvious exaggeration or irony. the concluding statements appear to be sincere warnings about potential consequences of pushing for gay marriage through judicial means.
+
+step 3 (comparison and analysis):
+the surface sentiment and the true intention align in this case. the author is presenting what they believe to be factual consequences and offering a straightforward opinion on the matter. there are no apparent contradictions between the literal meaning and the intended meaning that would suggest sarcasm.
+
+Label:
+not sarcastic"
+0,"Input: ""well said.   with this religion, the gap is very wide between the ""average guy"" and ""authority"", because their clergy is more involved in politics than the clergy of christianity, or the creator himself. it fits with more democrats being evolutionists, and more democrats favoring bigger domestic government.""
+
+Steps:
+step 1: surface sentiment
+- the opening phrase ""well said"" indicates agreement or approval.
+- the rest of the statement appears to be presenting observations about a religion, its clergy, and political alignments.
+- there are no obvious sarcastic keywords, exaggerated phrases, or emojis that would immediately suggest sarcasm.
+
+step 2: true intention
+- the statement seems to be making a genuine observation about the hierarchy within a particular religion.
+- it draws comparisons between this religion's clergy and that of christianity.
+- the author appears to be sincerely linking these religious observations to political tendencies of democrats.
+- there's no apparent use of irony, hyperbole, or other rhetorical devices that would suggest a hidden meaning.
+
+step 3: comparison and analysis
+- the surface sentiment and the true intention appear to align.
+- there's no discrepancy between what is said and what is meant that would indicate sarcasm.
+- the statement, while potentially controversial, seems to be a straightforward expression of the author's views.
+
+Label:
+not sarcastic"
+0,"Input: ""stop trying to muddy the waters. i asked you to back up your claim that gun control is racist. that is not asking others to do my work for me. that is asking you to back up a claim that you made.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears direct and confrontational. key phrases like ""stop trying to muddy the waters"" and ""back up your claim"" indicate frustration and a demand for evidence. the tone is assertive and challenging.
+
+step 2: true intention
+the true intention aligns closely with the surface sentiment. the speaker is genuinely asking for evidence to support a claim about gun control being racist. they are clarifying their position and rejecting an apparent accusation of asking others to do their work.
+
+step 3: comparison and analysis
+there is no discrepancy between the surface sentiment and the true intention. the language is straightforward, without any ironic twists or exaggerations that might suggest sarcasm. the speaker is being direct in their communication and sincere in their request for supporting evidence.
+
+Label:
+not sarcastic"
+0,"Input: ""this is why people shouldn't have opinions, rather facts. opinions should remain neutral untill sufficient objective evidence can be gathered. when people run off having ""opinions,"" they cause trouble.the fact that someone doesn't do or believe what he is selling doesn't affect the validity of the argument. there are teachers who don't believe in evolution, yet they teach it because it's standardized.you have people who promote an idea because it's popular, because of convention, or because someone tells them to.someone can be saying something, believing something else, yet be totally wrong. their belief isn't the fact.""
+
+Steps:
+step 1: surface sentiment
+the text appears to be a serious discussion about the importance of facts over opinions. key phrases like ""people shouldn't have opinions, rather facts,"" ""opinions should remain neutral,"" and ""their belief isn't the fact"" indicate a straightforward, earnest tone.
+
+step 2: true intention
+the author seems genuinely concerned about the spread of uninformed opinions and the potential problems they can cause. the examples provided (teachers teaching evolution despite personal beliefs, people promoting popular ideas) are used to support the main argument. there are no obvious rhetorical devices or stylistic choices that suggest an underlying sarcastic tone.
+
+step 3: comparison and analysis
+the surface sentiment and the true intention align closely. the text maintains a consistent argumentative style throughout, without any sudden shifts in tone or contradictory statements that might indicate sarcasm. the examples given are used to reinforce the main point rather than to undermine it.
+
+Label:
+not sarcastic"
+0,"Input: ""i do not believe that the supreme court adressed the the problem of convicted fellons having the death penelty reduced to life in prison and going on to kill in prison.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears to be one of concern or disagreement. key phrases like ""i do not believe"" and ""the problem of"" indicate a serious tone and negative sentiment towards the described situation.
+
+step 2: true intention
+the true intention seems to align with the surface sentiment. the statement appears to be a straightforward expression of the author's opinion on a complex legal and social issue. there are no apparent rhetorical devices or stylistic choices that suggest a hidden meaning or sarcastic tone.
+
+step 3: comparison and analysis
+comparing steps 1 and 2, there is no discrepancy between the surface sentiment and the true intention. the statement is expressed in a direct manner without irony, exaggeration, or other indicators of sarcasm. the misspellings (e.g., ""adressed,"" ""fellons,"" ""penelty"") further suggest a genuine, unpolished expression of opinion rather than a crafted sarcastic comment.
+
+Label:
+not sarcastic"
+1,"Input: ""no! and it has nothing to do with expressing views different from mine. these xxxxxx are spending good money to advertise against a god they believe probably doesn't exist. all i have to say is thanks for proving how irrational and stupid atheists are.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears strongly negative and critical towards atheists. key phrases like ""no!"", ""irrational and stupid atheists"" suggest anger and contempt.
+
+step 2: true intention
+upon closer inspection, the statement contains logical inconsistencies and exaggerated language that hint at sarcasm:
+- the author claims it has ""nothing to do with expressing views different from mine"" but then proceeds to criticize those different views.
+- the use of ""probably"" in all caps emphasizes the uncertainty in atheists' beliefs, contradicting the strong criticism that follows.
+- sarcastically thanking atheists for ""proving"" their irrationality through their actions.
+
+step 3: comparison and analysis
+the surface negative sentiment contrasts with the underlying message, which appears to be mocking the illogical nature of strongly criticizing atheists for advertising about something they don't believe in. the exaggerated language and logical contradictions support a sarcastic interpretation.
+
+Label:
+sarcastic"
+1,"Input: ""so if a story in the bible is proven to be true, like the fact that there is enough water in the ice caps, and the atmosphere to cover the highest mountains, then these ""myths"" would become less rediculous? or would there be a logical explanation other than a higher life form did it? mayabe a crazy man built a big boat at the right time and happened to have two of each animal at the time? but that would be crazy talk. wouldnt it?""
+
+Steps:
+step 1: surface sentiment
+- the text appears to be questioning the validity of biblical stories, specifically noah's ark.
+- it presents seemingly logical arguments about water levels and scientific evidence.
+- the tone seems inquisitive and open to alternative explanations.
+
+step 2: true intention
+- the use of quotation marks around ""myths"" suggests skepticism about calling biblical stories myths.
+- the phrase ""crazy man built a big boat"" is an oversimplification of the noah's ark story, implying absurdity.
+- the final sentences ""but that would be crazy talk. wouldnt it?"" are rhetorical questions that actually emphasize the perceived implausibility of the biblical account.
+
+step 3: comparison and analysis
+- while the surface sentiment appears to be genuinely questioning, the true intention is to mock the biblical story.
+- the contrast between the seemingly logical opening and the deliberately absurd conclusion highlights the sarcastic nature.
+- the rhetorical questions and exaggerated scenarios are used to emphasize the author's disbelief in the biblical account.
+
+Label:
+sarcastic"
+1,"Input: ""fyi you'll get sand in your ears from sticking your head in too deep....""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears to be a straightforward warning or advice about a physical action (sticking one's head in sand) and its consequence (getting sand in ears).
+
+step 2: true intention
+the true intention is not literal. this statement uses the idiom ""sticking your head in the sand"" metaphorically, which typically means deliberately ignoring or avoiding an unpleasant situation. the speaker is likely criticizing someone for being willfully ignorant or avoiding reality.
+
+step 3: comparison and analysis
+the surface meaning (step 1) is a literal interpretation that doesn't make sense in most contexts. the true intention (step 2) reveals a figurative use of language to deliver criticism or mockery. this mismatch between the literal statement and the intended meaning, combined with the somewhat exaggerated and mocking tone, strongly indicates sarcasm.
+
+Label:
+sarcastic"
+1,"Input: ""fetal genocide, enjoy it while you can. emoticonxkill 
+i guess some of us just don't share your spin. emoticonxrolleyes""
+
+Steps:
+step 1: surface sentiment
+- use of strong, emotionally charged term ""fetal genocide""
+- ""enjoy it while you can"" seems positive on surface
+- ""emoticonxkill"" indicates negative emotion
+- ""i guess"" could indicate uncertainty
+- ""emoticonxrolleyes"" suggests frustration or dismissiveness
+
+step 2: true intention
+- ""fetal genocide"" is an extreme, inflammatory term for abortion
+- ""enjoy it while you can"" is not meant literally, but as a warning
+- ""i guess some of us just don't share your spin"" implies disagreement with the other person's perspective
+- use of ""emoticonxrolleyes"" reinforces the speaker's disagreement and dismissal of the other view
+
+step 3: comparison and analysis
+- the surface ""enjoy"" contrasts sharply with the negative ""genocide"" term
+- the eye-rolling emoji contradicts any genuine uncertainty in ""i guess""
+- the overall tone is critical and dismissive, not truly encouraging enjoyment
+
+Label:
+sarcastic"
+1,"Input: ""feminazi groups"", eh.
+sounds like a dittohead.
+do you worship at the shrine of lord gush limpbutt?emoticonxclown
+
+Steps:
+step 1: surface sentiment
+- use of terms like ""feminazi"" and ""dittohead"" suggests a negative attitude towards certain groups
+- ""worship at the shrine"" could indicate reverence, but context suggests otherwise
+- ""emoticonxclown"" at the end implies mockery or derision
+
+step 2: true intention
+- ""feminazi"" is a derogatory term often used by conservative commentators to criticize feminists
+- ""dittohead"" is a term for ardent followers of conservative radio host rush limbaugh
+- ""lord gush limpbutt"" is a clear play on ""rush limbaugh,"" mocking his name and status among followers
+- the overall tone is mocking and critical of conservative ideologies and figures
+
+step 3: comparison and analysis
+- the surface sentiment appears negative, but it's directed at conservative viewpoints
+- the true intention is to mock and criticize conservative rhetoric and figures
+- the use of exaggerated language (""worship at the shrine"") and name-twisting (""gush limpbutt"") clearly indicates sarcasm
+- the clown emoticon further reinforces the mocking tone
+
+Label:
+sarcastic"
+1,"Input: ""it's easy for people too lazy to work for a living to protest in order to get others to pay their bills. :p
+psssst! did you know that the initiators of this were members of the christian group called the burning bush?""
+
+Steps:
+step 1: surface sentiment
+- the first sentence appears critical of protesters, calling them ""lazy"" and implying they want others to pay their bills.
+- the "":p"" emoji suggests playfulness or mocking.
+- the second sentence starts with ""psssst!"" indicating secretive or gossip-like information sharing.
+- mentioning a ""christian group"" in all caps may indicate emphasis or surprise.
+
+step 2: true intention
+- the exaggerated criticism in the first sentence, combined with the "":p"" emoji, suggests the author isn't being entirely serious.
+- the second sentence abruptly shifts focus to a christian group, which seems to contradict the initial criticism of ""lazy"" protesters.
+- the use of ""psssst!"" and the sudden revelation about the burning bush group implies the author is revealing something unexpected or ironic.
+
+step 3: comparison and analysis
+- the surface criticism of protesters contrasts sharply with the revelation about a christian group's involvement.
+- the playful tone ("":p"") and secretive introduction of new information (""psssst!"") support a sarcastic interpretation.
+- the author appears to be mocking both the initial stereotype of protesters and those who might hold such views, by revealing contradictory information.
+
+Label:
+sarcastic"
+1,"Input: ""so your position is that the writers of the marriage statutes when laws were first formed fully intended for homosexuals to be included?
+if that's the position you're cornered to, i have no problem leaving you with your delusion ;)""
+
+Steps:
+step 1: surface sentiment
+- the comment appears to be asking a genuine question about the other person's position
+- the use of ""i have no problem"" and the winking emoji (;)) suggest a friendly or agreeable tone
+
+step 2: true intention
+- the phrasing ""so your position is..."" implies skepticism about the other person's stance
+- ""fully intended for homosexuals to be included"" is likely an exaggeration of the other person's argument
+- ""if that's the position you're cornered to"" suggests the other person is defending an untenable position
+- ""leaving you with your delusion"" clearly indicates the speaker believes the other person's view is wrong
+
+step 3: comparison and analysis
+- the surface tone of inquiry and friendliness contrasts sharply with the underlying message of skepticism and dismissal
+- the use of exaggeration and loaded language (""cornered"", ""delusion"") reveals a mocking attitude
+- the winking emoji at the end serves to underscore the sarcastic intent rather than convey genuine friendliness
+
+Label:
+sarcastic"
+1,"Input: ""this rates an 8 out of 10 on the hypocracy scale. weren't you just scolding people both for using false analogies and for citing emotionally laden imagery for political purposes? tsk tsk.""
+
+Steps:
+step 1: surface sentiment
+- the statement appears to be critical, using phrases like ""rates an 8 out of 10 on the hypocracy scale"" and ""weren't you just scolding people""
+- the ""tsk tsk"" at the end conveys disapproval
+
+step 2: true intention
+- the use of a numerical rating for hypocrisy is exaggerated and not a common practice
+- the rhetorical question highlights a contradiction in the addressee's behavior
+- ""tsk tsk"" is often used mockingly rather than genuinely
+
+step 3: comparison and analysis
+- the surface criticism is conveyed through exaggeration and mock disappointment
+- the true intention appears to be pointing out irony or inconsistency in a mocking way
+- the discrepancy between the seemingly serious criticism and the playful language indicates sarcasm
+
+Label:
+sarcastic"
+1,"Input: ""hate to break it to you, but he's definitely not white.
+he's asian/african-american. his mother is of asian descent and his father african descent. 
+where do you get ""white?""
+now a better example of what you were trying to illustrate would have been barrack obama, who is exactly 50/50. 
+his mother is white, from kansas; and his father black, from africa (kenya to be exact). now he's a true definition of african-american. (no matter what alan keyes may say.)
+:p""
+
+Steps:
+step 1: surface sentiment
+- the opening phrase ""hate to break it to you"" suggests a confrontational tone
+- the use of capitalization in ""not white"" emphasizes disagreement
+- the question ""where do you get 'white?'"" appears challenging
+- the detailed explanation about obama's heritage seems informative
+- the tongue-out emoticon "":p"" at the end indicates playfulness
+
+step 2: true intention
+- the comment is actually correcting a misconception and providing accurate information
+- the seemingly confrontational opening is softened by the detailed, factual explanation
+- the obama example is used to illustrate a point, not to mock
+- the parenthetical mention of alan keyes and the emoticon suggest the commenter is aware of the complexity and potential controversy of the topic
+
+step 3: comparison and analysis
+- while the opening seems sarcastic, the overall content is more informative than mocking
+- the use of ""true definition"" for obama is slightly provocative but not overtly sarcastic
+- the emoticon at the end suggests a light-hearted approach to a potentially sensitive topic
+
+Label:
+sarcastic"
+1,"Input: ""hey, have you printed your name on the inside waistband of you dungarees yet so when you pull your head out from where the sun don't shine you'll know who the heck you are? 
+how many times do you need to be told....gays have children...my son is proof enough.""
+
+Steps:
+step 1 (surface sentiment): 
+the first sentence appears to be giving advice about labeling clothing. the second part seems to be expressing frustration about needing to repeat information about gay parents having children.
+
+step 2 (true intention):
+the first sentence is actually a mocking suggestion implying the addressee is ignorant or has their ""head up their ass."" the second part uses exaggerated capitalization and repetition to emphasize a point, suggesting frustration with having to repeatedly state what the speaker considers obvious.
+
+step 3 (comparison and analysis):
+the surface-level ""advice"" contrasts sharply with the insulting implication, indicating sarcasm. the exaggerated tone in the second part further reinforces the sarcastic nature of the entire statement.
+
+Label:
+sarcastic"

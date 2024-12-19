@@ -1,0 +1,374 @@
+Example,Label
+"input:
+a 6ft tall mugger vs an old man. the muggers hands are leathal weapons vs an old man.   let's see. the criminal got away and the old man is being charged with a crime? do you see anything wrong with that?
+
+steps:
+yes. the cues provided are sufficient to detect the sarcastic polarity of the text. the text highlights the absurdity of the situation where the aggressor escapes and the victim is charged with a crime, which is a clear indication of sarcasm.
+
+label:
+### label:
+sarcastic",1
+"input:
+actually, with more data that changes the number of assumptions required, it is possible to reach a greater degree of certainty about something. the greater degree of certainty you reach, the better you will be able to apply your findings.
+
+steps:
+no
+next_cue_response:context
+no. the provided cues and the input text do not contain clear indicators of sarcasm. the text appears to be straightforward and factual, discussing the relationship between data, assumptions, and certainty without any obvious sarcastic tone or context.
+next_cue_response:punctuation
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text. the text appears to be straightforward and factual, discussing the relationship between data, assumptions, and certainty without any clear indicators of sarcasm.
+next_cue_response:language style
+no. the provided cues indicate that the text is formal, informative, and logical, with no explicit markers of sarcasm such as exaggerated language, incongruous statements, or ironic punctuation. therefore, these cues are not sufficient to detect sarcastic polarity in the text.
+next_cue_response:emotional contrasts
+no, the given cues are not sufficient to detect the sarcastic polarity of the text. the text is formal and informative, discussing the relationship between data, assumptions, and certainty in a straightforward manner. there are no clear indicators of sarcasm, such as exaggerated statements, incongruous elements, or a tone that contrasts with the content.
+next_cue_response:keywords
+no. the provided cues indicate that the text is formal, informative, and logical, discussing the relationship between data, assumptions, and certainty. there are no indicators of sarcasm, such as exaggerated language, incongruity, or a mocking tone. therefore, the cues are sufficient to determine that the text is not sarcastic.
+next_cue_response:rhetorical devices
+no.
+
+the provided cues indicate that the text is formal, informative, and logical, with no clear indicators of sarcasm. the language style, punctuation, and rhetorical devices used (repetition and parallelism) all support a straightforward and serious tone. there is no evidence of irony, exaggeration, or other typical markers of sarcasm. therefore, the cues are sufficient to determine that the text is not sarcastic.
+next_cue_response:common knowledge
+no. the provided cues indicate that the text is formal, informative, and logical, with no clear indicators of sarcasm. the language style, punctuation, and rhetorical devices used do not suggest a sarcastic tone. therefore, it is not sufficient to detect sarcastic polarity in the text.
+next_cue_response:emotional words
+
+label:
+not sarcastic",0
+"input:
+ever heard of ""western civilization""?
+maybe you think it applies when tombstone got itself a hotel?
+
+steps:
+yes
+
+label:
+### label:
+sarcastic",1
+"input:
+hate to break it to you, but he's definitely not white.
+he's asian/african-american. his mother is of asian descent and his father african descent. 
+where do you get ""white?""
+now a better example of what you were trying to illustrate would have been barrack obama, who is exactly 50/50. 
+his mother is white, from kansas; and his father black, from africa (kenya to be exact). now he's a true definition of african-american. (no matter what alan keyes may say.)
+:p
+
+steps:
+no. the provided cues alone are not sufficient to detect the sarcastic polarity of the text. while words like ""hate,"" ""not,"" ""better,"" and ""true"" can sometimes be associated with sarcasm, they do not provide enough context on their own to definitively determine the sarcastic tone of the entire passage. additional context and understanding of the overall sentiment and structure of the text are necessary to make a more accurate judgment.
+next_cue_response:context
+yes. the cues provided, along with the context of the text, are sufficient to detect the sarcastic polarity. the use of phrases like ""hate to break it to you,"" ""definitely not white,"" and the dismissive remark about alan keyes, combined with the emoticon "":p,"" indicate a sarcastic tone. the text appears to mock the idea of racial purity or the strict definition of racial identity, especially in the context of comparing the racial backgrounds of different individuals.
+
+label:
+### label:
+sarcastic",1
+"input:
+do people have a short attention span? what do you think?emoticonxkill
+
+steps:
+no
+next_cue_response:context
+no
+next_cue_response:emotional words
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the presence of question marks and a period, along with the lack of explicit emotional words, does not provide enough information to confidently determine sarcasm. the context and tone are crucial for detecting sarcasm, and these cues alone do not offer a clear indication.
+next_cue_response:language style
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with confidence. while the informal and conversational style, along with the use of ""emoticonxkill,"" might suggest a playful tone, there is not enough explicit information to definitively determine sarcasm. the absence of explicit emotional words and the presence of both a rhetorical and direct question add to the ambiguity.
+next_cue_response:emotional contrasts
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with confidence. while the informal and conversational style, along with the use of ""emoticonxkill,"" might suggest a playful tone, there is not enough clear evidence to definitively determine sarcasm. the absence of explicit emotional words and the nature of the questions do not provide a strong indication of sarcasm.
+next_cue_response:topic
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. while the informal and conversational style, along with the use of ""emoticonxkill,"" might suggest a playful tone, there is not enough explicit information to definitively determine sarcasm. the lack of explicit emotional words and the straightforward nature of the questions add to the ambiguity.
+next_cue_response:keywords
+no. the given cues are not sufficient to definitively detect the sarcastic polarity of the text. while the informal and conversational style, along with the use of ""emoticonxkill,"" might suggest a playful or casual tone, there is not enough clear evidence to determine whether the text is sarcastic. the lack of explicit emotional words and the straightforward nature of the questions contribute to the uncertainty.
+next_cue_response:rhetorical devices
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. while the text includes rhetorical questions and an informal, conversational tone, it lacks explicit emotional words or clear indicators of sarcasm. the use of ""emoticonxkill"" might suggest a playful tone, but it is not definitive enough to ascertain sarcasm. more context or additional cues would be needed to make a confident judgment about the sarcastic polarity.
+next_cue_response:common knowledge
+
+label:
+sarcastic",1
+"input:
+apparently in marc9000's small, small, small world, if you're not a christian, you're a atheist. 
+thus over 4 billion people are atheists. emoticonxagree
+
+steps:
+yes
+
+label:
+### label:
+sarcastic",1
+"input:
+based on your stances, what you want is akin to the old soviet type communism, matthew. i'll give you a little hint:
+it doesn't work!
+
+steps:
+yes
+
+label:
+### label:
+sarcastic",1
+"input:
+well, if you really don't understand the difference and think they are the same, then try killing your wife and see what happens. you'll find she is a living, breathing person.
+i love the logic chester wrote. ""let's assume for a moment that an egg is a chicken.
+let's assume for a moment that an acorn is an oak tree.""  and most of us eat eggs. . . .yuck! we just ate a chicken and didn't know it.
+
+steps:
+yes. the cues provided are sufficient to detect the sarcastic polarity of the text. the text uses exaggerated and absurd comparisons to highlight the difference between potential and actual states, which is a common indicator of sarcasm. the suggestion to ""try killing your wife and see what happens"" and the statement ""we just ate a chicken and didn't know it"" are clearly sarcastic, as they are meant to mock the idea that an egg is the same as a chicken or an acorn is the same as an oak tree.
+
+label:
+### label:
+sarcastic",1
+"input:
+yea i know that, but there is no ""abortion"" pill that will terminate a fetus.
+
+steps:
+no
+next_cue_response:context
+no
+next_cue_response:language style
+no
+next_cue_response:emotional contrasts
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text could be interpreted as a straightforward statement or as sarcasm, depending on additional context or tone that is not provided.
+next_cue_response:rhetorical devices
+no. the provided cues do not sufficiently indicate the sarcastic polarity of the text. the statement ""yea i know that, but there is no 'abortion' pill that will terminate a fetus."" could be interpreted as a straightforward assertion or a sarcastic remark, but the cues given do not provide enough context to definitively determine sarcasm.
+next_cue_response:topic
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text could be interpreted as a straightforward statement or as sarcasm, depending on the context and tone, which are not clearly indicated by the given cues.
+next_cue_response:emotional words
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text lacks explicit emotional contrasts, emotional words, and other clear indicators of sarcasm. the statement could be interpreted as straightforward or sarcastic depending on the context and tone, which are not provided.
+next_cue_response:common knowledge
+no. the provided cues do not sufficiently indicate the sarcastic polarity of the text. the statement ""yea i know that, but there is no 'abortion' pill that will terminate a fetus"" could be interpreted as a straightforward assertion or a sarcastic remark, but the cues given do not provide enough context to definitively determine sarcasm.
+next_cue_response:punctuation
+
+label:
+not sarcastic",0
+"input:
+surprise. you obviously do not have to be born to be a person under the 14th amendment.
+so, in sum, your conclusion here, like your conclusions in so many other areas, is simply wrong.
+
+steps:
+yes
+
+label:
+### label:
+sarcastic",1
+"input:
+clearly you don't give a damn, because if you did then you would have to admit that you were wrong.
+does this mean that you think the introduction of speed limits is a bad idea?
+
+steps:
+yes
+
+label:
+### label:
+sarcastic",1
+"input:
+um, bassman, so you, the one person in the world who is as ""pure as the wind-driven snow,"" is the one who may judge others, including democrats. um, for the record i grew up on the prairie and saw a goodly bit of ""wind-driven snow"" and it was not particularly pure. a feeble and laughable metaphor.
+
+steps:
+yes
+
+label:
+sarcastic",1
+"input:
+what's ""cumulative selection?"" do you mean a series of mutations with small but beneficial influence that occur over the period of thousands or millions of years? just how do you propose to observe such mutations? in fact, we can observe such mutations by comparing the genomes of related species.
+
+steps:
+no. the provided cues indicate the use of rhetorical questions and a rhetorical statement, but they do not definitively establish the sarcastic polarity of the text. the text could be interpreted as genuinely inquisitive and informative rather than sarcastic.
+next_cue_response:context
+no. the provided cues indicate the use of rhetorical questions and a rhetorical statement, but they do not definitively establish the sarcastic polarity of the text. the text could be interpreted as genuinely inquisitive and informative rather than sarcastic. therefore, there is more than 40% uncertainty in determining the sarcastic tone based solely on these cues.
+next_cue_response:language style
+no. the cues provided indicate that the text is inquisitive and explanatory, with a conversational and informative tone. there is no clear indication of sarcasm based on the given cues. the rhetorical questions and statements seem to be used to engage the reader and provide information rather than to convey sarcasm.
+next_cue_response:keywords
+no. the cues provided indicate that the text is inquisitive and explanatory, with a conversational and informative tone. there is no clear indication of sarcasm based on the given cues. the rhetorical questions and statements seem to be used to engage the reader and provide information rather than to convey sarcasm.
+next_cue_response:emotional contrasts
+no. the given cues are not sufficient to definitively detect the sarcastic polarity of the text. while the text uses rhetorical questions and a rhetorical statement, the overall tone appears to be inquisitive and explanatory rather than sarcastic. the language style is conversational and informative, and the emotional contrast between skepticism and confidence does not necessarily indicate sarcasm. therefore, there is more than 40% uncertainty in determining the sarcastic polarity based on the provided cues.
+next_cue_response:topic
+no.
+
+the cues provided indicate that the text uses rhetorical questions and a rhetorical statement to engage the reader and provoke thought, followed by a definitive answer that emphasizes the point being made. the language style is inquisitive and explanatory, with a conversational and informative tone. there is a brief emotional contrast between skepticism and confidence, but this does not necessarily indicate sarcasm. the text appears to be more focused on explaining a concept rather than employing sarcasm. therefore, the cues are not sufficient to detect the sarcastic polarity of the text.
+next_cue_response:emotional words
+no. the cues provided are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text appears to be inquisitive and explanatory, with a conversational and informative tone. there is no clear indication of sarcasm based on the given cues.
+next_cue_response:common knowledge
+no.
+
+the cues provided indicate that the text is inquisitive and explanatory, with a conversational and informative tone. the use of rhetorical questions and a definitive statement suggests an attempt to engage the reader and clarify a concept rather than to convey sarcasm. the emotional contrast between skepticism and confidence is presented in a straightforward manner, without the exaggerated or mocking tone typically associated with sarcasm. therefore, the cues are not sufficient to detect sarcastic polarity in the text.
+next_cue_response:punctuation
+
+label:
+### label:
+not sarcastic",0
+"input:
+and like the police , the navy could plan and execute raids.
+
+steps:
+no
+next_cue_response:context
+no.
+next_cue_response:punctuation
+no
+next_cue_response:rhetorical devices
+no. the provided cues do not offer sufficient information to detect the sarcastic polarity of the text. the text lacks explicit emotional contrasts, and the comparison between the police and the navy using a simile does not inherently indicate sarcasm.
+next_cue_response:language style
+no. the provided cues indicate that the text is straightforward and factual, without explicit emotional contrasts or indicators of sarcasm. the comparison between the police and the navy is presented in a clear and direct manner, which does not suggest a sarcastic tone.
+next_cue_response:keywords
+no. the provided cues indicate that the text is straightforward and factual, without explicit emotional contrasts or indicators of sarcasm. the comparison between the police and the navy is presented in a clear and direct manner, which does not inherently suggest sarcasm.
+next_cue_response:topic
+no. the provided cues indicate that the text is straightforward and factual, without explicit emotional contrasts or indicators of sarcasm. the comparison between the police and the navy is presented in a clear and direct manner, making it difficult to detect any sarcastic polarity based on the given information.
+next_cue_response:common knowledge
+no. the provided cues indicate that the text is straightforward and factual, without explicit emotional contrasts or indicators of sarcasm. the comparison between the police and the navy is presented in a clear and direct manner, making it difficult to detect any sarcastic polarity based on the given information.
+next_cue_response:emotional words
+
+label:
+not sarcastic",0
+"input:
+are there truly laws of logic?   where are they encoded?
+
+steps:
+no
+next_cue_response:context
+no.
+next_cue_response:punctuation
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text. the text appears to be a neutral inquiry without explicit emotional contrasts or indicators of sarcasm.
+next_cue_response:rhetorical devices
+no. the provided cues indicate that the text is a neutral inquiry and does not contain explicit emotional contrasts or other markers typically associated with sarcasm. the presence of rhetorical questions alone is not sufficient to determine sarcastic polarity with confidence.
+next_cue_response:language style
+no. the given cues indicate that the text is inquisitive and philosophical, presenting rhetorical questions without explicit emotional contrasts or indicators of sarcasm. therefore, these cues are not sufficient to detect the sarcastic polarity of the text.
+next_cue_response:topic
+no. the given cues indicate that the text is inquisitive and philosophical, presenting neutral questions about the nature and location of the laws of logic. there are no explicit emotional contrasts, exaggerated statements, or other common indicators of sarcasm. therefore, these cues are not sufficient to detect sarcastic polarity in the text.
+next_cue_response:keywords
+no. the given cues indicate that the text is inquisitive and philosophical, presenting neutral questions about the nature and location of the laws of logic. there are no explicit emotional contrasts or indicators of sarcasm. therefore, the cues are not sufficient to detect sarcastic polarity in the text.
+next_cue_response:common knowledge
+no. the given cues indicate that the text is inquisitive and philosophical, presenting neutral questions about the nature and location of the laws of logic. there are no explicit emotional contrasts or indicators of sarcasm. therefore, the cues are not sufficient to detect the sarcastic polarity of the text.
+next_cue_response:emotional words
+
+label:
+not sarcastic",0
+"input:
+well, to say it has no mental existence doesn't really tell the whole story. the fetus will have (more than likely) full mental existence in a very short time. it seems to me that if you ""view humanity with mental existance as important"" you'd also view as important that the unborn baby will indeed reach that point, in all likelihood.
+
+steps:
+no. the provided cues, such as punctuation marks and capital letters for emphasis, are not sufficient on their own to detect the sarcastic polarity of the text. sarcasm often relies on context, tone, and additional linguistic cues that are not captured solely by punctuation and capitalization.
+next_cue_response:emotional contrasts
+no. the provided cues, such as punctuation marks and capital letters for emphasis, are not sufficient on their own to definitively detect the sarcastic polarity of the text. sarcasm often relies on context, tone, and nuanced language that these cues alone cannot fully capture.
+next_cue_response:context
+no. the provided cues, such as punctuation marks and capital letters for emphasis, are not sufficient on their own to definitively detect the sarcastic polarity of the text. sarcasm often relies on context, tone, and nuanced language that these cues alone cannot fully capture.
+next_cue_response:rhetorical devices
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. while the text contains certain rhetorical devices and punctuation marks, these elements alone do not definitively indicate sarcasm. sarcasm often relies on tone, context, and additional linguistic cues that are not explicitly detailed in the provided information.
+next_cue_response:keywords
+no.
+
+the provided cues, such as punctuation marks, capitalization for emphasis, and rhetorical devices, are not sufficient to definitively detect the sarcastic polarity of the text. sarcasm often relies on tone, context, and nuanced language that may not be fully captured by these cues alone. the text appears to be making a logical argument about the potential future mental existence of a fetus, and without additional context or indicators of sarcasm (such as exaggerated statements, incongruity, or a known sarcastic tone from the author), it is challenging to determine sarcasm with confidence.
+next_cue_response:common knowledge
+no. 
+
+the provided cues, such as punctuation marks, capitalization for emphasis, and rhetorical devices, are not sufficient to definitively detect the sarcastic polarity of the text. the text appears to be making a logical argument about the potential future mental existence of a fetus, but without additional context or more explicit indicators of sarcasm (such as tone, context, or more overtly sarcastic language), it is difficult to determine with certainty whether the text is sarcastic.
+next_cue_response:language style
+no. 
+
+the provided cues, such as punctuation marks, capitalization for emphasis, and rhetorical devices, are not sufficient to definitively detect the sarcastic polarity of the text. while these elements can contribute to understanding tone and emphasis, sarcasm often relies heavily on context, intonation, and sometimes even prior knowledge of the speaker's attitudes or the situation being discussed. the text appears to be making a logical argument about the potential future mental existence of a fetus, and without additional context or more explicit indicators of sarcasm, it is not possible to confidently determine that the text is sarcastic.
+next_cue_response:topic
+no, the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. while the text contains certain rhetorical devices and punctuation marks that can sometimes indicate sarcasm, the overall tone and context provided do not clearly suggest sarcasm. the text appears to be making a logical argument about the future mental existence of a fetus rather than employing sarcasm.
+next_cue_response:emotional words
+
+label:
+not sarcastic",0
+"input:
+homo-erectus and neandertals had different bone structures. how could they be fully human when their anatomy is fundementally different?
+
+steps:
+no. the given cues indicate an inquisitive and analytical language style, which does not inherently suggest sarcasm. the text appears to be posing a genuine question about the classification of homo-erectus and neandertals based on their anatomical differences.
+next_cue_response:context
+no. the given cues indicate that the text is inquisitive and analytical, focusing on a scientific question about the classification of homo erectus and neanderthals. there is no clear indication of sarcasm in the language or tone provided.
+next_cue_response:keywords
+no
+next_cue_response:emotional contrasts
+no. the cues provided indicate an inquisitive and analytical tone, focusing on anatomical differences and questioning the classification of homo-erectus and neandertals as fully human. however, they do not provide clear indicators of sarcasm, which often involves a mocking or ironic tone. the text appears to be genuinely questioning rather than sarcastically implying something.
+next_cue_response:topic
+no. the provided cues indicate that the text is inquisitive and analytical, focusing on the anatomical differences between homo erectus and neanderthals and questioning their classification as fully human. however, these cues do not clearly indicate sarcasm. sarcasm often involves a tone of irony, mockery, or exaggeration, which is not evident in the given text. therefore, the cues are not sufficient to detect the sarcastic polarity of the text.
+next_cue_response:rhetorical devices
+no. 
+
+the cues provided indicate that the text is inquisitive and analytical, using a rhetorical question to challenge the classification of homo-erectus and neandertals as fully human based on their different bone structures. however, these cues do not clearly indicate sarcasm. sarcasm often involves a tone of irony or mockery, which is not evident from the given cues. the text appears to be genuinely questioning the classification rather than sarcastically mocking it.
+next_cue_response:emotional words
+no. 
+
+the cues provided indicate that the text is inquisitive and analytical, using a rhetorical question to challenge the classification of homo-erectus and neandertals as fully human based on their different bone structures. however, there is no explicit indication of sarcasm. the text lacks emotional words or tone that would typically signal sarcasm, and the rhetorical question seems to be used to emphasize a genuine point rather than to mock or convey irony. therefore, the cues are not sufficient to detect sarcastic polarity with confidence.
+next_cue_response:common knowledge
+no. 
+
+the cues provided indicate that the text is inquisitive and analytical, using a rhetorical question to challenge the classification of homo-erectus and neandertals as fully human based on their different bone structures. however, there is no explicit indication of sarcasm. the text lacks emotional words or tone that would typically signal sarcasm, and the rhetorical question seems to be used to emphasize a genuine point rather than to mock or convey irony. therefore, the cues are not sufficient to detect sarcastic polarity.
+next_cue_response:punctuation
+
+label:
+not sarcastic",0
+"input:
+chloe, the point of this thread is to help you understand what the argument is, not to give analogies to abortion.
+
+steps:
+no
+next_cue_response:context
+no
+next_cue_response:emotional contrasts
+no
+next_cue_response:language style
+no.
+next_cue_response:keywords
+no. the cues provided indicate that the text is straightforward, direct, and informative, with no explicit rhetorical devices, emotional contrasts, or sarcastic tone. therefore, it is unlikely to be sarcastic.
+next_cue_response:topic
+no. the cues provided indicate that the text is direct, informative, and aimed at clarifying a specific point without the use of rhetorical devices or emotional contrasts. therefore, it is unlikely to be sarcastic.
+next_cue_response:punctuation
+no. the cues provided indicate that the text is straightforward, direct, and informative, with no explicit rhetorical devices, emotional contrasts, or sarcastic tone. therefore, it is unlikely to be sarcastic.
+next_cue_response:common knowledge
+no. the cues provided indicate that the text is straightforward, direct, and informative, with no explicit rhetorical devices, emotional contrasts, or sarcastic tone. therefore, it is unlikely to be sarcastic.
+next_cue_response:emotional words
+
+label:
+not sarcastic",0
+"input:
+the burden of a pregnancy is the woman's. it should be left up to her and her doctor to decide what is best for her.
+
+steps:
+no
+next_cue_response:context
+no. the provided cues focus on the emotional and personal impact of pregnancy and the perspective that the decision should be left to the woman and her doctor. these cues do not provide sufficient information to determine whether the text is sarcastic or sincere. sarcasm often relies on tone, context, and additional linguistic markers that are not evident in the given cues.
+next_cue_response:language style
+no. the provided cues do not indicate any elements of sarcasm. the text is assertive and straightforward, emphasizing personal autonomy and medical consultation without any apparent irony or contradiction that would suggest sarcasm.
+next_cue_response:keywords
+no. the provided cues indicate that the text is assertive and straightforward, emphasizing personal autonomy and medical consultation. there is no indication of sarcasm in the language style or rhetorical devices used.
+next_cue_response:topic
+no. the provided cues suggest that the text is assertive and straightforward, emphasizing personal autonomy and medical consultation. there is no indication of sarcasm in the language or tone described. the text appears to be making a sincere argument about the decision-making authority regarding pregnancy.
+next_cue_response:emotional contrasts
+no. the provided cues suggest that the text is assertive and straightforward, emphasizing personal autonomy and medical consultation. there is no indication of sarcasm in the language or tone described. the text appears to be making a sincere argument about the decision-making authority regarding pregnancy.
+next_cue_response:emotional words
+no. the cues provided indicate that the text is assertive and straightforward, emphasizing personal autonomy and medical consultation. there is no indication of sarcasm in the language or tone used. the text appears to be sincere in its message about the decision-making authority regarding pregnancy.
+next_cue_response:common knowledge
+no. the provided cues do not indicate any clear signs of sarcasm. the text appears to be straightforward and assertive, emphasizing the importance of personal autonomy and medical consultation in decision-making regarding pregnancy. there are no elements such as exaggerated praise, irony, or incongruity that typically signal sarcasm.
+next_cue_response:punctuation
+
+label:
+not sarcastic",0
+"input:
+another strawman.   explain to me how new information and new features equals to new structures and body parts.   those links have long been refuted   http://www.creationwiki.org/(talk.or...dd_information   http://www.creationwiki.org/(talk.or...e_new_features
+
+steps:
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text could be interpreted as a straightforward dismissal of the opposing argument without clear indicators of sarcasm.
+next_cue_response:emotional words
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text with confidence. the text appears to be part of a debate or discussion, and while it contains dismissive language such as ""another strawman"" and ""long been refuted,"" these phrases alone do not clearly indicate sarcasm. they could simply reflect a straightforward rebuttal or disagreement. more context or additional cues would be needed to accurately determine if the text is sarcastic.
+next_cue_response:language style
+no. the provided cues are not sufficient to definitively detect the sarcastic polarity of the text. while the text is informal and confrontational, and includes dismissive statements and rhetorical questions, these elements alone do not clearly indicate sarcasm. the tone could simply be argumentative or defensive without necessarily being sarcastic.
+next_cue_response:keywords
+no. the cues provided are not sufficient to definitively detect the sarcastic polarity of the text. while the text is informal and confrontational, and includes dismissive statements and rhetorical questions, these elements alone do not clearly indicate sarcasm. the tone could simply be argumentative or defensive without necessarily being sarcastic.
+next_cue_response:emotional contrasts
+no. 
+
+the cues provided indicate a confrontational and dismissive tone, but they do not clearly establish whether the text is sarcastic. the use of terms like ""strawman"" and ""refuted"" suggests frustration and skepticism, but these alone are not definitive indicators of sarcasm. sarcasm often involves a layer of irony or a mocking tone that is not explicitly evident in the given text. therefore, the cues are insufficient to detect the sarcastic polarity with less than 40% uncertainty.
+next_cue_response:topic
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. while the text is confrontational and dismissive, these characteristics alone do not definitively indicate sarcasm. sarcasm often involves a layer of irony or a tone that implies the opposite of what is being said, which is not clearly evident from the given cues. the text appears more straightforwardly argumentative rather than sarcastic.
+next_cue_response:punctuation
+no. 
+
+the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. while the text is informal and confrontational, and it includes emotional words and rhetorical questions, these elements alone do not definitively indicate sarcasm. sarcasm often relies on tone, context, and additional linguistic cues that are not fully captured in the provided information. the text could be genuinely dismissive and skeptical without being sarcastic.
+next_cue_response:rhetorical devices
+no. 
+
+the cues provided indicate a confrontational and dismissive tone, but they do not clearly indicate sarcasm. the text appears to be part of a serious debate or discussion, and while it shows frustration and skepticism, these emotions alone are not sufficient to definitively determine sarcastic polarity. the absence of clear sarcastic markers such as exaggerated praise, irony, or hyperbole contributes to the uncertainty.
+next_cue_response:common knowledge
+
+label:
+### label:
+not sarcastic",0

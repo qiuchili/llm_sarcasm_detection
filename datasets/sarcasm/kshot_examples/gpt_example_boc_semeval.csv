@@ -1,0 +1,257 @@
+Label,Example
+0,"Input:
+he has all the virtues i dislike and none of the vices i admire.|winston churchill
+
+Cues:
+- **rhetorical devices:** the statement uses irony, which is often mistaken for sarcasm. irony stresses contrast rather than mockery which is more characteristic of sarcasm.
+- **topic:** personal characteristics and virtues/vices.
+- **context:** the speaker expresses a paradoxical view on virtues and vices, implying a balance that they do not favor.
+- **cultural background:** winston churchill is known for his wit and use of rhetorical devices in speeches and writings.
+- **keywords:** virtues, dislike, vices, admire.
+
+Label:
+not sarcastic"
+0,"Input:
+feeling artsy tonight. #artsy#homealone#vienna#studentlife @ b&e's apartment http://t.co/ct85mmtf5h
+
+Cues:
+- **language style**: casual and straightforward, expressing a genuine feeling. no evident exaggeration or irony.
+- **keywords**: artsy, homealone, vienna, studentlife.
+- **special symbols**: hashtags (#) and a url link, which are commonly used in social media posts to share genuine feelings or experiences.
+- **common knowledge**: people often post about their moods and activities on social media, particularly when feeling creative or bored.
+- **topic**: the topic of the post is someone spending a night feeling artistic/creative while being home alone in vienna, likely a student.
+
+Label:
+not sarcastic"
+0,"Input: @rachelryan_ @jamieyuccas @lifetimefitness @wcco they better!
+
+Cues:
+- punctuation: the text uses an exclamation mark, which typically conveys strong emotion or emphasis but not necessarily sarcasm.
+- special symbols: the use of ""@"" symbols indicates that the message is directed at specific users or entities, suggesting it is part of a conversation.
+- context: the phrase ""they better!"" in a direct reply implies a straightforward expectation or a call to action rather than a sarcastic remark.
+- topic: the topic appears to be about something the mentioned individuals or organization should do, likely a service or action expected from @lifetimefitness or @wcco.
+- cultural background: online interactions, especially on platforms like twitter, often involve direct communications and expectations without a sarcastic undertone.
+
+Label:
+not sarcastic"
+0,"Input:
+@manuclearbomb what is your argument? 1/$12.5 for butler > 2/$17 for morales?
+
+Cues:
+1. **emotional contrasts:**
+   - there are no significant emotional contrasts, as the text is straightforward and analytical.
+2. **context:**
+   - the context is a discussion or debate about the value of two players, butler and morales, presumably in a sports context, considering their contracts or trade value.
+3. **common knowledge:**
+   - it is common knowledge that comparing players' value based on their contracts or performance statistics is a common activity in sports discussions.
+4. **emotional words:**
+   - the tweet uses neutral language without emotional weight. words like ""argument"" and the comparison using figures ($12.5 for butler vs. $17 for morales) imply a logical, fact-based discussion.
+5. **cultural background:**
+   - in sports culture, especially in the context of trades and player valuations, it is customary to discuss such comparisons analytically.
+
+Label:
+not sarcastic"
+0,"Input:
+ah @tonyblackburn soul show making my sunday morning at work more bearable #cold yet #happy
+
+Cues:
+**context:** the user is listening to tony blackburn's soul show on a sunday morning while at work.
+**surface emotion:** contentment and positivity.
+**emotional words:** bearable, happy.
+**special symbols:** @ (mention), # (hashtags).
+**common knowledge:** tony blackburn is a well-known radio dj, particularly famous for his soul music shows, which many find enjoyable and uplifting.
+
+Label:
+not sarcastic"
+0,"Input:*
+when all else fails... http://t.co/ooadi6dxzk #relationships #needs via @them3blog
+
+Cues:
+- **keywords:** ""when all else fails..."", ""#relationships"", ""#needs""
+- **context:** the context suggests someone providing a link that presumably offers advice or information related to relationships and needs. 
+- **punctuation:** the use of ellipses (""..."") might suggest a pause or continuation, rather than a sarcastic remark.
+- **rhetorical devices:** no significant use of irony, exaggeration, or other rhetorical devices that would indicate sarcasm.
+- **topic:** relationships and fulfilling needs.
+
+Label:
+not sarcastic"
+0,"Input:
+we still got alot of moonlight left
+
+Cues:
+**common knowledge:** the phrase refers to the availability of moonlight, which is a natural occurrence at night.
+**language style:** the language is straightforward and lacks exaggerated or ironic elements typically found in sarcastic remarks.
+**topic:** the topic is about the ongoing presence of moonlight.
+**cultural background:** the statement fits into any culture with a concept of night and moonlight, no specific cultural references suggest sarcasm.
+**special symbols:** none.
+
+Label:
+not sarcastic"
+0,"Input:
+i shouldn't lose a full day of work because of system updates, but it happened yesterday. #fuckingwindows  
+
+Cues:
+- **surface emotion:** frustration and annoyance.
+- **keywords:** ""lose a full day of work,"" ""system updates,"" ""#fuckingwindows.""
+- **language style:** informal and straightforward.
+- **common knowledge:** system updates can sometimes disrupt work.
+- **punctuation:** period and hashtag (#) indicating emphasis on frustration.
+
+Label:
+not sarcastic"
+0,"Input:
+@ftvlive @tvagent i'm surprised my coanchor hasn't already nominated me for the worst list.
+
+Cues:
+1. **cultural background:**
+   - the input is discussing workplace dynamics in a television setting, hinting at a western context where subtle humor and poignant bluntness are common.
+2. **keywords:**
+   - ""surprised,"" ""coanchor,"" ""nominated,"" ""worst list""
+3. **surface emotion:**
+   - surprise
+4. **emotional contrasts:**
+   - the surface emotion of surprise contrasts with the underlying expectation or predictability of being nominated.
+5. **punctuation:**
+   - the use of a period at the end suggests a straightforward statement without additional emphasis or sarcasm.
+
+Label:
+not sarcastic"
+0,"Input:
+@malesurvivor72 i think it's a safe bet it won't fit the crime.
+
+Cues:
+- **common knowledge**: it is commonly understood that sometimes punishments do not always align proportionally with crimes.
+- **punctuation**: the sentence uses a period, which signals a straightforward statement rather than an exaggerated or mocking tone typically associated with sarcasm.
+- **context**: although there is no additional context provided, the sentence itself presents a logical concern about the justice system, which is a serious topic.
+- **emotional contrasts**: the emotion conveyed is of caution or skepticism, without underlying irony or bitterness.
+- **topic**: the topic at hand is the alignment of punishment with crime, a matter that is often debated seriously.
+
+Label:
+not sarcastic"
+1,"Input:
+what a great person you are.
+
+Cues:
+- **surface emotion**: the phrase seems positive on the surface.
+- **common knowledge**: sarcasm often involves saying the opposite of what one means.
+- **special symbols**: none.
+- **cultural background**: in many cultures, including western ones, this phrase can be used sarcastically to criticize someone by superficially complimenting them.
+- **keywords**: ""great"", ""person""
+
+Label:
+sarcastic"
+1,"Input:
+one of my favourite things about going to fanshawe is walking to the z building
+
+Cues:
+- **common knowledge**: walking to a specific building, especially on a larger campus, is typically not something people favor or enjoy; it suggests that it's usually mundane or a chore.
+- **topic**: going to fanshawe (likely referring to fanshawe college) and walking to the z building.
+- **special symbols**: none.
+- **punctuation**: standard punctuation, no exclamation points or other specific indicators.
+- **emotional words**: ""one of my favourite things"" - implies affection or enjoyment, contradictory in context.
+
+Label:
+sarcastic"
+1,"Input:
+experts doubt north korea hacked sony « cbs dallas / fort worth http://t.co/2xiwlufege #hacker #hacked
+
+Cues:
+- **cultural background:** the tweet references a highly publicized international incident, involving north korea and sony, which received extensive media coverage and public speculation.
+- **emotional contrasts:** there's a contrast between the assertion of doubts (a calming, rational statement) and the contentious and dramatic nature of hacking claims (often perceived as threatening or alarming).
+- **surface emotion:** the surface emotion seems neutral and analytical due to the expert doubt stated.
+- **emotional words:** no overtly emotional words present; it relies more on the tone and the implied skepticism to convey emotion.
+- **keywords:** ""experts,"" ""doubt,"" ""north korea,"" ""hacked,"" ""sony,"" ""cbs dallas/fort worth,"" ""#hacker,"" ""#hacked"".
+
+Label:
+sarcastic"
+1,"Input:
+@forexeric @heidil_rn @unsavoryagents yes! vote for satan (@hillaryclinton) in 2016!!!!
+
+Cues:
+- **emotional contrasts:** the expression ""yes!"" conveys excitement or enthusiasm, while ""vote for satan"" implies something negative and undesirable. the stark contrast indicates sarcasm.
+- **context:** the tweet references a political figure, hillary clinton, divisively characterised as ""satan,"" likely contrasting with the writer's actual opinion of her.
+- **cultural background:** in american political discourse, hillary clinton is a polarizing figure. this tweet reflects negative views by sarcastically suggesting an exaggeratedly negative characterisation.
+- **language style:** the use of all caps and exclamation marks intensifies the mock enthusiasm, which is a common marker for sarcasm.
+- **surface emotion:** the superficial tone suggests excitement and approval, but the content (comparing clinton to satan) reveals the underlying sarcasm.
+
+Label:
+sarcastic"
+1,"Input:  
+bruh. i just realized i'm wearing her shirt. the chick who dumped me. lmfao  
+
+Cues:  
+- **rhetorical devices**: use of ""bruh"" as a casual exclamation; ""lmfao"" (laughing my f***ing ass off) indicates an attempt at humor.  
+- **emotional words**: ""chick who dumped me"" conveys a sense of emotional detachment, masked disdain.  
+- **topic**: reflecting on the irony of wearing an ex-girlfriend's shirt.  
+- **punctuation**: periods break the sentence for emphasis, particularly on ""lmfao"", underlining the irony.  
+- **language style**: casual, colloquial, with abbreviations indicating a laid-back or mocking tone.  
+
+Label:
+sarcastic"
+1,"Input:
+oh sprints i love you  http://t.co/sew8im7i0u
+
+Cues:
+1. **emotional contrasts:** the phrase ""i love you"" is a positive emotional expression, but when paired with ""oh sprints,"" it creates an emotional contrast. sprints are typically associated with intense effort and discomfort, which most people do not genuinely ""love.""
+2. **common knowledge:** it is commonly known that sprint exercises are challenging and not typically loved by people. they involve high physical exertion and are generally more dreaded than loved.
+3. **keywords:** 
+   - ""oh"": often used to convey a sudden realization or an exaggerated statement.
+   - ""sprints"": refers to a physically demanding activity.
+   - ""i love you"": a strong positive emotional statement that is likely exaggerated here.
+4. **context:** the tweet includes a url, which may imply additional context or a visual cue that could enhance the sarcastic tone. however, even without the url, the text itself suggests sarcasm due to the juxtaposition of ""sprints"" and ""i love you.""
+5. **language style:** the casual and seemingly enthusiastic language style (""oh sprints i love you"") contrasts with the typical sentiment towards physically taxing activities, enhancing the sarcastic tone.
+
+Label:
+sarcastic"
+1,"Input:
+i have an ""attitude"" because you think you're hot shit at a buffet restaurant. #lifegoals #sideworknazi
+
+Cues:
+- **language style:** informal, mocking tone
+- **surface emotion:** frustration, disdain
+- **emotional words:** ""attitude,"" ""hot shit,"" ""sideworknazi""
+- **context:** the speaker expresses frustration towards someone who is arrogant and self-important in a mundane setting (a buffet restaurant).
+- **rhetorical devices:** quotations around ""attitude"" imply irony, hashtags such as #lifegoals and #sideworknazi are used sarcastically to mock the person's self-importance.
+
+Label:
+sarcastic"
+1,"Input:
+dragging her feet, smacking her lips,and scowling at the empty street while screaming into the phone!...such grace.!:white_frowning_face:
+
+Cues:
+**emotional contrasts:**  
+- the description of actions (dragging feet, smacking lips, scowling) suggests irritation or frustration, which contrasts with the phrase ""such grace,"" typically associated with elegance or positive demeanor.
+**topic:**  
+- a person's actions and demeanor while on the phone in a public space.
+**keywords:**  
+- dragging, smacking, scowling, empty street, screaming, such grace, white_frowning_face emoticon.
+**surface emotion:**  
+- negative (frustration, irritation).
+**punctuation:**  
+- excessive punctuation marks (exclamation marks, ellipsis) emphasize the sarcastic tone.
+
+Label:
+sarcastic"
+1,"Input: soooo deep  #narrowminds #stopwatchingthenews #andstoppreachingoffyoutube http://t.co/kecp9we6ya
+
+Cues:
+- context: the speaker is commenting on someone's perceived depth of thought or argument.
+- special symbols: the presence of hashtags (#narrowminds, #stopwatchingthenews, #andstoppreachingoffyoutube) and a link.
+- punctuation: use of elongated vowels (""soooo"") to emphasize tone.
+- topic: critique of narrow-mindedness and behavior influenced by consuming information from questionable sources.
+- common knowledge: exaggerated praise (""soooo deep"") typically signals sarcasm to indicate the opposite sentiment.
+
+Label:
+sarcastic"
+1,"Input:
+it's super duper fun waking up and immediately shoveling your car out of your driveway for 20 minutes #fuckinsnow
+
+Cues:
+- punctuation: the use of hashtag (#fuckinsnow) adds emphasis and a colloquial touch.
+- emotional contrasts: the phrase ""super duper fun"" contrasts starkly with the mundane and unpleasant task of shoveling snow.
+- cultural background: the phraseology and hashtag suggest familiarity with social media expressions and a climate where snow shoveling is common.
+- language style: informal and exaggerated language (""super duper fun"") indicates sarcasm.
+- emotional words: ""super duper fun"" and ""#fuckinsnow"" show a mix of excessive positivity and actual frustration.
+
+Label:
+sarcastic"

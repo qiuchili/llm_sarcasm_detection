@@ -1,0 +1,341 @@
+Example,Label
+"input:
+@bbcnormans @edballsmp that's going to stand him in good stead as. #chancellor. |.
+
+steps:
+no.
+next_cue_response:rhetorical devices
+no.
+next_cue_response:emotional contrasts
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text lacks explicit rhetorical devices, emotional contrasts, and other clear indicators of sarcasm. the informal and conversational style alone is not enough to determine sarcasm reliably.
+next_cue_response:context
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text lacks explicit rhetorical devices, emotional contrasts, and additional context that would clearly indicate sarcasm. the informal and conversational style typical of social media interactions alone is not enough to determine sarcasm reliably.
+next_cue_response:emotional words
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text. the text lacks explicit rhetorical devices, emotional contrasts, and additional context that would clearly indicate sarcasm. the simple positive statement and the informal, conversational tone do not provide enough evidence to confidently determine sarcasm.
+next_cue_response:keywords
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text lacks explicit rhetorical devices, emotional contrasts, and additional context that would clearly indicate sarcasm. the informal and conversational style alone is not enough to determine sarcasm reliably.
+next_cue_response:topic
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text with confidence. the text ""@bbcnormans @edballsmp that's going to stand him in good stead as. #chancellor."" is ambiguous and lacks clear indicators of sarcasm. the informal and conversational style, along with the positive phrase ""stand him in good stead,"" could be interpreted both sincerely and sarcastically. without additional context or more explicit rhetorical devices, it is challenging to determine the sarcastic intent with less than 40% uncertainty.
+next_cue_response:common knowledge
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text is informal and conversational, but it lacks explicit rhetorical devices, emotional contrasts, or other clear indicators of sarcasm. the statement ""that's going to stand him in good stead as #chancellor"" could be interpreted both sincerely and sarcastically, and without additional context or cues, it is difficult to determine the intended tone.
+next_cue_response:punctuation
+
+label:
+sarcastic",1
+"input:
+...a teen named bud weisser was arrested by cops for breaking into a st. louis party store...http://t.co/axejcevq1e
+
+steps:
+no
+next_cue_response:emotional contrasts
+no
+next_cue_response:language style
+no. the given cues do not provide sufficient information to detect the sarcastic polarity of the text. the text presents a straightforward report of an event without clear indicators of sarcasm, such as exaggerated praise, irony, or a tone that contrasts sharply with the content.
+next_cue_response:rhetorical devices
+no.
+next_cue_response:keywords
+no. the given cues provide context and highlight the humorous pun in the name ""bud weisser,"" but they do not clearly indicate whether the text is sarcastic. sarcasm often relies on tone, context, and additional cues that are not explicitly present in the provided information.
+next_cue_response:topic
+no. the provided cues are not sufficient to definitively detect the sarcastic polarity of the text. while the name ""bud weisser"" and its humorous resemblance to ""budweiser"" might suggest a playful tone, there is no clear indication of sarcasm. the text could simply be reporting an unusual or amusing incident without any sarcastic intent.
+next_cue_response:emotional words
+no. the provided cues do not sufficiently indicate the sarcastic polarity of the text. while the name ""bud weisser"" is a pun that might suggest humor, there is no clear indication of sarcasm in the language or tone of the text. the text appears to be a straightforward report of an incident, and without additional context or explicit markers of sarcasm, it is not possible to definitively determine the sarcastic polarity.
+next_cue_response:common knowledge
+no. the provided cues do not sufficiently indicate the sarcastic polarity of the text. while the name ""bud weisser"" is a pun that might suggest a humorous or ironic tone, there is no clear indication of sarcasm. the text appears to be a straightforward report of an incident, and without additional context or explicit markers of sarcasm, it is not possible to definitively determine the sarcastic polarity.
+next_cue_response:punctuation
+
+label:
+sarcastic",1
+"input:
+not felt this i'll since i was in kos! eugh a great end to a great week......  #beenshite #killme
+
+steps:
+yes
+
+label:
+sarcastic",1
+"input:
+@arranarmitage because i find people with different ideas and ways of life interesting.
+
+steps:
+no
+next_cue_response:rhetorical devices
+no
+next_cue_response:emotional contrasts
+no. the provided cues do not sufficiently indicate the sarcastic polarity of the text. the text appears to be a straightforward expression of interest in diverse perspectives and lifestyles, and there are no clear indicators of sarcasm.
+next_cue_response:context
+no. the provided cues do not offer sufficient information to definitively detect the sarcastic polarity of the text. the text appears straightforward and lacks clear indicators of sarcasm, such as exaggerated praise, incongruity, or a context that would suggest the opposite of the literal meaning.
+next_cue_response:keywords
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text with confidence. the text appears to be a straightforward statement expressing a genuine interest in diverse perspectives and lifestyles, and there are no clear indicators of sarcasm such as exaggerated praise, incongruity, or a mocking tone.
+next_cue_response:topic
+no. 
+
+the provided cues indicate that the text is straightforward and expresses a genuine interest in diverse perspectives and lifestyles. there are no explicit indicators of sarcasm, such as exaggerated praise, incongruity, or a tone that contrasts with the content. therefore, the cues are not sufficient to detect sarcastic polarity in the text.
+next_cue_response:punctuation
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text. the text appears straightforward and lacks clear indicators of sarcasm, such as exaggerated praise, incongruity, or a tone that contrasts with the literal meaning.
+next_cue_response:common knowledge
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text. the text ""@arranarmitage because i find people with different ideas and ways of life interesting."" is straightforward and lacks clear indicators of sarcasm such as exaggerated praise, incongruity, or a context that would suggest the opposite of the literal meaning.
+next_cue_response:emotional words
+
+label:
+not sarcastic",0
+"input:
+they decided 2 change king's trunks 2 gold, his logos 2 green & his tights to blue. how creative. .
+
+steps:
+no. the provided cues about the colors of king's trunks, logos, and tights do not offer sufficient context to definitively determine the sarcastic polarity of the text. the statement ""how creative."" could be interpreted as either genuine or sarcastic, but without additional context or tone indicators, it is not clear enough to make a confident judgment.
+next_cue_response:emotional words
+no
+next_cue_response:context
+no. the given cues are not sufficient to definitively detect the sarcastic polarity of the text. the phrase ""how creative."" could be interpreted as either genuine praise or sarcasm, and without additional context or tonal indicators, it is difficult to determine the intended sentiment with certainty.
+next_cue_response:language style
+yes. the use of ""how creative. ."" with the double period and the context of the changes being described in a seemingly mundane way suggests a sarcastic tone.
+
+label:
+sarcastic",1
+"input:
+@thegodlessnorth indonesia does: blasphemy laws & ministry of religious affairs,which also happens to be the most corrupt ministry.
+
+steps:
+yes. the cues provided are sufficient to detect the sarcastic polarity of the text. the use of sarcasm in the phrase ""which also happens to be the most corrupt ministry"" and the juxtaposition of ""blasphemy laws & ministry of religious affairs"" with the statement about corruption clearly indicate a critical and sarcastic tone towards the ministry of religious affairs.
+
+label:
+### label:
+sarcastic",1
+"input:
+spider web lace chemise|with lined underwire cups, strappy open back, and adjustable straps and... http://t.co/hyz4c04qce
+
+steps:
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text. the description of the ""spider web lace chemise"" with its features does not inherently suggest sarcasm, and without additional context or tone indicators, it is challenging to determine the sarcastic intent with confidence.
+next_cue_response:language style
+no. the given cues and the input text are primarily descriptive and focused on the features of the product. there is no clear indication of sarcasm in the language used.
+next_cue_response:emotional contrasts
+no. the given cues are not sufficient to detect the sarcastic polarity of the text. the description is straightforward and lacks any explicit emotional contrasts or indicators of sarcasm.
+next_cue_response:context
+no. the given cues are not sufficient to detect the sarcastic polarity of the text. the description is straightforward and lacks any explicit emotional contrasts or indicators of sarcasm.
+next_cue_response:rhetorical devices
+no. the cues provided indicate that the text is a straightforward, descriptive advertisement for a product, specifically a ""spider web lace chemise."" there are no indications of sarcasm, such as emotional contrasts, rhetorical devices, or language that would suggest a sarcastic tone. the text is concise and focused on informing the reader about the product's features.
+next_cue_response:keywords
+no. the given cues are not sufficient to detect the sarcastic polarity of the text. the description is straightforward and lacks any explicit emotional contrasts, rhetorical devices, or other indicators that would suggest sarcasm. the language is concise and descriptive, focusing solely on the features of the product.
+next_cue_response:emotional words
+no. the cues provided indicate that the text is a straightforward, descriptive product listing without any explicit emotional contrasts, rhetorical devices, or emotional words. there is no indication of sarcasm in the language style or content.
+next_cue_response:common knowledge
+no. the cues provided indicate that the text is a straightforward, descriptive advertisement for a product (spider web lace chemise) without any explicit emotional contrasts, rhetorical devices, or emotional words. there is no indication of sarcasm in the language style or content.
+next_cue_response:punctuation
+
+label:
+not sarcastic",0
+"input:
+thank you aidyn and adele for getting me sick.
+
+steps:
+no.
+next_cue_response:language style
+no
+next_cue_response:emotional contrasts
+yes
+
+label:
+### label:
+sarcastic",1
+"input:
+@thebodyshopuk i dont know what it is but i'm in love your products christmas heaven! #love #skincare #beauty :thumbs_up_sign::green_heart::bath:. http://t.co/rouqllla1f
+
+steps:
+no
+next_cue_response:context
+yes. the cues provided indicate that the text is a positive social media post expressing genuine affection for the body shop uk's products, especially during the christmas season. the use of positive hashtags and emojis further supports the positive sentiment, making it unlikely that the text is sarcastic.
+
+label:
+        not sarcastic",0
+"input:
+is when someone has been quite vocal against liberals but at the same time supports @p_musharraf :)
+
+steps:
+no
+next_cue_response:emotional contrasts
+yes
+
+label:
+sarcastic",1
+"input:
+yeah hastings, rose, bird and beer is a much better 8-11 than richardson, zampa, laughlin and tait.
+
+steps:
+yes
+
+label:
+sarcastic",1
+"input:
+@kaist455 oh, come on. give her a chance with her trust worthy sns warriors and her followers in that ""uber-right wing"" portal.
+
+steps:
+yes
+
+label:
+sarcastic",1
+"input:
+grandma's coming over, yay money. #lol #kidding
+
+steps:
+yes
+
+label:
+### label:
+sarcastic",1
+"input:
+carbon everywhere :) #carbon #hood  #sticker #strips #down #red #automotive #dope #cars... http://t.co/unhbb7v1fv
+
+steps:
+no
+next_cue_response:language style
+no. the given cues and the input text do not provide sufficient information to definitively detect the sarcastic polarity. the text appears to be informal and casual, with hashtags and emojis, but there is no clear indication of sarcasm. the playful tone and use of social media elements could be genuine enthusiasm or sarcasm, making it difficult to judge with less than 40% uncertainty.
+next_cue_response:context
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text appears to be a straightforward, enthusiastic social media post about automotive customization, and there are no clear indicators of sarcasm. the use of hashtags, emojis, and a playful tone are common in social media posts and do not inherently suggest sarcasm.
+next_cue_response:emotional contrasts
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. while the text appears positive and enthusiastic, sarcasm often relies on context, tone, and additional cues that are not explicitly present in the provided information. the use of hashtags, emojis, and informal language can be genuine or sarcastic, and without more context, it is difficult to definitively determine the sarcastic polarity.
+next_cue_response:rhetorical devices
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text appears to be positive and enthusiastic, but without additional context or more explicit indicators of sarcasm, it is difficult to definitively determine whether the text is sarcastic or genuine.
+next_cue_response:topic
+no. the cues provided are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text appears to be positive and enthusiastic about automotive customization, but without additional context or more explicit indicators of sarcasm, it is difficult to definitively determine the sarcastic polarity.
+next_cue_response:emotional words
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text appears to be positive and enthusiastic about automotive customization, but without additional context or more explicit indicators of sarcasm, it is difficult to definitively determine if the text is sarcastic.
+next_cue_response:common knowledge
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text appears to be positive and enthusiastic, but without additional context or more explicit indicators of sarcasm, it is difficult to definitively determine whether the text is sarcastic or not.
+next_cue_response:punctuation
+
+label:
+### label:
+not sarcastic",0
+"input:
+@sashadaisical @jojeharvey definitely the latter : o
+
+steps:
+no
+next_cue_response:language style
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text ""@sashadaisical @jojeharvey definitely the latter : o"" is informal and conversational, but without additional context or tone indicators, it is challenging to determine whether the statement is sarcastic or sincere.
+next_cue_response:rhetorical devices
+no. the given cues are not sufficient to detect the sarcastic polarity of the text. while the text indicates a preference for the latter option and uses informal, conversational language, there are no clear indicators of sarcasm such as exaggerated language, incongruity, or context that would suggest a sarcastic tone. the emoticon "": o"" could be interpreted in various ways and does not definitively indicate sarcasm.
+next_cue_response:emotional contrasts
+no. the given cues are not sufficient to detect the sarcastic polarity of the text. the text appears to be a straightforward response indicating a preference, and there are no clear indicators of sarcasm such as exaggerated language, contradictory statements, or specific contextual clues that would suggest a sarcastic tone.
+next_cue_response:keywords
+no. the given cues do not provide sufficient information to detect the sarcastic polarity of the text. the text appears to be a straightforward preference for the latter option without any clear indicators of sarcasm, such as exaggerated language, contradictory statements, or specific contextual clues that would suggest a sarcastic tone.
+next_cue_response:topic
+no. the given cues are not sufficient to detect the sarcastic polarity of the text. the text ""@sashadaisical @jojeharvey definitely the latter : o"" is informal and conversational, but it lacks clear indicators of sarcasm such as exaggerated language, contradictory statements, or specific contextual clues that would suggest a sarcastic tone. the emoticon "": o"" could imply surprise or emphasis, but it is not a definitive marker of sarcasm. therefore, with the provided information, it is not possible to confidently determine if the text is sarcastic.
+next_cue_response:common knowledge
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. the text ""definitely the latter : o"" could be interpreted as either sincere or sarcastic, and without additional context or more explicit indicators of sarcasm, it is difficult to make a confident judgment.
+next_cue_response:emotional words
+no
+next_cue_response:punctuation
+
+label:
+not sarcastic",0
+"input:
+porygon2 #are  found in the www.monstermmorpg. com #wild. bulbiest follow @monstermmorpg #working
+
+steps:
+no
+next_cue_response:rhetorical devices
+no. the given cues are not sufficient to detect the sarcastic polarity of the text. the informal language style, use of hashtags, social media handles, and lack of proper punctuation and capitalization do not provide enough context or clear indicators of sarcasm. sarcasm often relies on tone, context, and specific rhetorical devices, which are not present in the provided text.
+next_cue_response:emotional contrasts
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text. the text lacks clear rhetorical devices, explicit emotional contrasts, and proper punctuation, which are often helpful in identifying sarcasm. the informal language style, use of hashtags, and social media handles do not provide enough context to determine whether the text is sarcastic or not.
+next_cue_response:context
+no. the given cues are not sufficient to detect the sarcastic polarity of the text. the text lacks clear rhetorical devices, explicit emotional contrasts, and proper punctuation and capitalization, which are often helpful in identifying sarcasm. the informal language style, use of hashtags, and social media handles do not provide enough context to determine whether the text is sarcastic.
+next_cue_response:keywords
+no. the given cues are not sufficient to detect the sarcastic polarity of the text. the text lacks clear rhetorical devices, explicit emotional contrasts, and other indicators that typically signal sarcasm. the informal language style, use of hashtags, and social media handles do not provide enough context to determine whether the text is sarcastic or not.
+next_cue_response:topic
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text. the text lacks clear rhetorical devices, explicit emotional contrasts, and other indicators that typically signal sarcasm. the informal language style, use of hashtags, and social media handles do not inherently convey sarcasm.
+next_cue_response:common knowledge
+no, the given cues are not sufficient to detect the sarcastic polarity of the text. the text lacks clear rhetorical devices, explicit emotional contrasts, and other indicators that typically signal sarcasm. the informal language style, use of hashtags, and presence of a url do not provide enough context to determine whether the statement is sarcastic or not.
+next_cue_response:emotional words
+no
+next_cue_response:punctuation
+
+label:
+not sarcastic",0
+"input:
+@peteregan6 happy christmas to you + yours. may 2015 bring good health, happiness, every success and all you wish yourselves.
+
+steps:
+no
+next_cue_response:emotional contrasts
+no. the provided cues indicate a positive and sincere sentiment, with no clear indicators of sarcasm. the use of parallelism and the listing of positive wishes suggest genuine well-wishing rather than sarcasm.
+next_cue_response:context
+no. the provided cues focus on the positive sentiments and the rhetorical device of parallelism, but they do not address any indicators of sarcasm. sarcasm often relies on context, tone, and sometimes specific linguistic markers that are not evident in the given text. the text appears to be a straightforward, sincere holiday greeting without any clear signs of sarcasm.
+next_cue_response:language style
+no. the cues provided indicate that the text is a genuine, positive holiday greeting. there is no indication of sarcasm in the language, tone, or structure of the message. the use of parallelism, positive emotions, and informal, friendly language all support the interpretation of the text as sincere.
+next_cue_response:keywords
+no. 
+
+the cues provided indicate that the text is a genuine holiday greeting with positive sentiments and well-wishes. there is no indication of sarcasm in the language, tone, or structure of the message. the use of parallelism, positive emotions, and informal, friendly language all support the interpretation of the text as sincere. therefore, the cues are sufficient to detect that the text is not sarcastic.
+next_cue_response:topic
+no. the cues provided indicate that the text is a sincere holiday greeting with positive sentiments and well-wishes. there is no indication of sarcasm in the language, tone, or structure of the message. the use of parallelism, positive emotions, and informal, friendly language all support the interpretation of a genuine, heartfelt message.
+next_cue_response:punctuation
+no.
+next_cue_response:common knowledge
+no. the cues provided indicate that the text is a sincere holiday greeting with positive sentiments and well-wishes. there is no indication of sarcasm in the language, tone, or structure of the message.
+next_cue_response:emotional words
+
+label:
+### label:
+not sarcastic",0
+"input:
+just hangin' with ma dawg #eyesup http://t.co/uz9vbwcvze
+
+steps:
+no
+next_cue_response:context
+no
+next_cue_response:emotional contrasts
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text. the text ""just hangin' with ma dawg #eyesup"" accompanied by a link does not provide explicit emotional contrasts or other indicators that would clearly suggest sarcasm. it simply describes a casual and positive moment.
+
+label:
+not sarcastic",0
+"input:
+@tylerscruggs @tatious we're going to hotel vegas. it's a 1968 themed party.
+
+steps:
+no
+next_cue_response:emotional contrasts
+no
+next_cue_response:context
+no
+next_cue_response:language style
+no. the given cues indicate that the text is straightforward and lacks explicit rhetorical devices or emotional contrasts that are typically used to convey sarcasm. therefore, these cues are not sufficient to detect the sarcastic polarity of the text.
+next_cue_response:keywords
+no. the given cues indicate that the text is a straightforward statement without explicit rhetorical devices or emotional contrasts. the language is informal and conversational, and it simply announces plans to attend a themed party. there is no clear indication of sarcasm based on the provided information.
+next_cue_response:topic
+no. the given cues indicate that the text is straightforward and lacks explicit rhetorical devices or emotional contrasts that are typically used to convey sarcasm. therefore, these cues are not sufficient to detect the sarcastic polarity of the text.
+next_cue_response:common knowledge
+no. the given cues indicate that the text is a straightforward statement without explicit rhetorical devices or emotional contrasts. the language is informal and conversational, and it simply announces plans to attend a themed party. there is no indication of sarcasm based on the provided cues.
+next_cue_response:emotional words
+no. the given cues indicate that the text is a straightforward statement providing information about attending a 1968 themed party at hotel vegas. there are no explicit rhetorical devices, emotional contrasts, or other indicators of sarcasm. the language is informal and conversational, but it does not provide sufficient evidence to detect sarcastic polarity.
+next_cue_response:punctuation
+
+label:
+### label:
+not sarcastic",0
+"input:
+yay for days off. #coffee #harrypotter #christmasbreak #morning http://t.co/m93j3n7syc
+
+steps:
+no
+next_cue_response:rhetorical devices
+no. the provided cues about the informal and casual language style, use of hashtags, and the inclusion of a url are not sufficient to definitively detect the sarcastic polarity of the text. the text ""yay for days off"" could be interpreted as genuine enthusiasm or sarcasm, but without additional context or more specific linguistic markers of sarcasm, the judgment remains uncertain.
+next_cue_response:context
+no. the provided cues are not sufficient to detect the sarcastic polarity of the text with at most 40% uncertainty. while the text expresses excitement and uses hashtags to emphasize positive themes, sarcasm detection often requires more context, such as the author's usual tone, previous posts, or additional contextual information that might indicate whether the excitement is genuine or sarcastic.
+next_cue_response:emotional contrasts
+no. the given cues are not sufficient to detect the sarcastic polarity of the text with certainty. while the text expresses positive emotions and excitement about having a day off, the use of hashtags and the informal, casual style typical of social media posts do not provide clear indicators of sarcasm. sarcasm often relies on context, tone, and additional cues that are not present in the provided information.
+next_cue_response:keywords
+no. the cues provided indicate a positive and enthusiastic tone without any clear indicators of sarcasm. the use of hashtags and the overall context suggest genuine excitement about the day off, coffee, harry potter, and the christmas break. there are no contrasting negative emotions or other markers that typically signal sarcasm.
+next_cue_response:topic
+no. the provided cues indicate that the text expresses positive emotions and excitement about having a day off, enjoying coffee, and engaging with harry potter during the christmas break. there are no contrasting negative emotions or indicators of sarcasm mentioned in the cues. therefore, the cues are not sufficient to detect sarcastic polarity in the text.
+next_cue_response:punctuation
+no
+next_cue_response:common knowledge
+no. 
+
+the cues provided indicate that the text expresses positive emotions and excitement about having a day off, enjoying coffee, harry potter, and the christmas break. there are no contrasting negative emotions or indicators of sarcasm mentioned. the informal and casual language style, along with the use of hashtags, supports the positive sentiment. therefore, the cues are sufficient to detect the positive polarity of the text without significant uncertainty.
+next_cue_response:emotional words
+
+label:
+not sarcastic",0

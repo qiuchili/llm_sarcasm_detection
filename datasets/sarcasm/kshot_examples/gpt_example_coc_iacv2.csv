@@ -1,0 +1,363 @@
+Label,Example
+0,"Input:  
+""if the only choices we can possibly make are the one god approves, then we don't have free will, because we cannot free choose the option that god does not approve of, which means we are forced to only choose the options that god approves of. this is not free will.""  
+example label: not sarcastic
+
+Steps:  
+step 1: surface sentiment - the statement appears analytical and critical, containing phrases such as ""we don't have free will"" and ""we are forced."" there is no exaggerated or mocking tone, nor are there sentimental phrases or emojis typically associated with sarcasm.
+
+step 2: true intention - the sentence straightforwardly argues against the notion of free will under divine constraint. the language is literal and lacks the rhetorical devices typical of sarcasm.
+
+step 3: comparison and analysis - the surface sentiment matches the true intention, as both convey a serious argument without any underlying sarcasm.
+
+Label: not sarcastic"
+0,"Input:
+""but...but...   i just swallowed 56 zygotes so that they could vote by proxy through me for the ripofflican(tm) party this upcoming election so they can win. now i'm going to have all that indigestion for nothin'.   as to driving...don't care.   what i'll miss most is all of those credit card offers that come in their names. there's just so much that they, living though me want to 'buy now and pay later' on. you saying they can't do that?""
+
+Steps:
+**step 1: surface sentiment**
+- **keywords and phrases:** phrases like ""but...but..."", ""indigestion for nothin'"", ""don't care"", and ""credit card offers"" are laden with irony, humor, or exaggeration.
+- **tone:** superficially, the tone appears exaggerated and absurd, using humor and hyperbole to communicate.
+
+**step 2: true intention**
+- **rhetorical devices:** the text uses hyperbole (exaggerating the swallowing of zygotes) and sarcastic trademarks like ""ripofflican(tm) party"" to make a point about electoral processes and consumerism.
+- **language style:** the style shows clear signs of sarcasm through absurdity and over-the-top statements meant to mock or criticize.
+
+**step 3: comparison and analysis**
+- the surface sentiment reads as humorous and sarcastic, but the true intention is aligned with a critique carried out through these rhetorical devices.
+- however, it's crucial to validate the text against sarcasm signs like implied meaning opposite to the surface meaning. in this case, although humorous and exaggerated, the absurdity serves more as a rhetorical device to mock rather than authentic sarcasm. 
+
+Label:
+not sarcastic"
+0,"Input:
+""so you have a scumbag democrat screeching hate speech and we are supposed to believe it's true! get real baby even you don't believe this unless you have donated a vital organ associated with reasoning.""
+
+Steps:
+### step 1: surface sentiment
+- clues: ""scumbag democrat,"" ""screeching hate speech,"" ""get real baby,"" ""donated a vital organ associated with reasoning.""
+- sentimental phrases indicate a negative and offensive tone.
+- the use of strong, disparaging language suggests a high level of anger or frustration.
+
+### step 2: true intention
+- the speaker expresses a clear and genuine disbelief in the validity of what they perceive as ""hate speech"" by a ""scumbag democrat.""
+- the rhetorical devices like hyperbole (“donated a vital organ associated with reasoning”) emphasize the speaker's strong rejection of the statement's credibility.
+- no indirect criticism, exaggeration beyond belief, or apparent praise to imply the opposite meaning.
+
+### step 3: compare and analysis
+- surface sentiment (step 1) is strongly negative and straightforward.
+- true intention (step 2) matches the surface sentiment by explicitly indicating anger and disbelief.
+- no contradiction or hidden praise that would be indicative of sarcasm.
+
+Label:
+not sarcastic"
+0,"Input:
+""so what you are saying is simply that the genes do not actively control the body. what is wrong with assuming that genes therefore do not control the body is the fact that the genes were the blueprint for the body. the genes decided the arrangement of cells, the number of fingers, etc. the body, the cells, and the organelles within the cells are therefore strongly influenced by the dna sequence.""
+
+Steps:
+step 1: **surface sentiment analysis**
+   - **keywords/phrases:** ""genes"", ""blueprint for the body"", ""arrangement of cells"", ""influenced by the dna sequence"".
+   - **sentimental phrases:** descriptive and factual statements without any apparent emotional extreme.
+   - **surface sentiment:** neutral to informative.
+
+step 2: **true intention deduction**
+   - **rhetorical devices:** no evident use of sarcasm, irony, exaggeration, or other rhetorical devices that would hint at a different meaning from the literal one.
+   - **language style:** expository and scientific, aiming to correct a misconception by laying out factual information.
+   - **true intention:** to clarify and inform about the role of genes in the body’s development.
+
+step 3: **comparison and analysis**
+   - **surface vs. true intention:** both the surface sentiment and the true intention align closely, presenting a straightforward, factual argument.
+   - **final inference:** given the alignment between the surface sentiment and true intention, the final sarcasm label for this text is firmly **not sarcastic**.
+
+Label:
+not sarcastic"
+0,"Input:
+""but what about the hypothetical?i can't think of a single child on this planet that has never been exposed to the ideas of the supernatural. so, what i was asking is whether faith is nature or nurture. that's why i brought up kids being afraid of the dark, likely no matter what anyone tells them. i think it's this fear of the unknown linked to the 'logical' brain of a human that possibly creates this need for explanations. but faith involves specifics, so when the specifics are filled in and 'make sense' to more than one person, these specific 'explanations' can be passed down. so i don't know how much of faith is nature and how much is nurture.""
+
+Steps:
+**step 1: surface sentiment**
+- the text is neutral and analytical. it discusses ideas and asks a thought-provoking question without emotional or exaggerated language. there are no keywords that suggest mocking, sneering, or irony.
+
+**step 2: true intention**
+- the language used is straightforward and focused on explaining a concept regarding faith and the nature vs. nurture debate. the speaker does not use any rhetorical devices typical of sarcasm, such as exaggeration, irony, or contradiction.
+
+**step 3: comparison and analysis**
+- both the surface sentiment and true intention align as neutral and sincere. there is no deviation suggesting a hidden or contradictory meaning which is typical in sarcasm.
+
+Label:
+not sarcastic"
+0,"Input:
+i'd agree..... faith is a ""leap in the dark"" (or whatever similar phrase we care to use) on at least some level, there is always an element of the intangible there. i know christians who have described their faith to me in such terms before.. sounds quite reasonable to me.
+
+Steps:
+step 1: what is the surface sentiment, as indicated by clues such as keywords, sentimental phrases, emojis?
+- the surface sentiment appears to be neutral to positive. keywords such as ""agree,"" ""reasonable,"" and the absence of negative or mocking emotional indicators support a non-sarcastic tone.
+
+step 2: deduce what the sentence really means, namely the true intention, by carefully checking any rhetorical devices, language style, etc.
+- the true intention of the sentence is to express genuine agreement with the notion of faith involving an intangible or uncertain element. the language style is straightforward and lacks rhetorical devices commonly associated with sarcasm, such as hyperbole, irony, or exaggerated contrast.
+
+step 3: compare and analyze step 1 and step 2, infer the final sarcasm label.
+- both the surface sentiment and the true intention align in suggesting a sincere expression of agreement and understanding. there is no indication of mockery, irony, or insincerity.
+
+Label:
+not sarcastic"
+0,"Input:
+""why don't you just sum it up with 'if you're not a fundamentalist christian'? you also fail to consider christian agnostics.""
+
+Steps:
+**step 1: surface sentiment**
+- **keywords and phrases:**
+  - ""why don't you just sum it up with...""
+  - ""you also fail to consider...""
+- the use of these phrases suggests a critical yet straightforward inquiry.
+- no positive or negative sentimental phrases or emojis indicating strong emotion or exaggerated expression.
+
+**step 2: true intention**
+- **language style and rhetorical devices:**
+  - the language is direct and lacks a humorous or exaggerated tone often associated with sarcasm.
+  - the intention appears to be informative and corrective, rather than mocking or ironically contradicting a perceived stupidity or misunderstanding.
+
+**step 3: comparison and analysis**
+- **surface vs. true intention:**
+  - the surface sentiment reflects a critical assessment or an attempt to correct a perceived oversight.
+  - the true intention matches this assessment without any underlying irony or sarcasm.
+- **inference:**
+  - given the direct nature of the critique and the absence of exaggerated or ironic signals, the label ""not sarcastic"" is appropriate.
+
+Label:
+not sarcastic"
+0,"Input:
+""cases v united states, 131 f. 2d 916 (1st cir. 1942), cert. denied sub nom., velazquez v. u.s, 319 u.s. 770 (1943). basically, the us curcuit court upheld that the second amendment didn't apply to weapons that couldn't be carried by an individual.""
+
+Steps:
+**step 1: surface sentiment analysis**
+- **keywords and phrases:** the text includes legal citations and terminology.
+- **sentimental phrases:** the word ""basically"" simplifies the explanation without adding any emotional tone.
+- **emojis:** none present.
+- **sentiment:** neutral to informational.
+
+**step 2: true intention deduction**
+- **language style:** formal and factual, typically seen in legal contexts.
+- **rhetorical devices:** none observed. the language is direct and straightforward.
+- **true intention:** to convey information about a legal ruling without any additional commentary or implied meaning.
+
+**step 3: comparison and analysis**
+- **surface sentiment vs. true intention:** both align as neutral and purely informative.
+- **inference:** there are no indications of sarcasm in either the surface wording or the deeper intention of the text.
+
+Label:
+not sarcastic"
+0,"Input:
+""i'm not surprised. that's a typical response when someone calls your bluff. waxy""
+
+Steps:
+**step 1: surface sentiment**
+- the keywords and phrases include ""i'm not surprised,"" ""typical response,"" and ""calls your bluff.""
+- these words and phrases imply a tone of straightforwardness and a logical continuation of events.
+- no sentimental phrases or emojis suggesting exaggeration or irony were present.
+
+**step 2: true intention**
+- the sentence is directly addressing a situation where someone responds predictably when their bluff is called.
+- the tone seems to be more informative and matter-of-fact rather than mocking or ironic.
+- there is no use of rhetorical devices that would indicate sarcasm.
+
+**step 3: comparison and analysis**
+- the surface sentiment and the true intention both align in a straightforward and logical manner.
+- the message conveyed does not contain any indications of sarcasm, such as exaggerated disbelief or irony.
+- based on the alignment between surface sentiment and true intention, the sentence appears to be factual and earnest.
+
+Label:
+not sarcastic"
+0,"Input:
+false. this is not a valid definition of atheism. atheism is the lack of theism (the belief in gods). certainly, if i said ""there isn't a tiger in my bathroom"", i wouldn't need to have a camera in there to see. it's called being reasonable.
+
+Steps:
+step 1: what is the surface sentiment, as indicated by clues such as keywords, sentimental phrases, emojis?
+the surface sentiment indicates an informative and factual stance. the speaker is correcting a definition and providing a logical analogy to make their point clearer. keywords like ""not a valid definition,"" ""being reasonable,"" and the overall factual tone suggest a calm and straightforward sentiment.
+
+step 2: deduce what the sentence really means, namely the true intention, by carefully checking any rhetorical devices, language style, etc.
+the speaker's true intention is to inform and correct misinformation about the definition of atheism. the analogy used (about the tiger in the bathroom) is meant to illustrate a point about reasonable beliefs without requiring evidence, not to mock or ridicule.
+
+step 3: compare and analysis step 1 and step 2, infer the final sarcasm label.
+the surface sentiment and the true intention both align with providing a factual correction and logical reasoning without any elements of sarcasm. the language use is straightforward and lacks any exaggerated irony or mocking tone that would signify sarcasm.
+
+Label:
+not sarcastic"
+1,"Input:
+""i wasn't aware that the candidates were the ones allowed to ask the debate questions. emoticonxconfused""
+
+Steps:
+#### step 1: surface sentiment
+- **keywords/sentimental phrases:** ""i wasn't aware"" suggests a potential lack of knowledge.
+- **emoji:** emoticonxconfused conveys confusion or surprise.
+
+#### step 2: true intention
+- **rhetorical devices/language style:** the phrase ""i wasn't aware"" often implies irony, suggesting that it is obvious or expected that candidates should not ask questions.
+- **context analysis:** analyzes the implication that it is unusual or inappropriate for candidates to ask debate questions, hinting at critique or disapproval.
+
+#### step 3: comparison and analysis
+- **surface vs. true intention:** the surface sentiment gives an impression of genuine surprise or confusion. however, the rhetorical device (irony) used indicates the sentence is meant to criticize or mock the idea that candidates are asking the questions.
+- **inference:** the discrepancy between the surface sentiment and the true intention confirms the label ""sarcastic.""
+
+Label:
+sarcastic"
+1,"Input:
+""well some people say i have split personalities and hacking a forum's software isn't hard to get two users.... so maybe i am, or maybe i'm not. emoticonxcensored""
+
+Steps:
+1. **step 1: surface sentiment analysis**
+   * **clues:** phrases like ""some people say"" often introduce opinions or assumptions about oneself. the statement ""hacking a forum's software isn't hard"" suggests it's an easy task, and this assertion is likely exaggerated. also, the phrase “so maybe i am, or maybe i’m not” is ambivalent and noncommittal.
+   * **sentiments:** despite being mixed, the statements use casual, dismissive, and somewhat deflective language. the emoticon ""emoticonxcensored"" implies a non-serious or ironic context.
+
+2. **step 2: true intention deduction**
+   * **rhetorical devices and style:** the use of casual language combined with the exaggerated statement about hacking suggests the speaker is not seriously admitting to or denying having split personalities. the phrase ""so maybe i am, or maybe i'm not"" coupled with the knowing nonchalance generally hints at denying the claim but in an ironic fashion.
+   * **true meaning:** the speaker is likely not serious about having split personalities or about the supposed ease of hacking software. the overall tone is mocking the idea rather than affirming or denying it genuinely.
+
+3. **step 3: comparison and analysis**
+   comparing the surface sentiment and the true intention reveals a clear mismatch. the speaker's casual dismissal of what is generally a serious accusation (split personalities) and the exaggerated claim about hacking forums reflect an ironic and mocking stance.
+
+Label:
+sarcastic"
+1,"Input:
+""oh, it's obvious that non-darwinists have no affect on you guys. nothing will ever change your mind because your mind is not made up on the evidence...it's made up on your worldview and your belief in materialism.""
+
+Steps:
+**step 1: surface sentiment**
+- clues: the phrase ""oh, it's obvious"" hints at a dismissive or condescending tone.
+- sentimental phrases: ""nothing will ever change your mind"" is exaggerated, suggesting an immovable stance.
+- overall sentiment: although the statement might initially seem factual, the choice of words implies a critical and possibly mocking tone.
+
+**step 2: true intention**
+- rhetorical devices: the statement uses hyperbole (""nothing will ever change your mind"") and generalization (""your mind is not made up on the evidence"").
+- language style: the directness and assertiveness hint at irony, especially when paired with phrases like ""obvious,"" which often signal sarcasm.
+- underlying message: the speaker likely does not actually believe that the audience's minds are closed solely due to materialism.
+
+**step 3: comparison and analysis**
+- surface sentiment vs. true intention: the apparent surface sentiment might come off as a harsh critique, but the tone and exaggeration signal a deeper sarcasm.
+- inference: the true intention is not to present a genuine argument but to mock the closed-mindedness attributed to the audience.
+
+Label:
+sarcastic"
+1,"Input:
+""here we go again. emoticonxrolleyes another bible thumping straight individual with no formal training in the subject matter, professing to be an expert on how homosexuals feel. get a life.""
+
+Steps:
+#### step 1: surface sentiment
+- **keywords and phrases**: ""here we go again"", ""another bible thumping straight individual"", ""no formal training"", ""professing to be an expert"", ""get a life"".
+- **emojis/emoticons**: emoticonxrolleyes (indicates eye-rolling, a common sign of exasperation or sarcasm).
+
+#### step 2: true intention
+- **rhetorical devices**: the statement employs dismissal and exasperation, indicating dissatisfaction or disbelief. 
+- **language style**: the use of phrases such as ""here we go again"" and ""another bible thumping straight individual"" indicates a repetitive and negative tone. the closing remark ""get a life"" functions as a dismissive insult.
+- **implied meaning**: the speaker doesn't believe the individual has any true expertise or value to offer on the subject of how homosexuals feel and is expressing contempt toward them.
+
+#### step 3: comparison and analysis
+- **surface vs true intention**: the surface sentiment is dismissive and negative, as indicated by the eye-rolling emoticon and phrases like ""here we go again"". the true intention, exposed by the use of rhetorical devices and language style, is to mock and discredit the individual’s claim or authority on the matter.
+
+Label:
+sarcastic"
+1,"Input:
+and sotomayor argued that the american people have absolutely no right to defend themselves. what's your point?
+
+Steps:
+step 1: what is the surface sentiment, as indicated by clues such as keywords, sentimental phrases, emojis?
+surface sentiment appears to be dismissive and confrontational due to the phrase ""what's your point?""
+
+step 2: deduce what the sentence really means, namely the true intention, by carefully checking any rhetorical devices, language style, etc.
+the term ""absolutely no right"" is exaggerated, hinting that the speaker doesn't genuinely believe sotomayor made such an argument. the follow-up ""what's your point?"" implies that the preceding statement is intentionally overstated and not taken seriously.
+
+step 3: compare and analyze step 1 and step 2, infer the final sarcasm label.
+the apparent contradiction between the exaggerated claim and the dismissive follow-up suggests the speaker is being sarcastic by mocking the idea that sotomayor's argument is so extreme.
+
+Label:
+sarcastic"
+1,"Input:
+""that's not evolution, that's abiogenesis. human memory? how long do you suppose that is? decide? now you're pulling our legs. the rest of the ape family will never evolve into humans. btw we are apes. simply not true. your sources are lying to you. truer words were never spoken. except most people with a scientific background reject the supposed evidence against evolution and for good reason, it doesn't exist.""
+
+Steps:
+#### step 1: surface sentiment
+- **keywords:** ""pulling our legs,"" ""simply not true,"" ""truer words were never spoken.""
+- **sentimental phrases:** these phrases typically would indicate disbelief, strong negation, or mock praise.
+
+#### step 2: true intention
+- **rhetorical devices:** the use of ""pulling our legs"" is a clear indicator of disbelief or jest. phrases like ""simply not true"" and ""truer words were never spoken"" are often used sarcastically to contradict the preceding statement.
+- **language style:** the progression of statements leads to a critical deconstruction of the arguments, employing skepticism and irony to counter positions against evolution.
+
+#### step 3: comparison and analysis
+- the surface sentiment and true intention both display significant elements of disbelief and irony.
+- the keywords and phrases exhibit typical sarcastic language.
+
+Label:
+sarcastic"
+1,"Input:
+""i do recognise the truth, but you know nothing of it. when i hit the other side i'll be in the ground, rotting just like you will be, though i suspect the earth round you will be somewhat more bitter.""
+
+Steps:
+#### step 1: surface sentiment
+- **surface sentiment**: the surface sentiment appears condemning and slightly bitter. keywords and phrases like “you know nothing of it,"" ""rotting,"" and ""bitter"" suggest a negative tone.
+- **sentimental phrases**: statements such as ""you know nothing"" and ""earth round you will be somewhat more bitter"" contribute to a disparaging tone.
+
+#### step 2: true intention
+- **rhetorical devices**: the sentence uses irony and mocking language, particularly in contrasting the recognition of ""truth"" with the assertion that the listener knows nothing of it.
+- **language style**: the style is sharp and biting, suggesting that the speaker is sarcastically diminishing the other person’s understanding or experience.
+
+#### step 3: comparison and analysis
+- **compare surface and true sentiment**: the surface sentiment seems disparaging, but there’s an underlying irony. the speaker's claim about recognizing the truth while saying the other knows nothing of it juxtaposes self-praise with scorn towards the other person.
+- **inference**: the mismatch between the apparent acknowledgement ""i do recognise the truth"" and the denigrating follow-up establishes the sarcasm.
+
+Label:
+sarcastic"
+1,"Input: do you know how many osama bin ladens we killed???? emoticonxrolleyes
+
+Steps:
+step 1: **surface sentiment**
+- **keywords & sentimental phrases**: ""osama bin ladens,"" ""killed,"" ""????"" (indicates strong emotion), ""emoticonxrolleyes"" (indicates exasperation or disbelief).
+- the sentence appears to express frustration or disbelief.
+
+step 2: **true intention**
+- **rhetorical devices & language style**:
+  - **hyperbole**: the phrase ""how many osama bin ladens"" suggests exaggeration since there is only one osama bin laden.
+  - **emoticonxrolleyes**: this emoticon typically signals sarcasm, skepticism, or irritation.
+- **deduction**: the speaker is likely pointing out the absurdity of repeatedly claiming to have killed the same individual.
+
+step 3: **comparison & analysis**
+- the surface sentiment shows strong emotion and exasperation.
+- the true intention is to highlight the ridiculousness of a situation, indicating a mismatch between what is said and what is meant.
+- this difference is a hallmark of sarcasm.
+
+Label:
+sarcastic"
+1,"Input:
+""genocide, are you on drugs? what the hell are you talking about? just don't burn an american flag in front of me and you won't have to worry about it...........""
+
+Steps:
+**step 1: surface sentiment**
+the statement contains strong language and aggressive tones. phrases like ""are you on drugs?"" and ""what the hell are you talking about?"" indicate frustration or incredulity. the phrase ""just don't burn an american flag in front of me and you won't have to worry about it..........."" appears as a disdainful resolution to mitigate a potential issue. 
+
+**step 2: true intention**
+by analyzing the language style and rhetorical devices, it's clear that the speaker isn't genuinely concerned about the specific act of burning an american flag but is using it to ridicule or dismiss the previous statement about genocide. the extreme overreaction implies mocking the seriousness or likelihood of flag burning in this context, particularly given the ellipsis which adds a dramatic pause for effect.
+
+**step 3: comparison and analysis**
+these steps reveal a significant mismatch between the surface sentiment (supposed 'concern' about flag burning) and true intention (ridicule or trivialization of the initial statement about genocide). the exaggerated manner and tone suggest sarcasm, as the speaker's real intention is to ridicule the idea presented as inconsequential.
+
+Label:
+sarcastic"
+1,"Input:
+you can't create an artificial minority, wave a magic wand and declare that they should be granted a special status. that not how it should works.
+
+Steps:
+1. **step 1: surface sentiment**
+    - **keywords and phrases:** ""artificial minority,"" ""wave a magic wand,"" ""special status,"" ""that not how it should works.""
+    - the keywords imply artificiality and whimsicality in decision-making.
+    - the phrase ""wave a magic wand"" suggests an unrealistic or fanciful approach.
+    
+2. **step 2: true intention**
+    - **rhetorical devices:** the use of ""wave a magic wand"" is metaphorical, indicating that the situation described is far-fetched or impractical. 
+    - **language style:** the statement uses exaggeration and an almost mocking tone to dismiss the possibility described.
+    - **context:** the intention appears to criticize the notion that simply declaring a group ""special"" is enough without considering other practical implications.
+
+3. **step 3: compare and analyze**
+    - **surface sentiment vs. true intention:** on the surface, it seems to reject the possibility of easily granting special status to an artificial minority. the true intention, however, is critical and dismissive, implying the absurdity of the idea.
+    - **inference:** the exaggerated and mocking tone, along with the rhetorical flourish, strongly suggests sarcasm.
+
+Label:
+sarcastic"

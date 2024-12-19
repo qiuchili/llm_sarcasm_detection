@@ -1,0 +1,344 @@
+Label,Example
+0,"Input:
+body language for confidence - the easiest thing you can do to make a difference: http://t.co/jv92osrvuo via> @drgarywood
+
+Steps:
+1. **surface sentiment**: the tweet appears positive and straightforward. keywords like ""confidence,"" ""easiest thing,"" and ""make a difference"" indicate positivity and encouragement.
+   
+2. **true intention**: checking for rhetorical devices or a sarcastic tone, none are evident. the tweet promotes a link to dr. gary wood's content on body language for confidence. the language is direct and instructional, typical for genuine recommendations or advice-sharing.
+
+3. **comparison and analysis**:
+   - the surface sentiment of positivity aligns with the true intention of offering helpful advice.
+   - the language used lacks any markers of sarcasm such as exaggeration, irony, or a mocking tone.
+
+Label:
+not sarcastic"
+0,"Input:
+- sailing-|×|#me #selfie #ootd  #cool  #cute #girl #tumblr #black #style #rock #punk #vsco... http://t.co/sdn3w9kqvk
+
+Steps:
+step 1: what is the surface sentiment, as indicated by clues such as keywords, sentimental phrases, emojis?
+- the post includes positive and trendy hashtags such as #cool, #cute, #style, which generally convey a positive and upbeat sentiment. there are no clear indications of negativity or sarcasm in the hashtags or the language used.
+
+step 2: deduce what the sentence really means, namely the true intention, by carefully checking any rhetorical devices, language style, etc.
+- the language style is straightforward, consisting of mostly hashtags commonly used on social media platforms to describe content about fashion, style, and personal updates. the inclusion of a link suggests that the user is sharing something they are excited about, possibly related to fashion or a personal photo. there are no rhetorical devices evident that would hint at an underlying sarcastic meaning.
+
+step 3: compare and analyze step 1 and step 2, infer the final sarcasm label.
+- the surface sentiment remains positive and consistent with typical social media posts. no contradictory elements suggest sarcasm. therefore, both the surface sentiment and true intention indicate a genuine, non-sarcastic context.
+
+Label:
+not sarcastic"
+0,"Input:
+@jimmyrollins11 i hope you know how much we really loved you here in philly. to the greatest shortstop in phillies history, thank you!
+
+Steps:
+**step 1: surface sentiment**
+the surface sentiment is indicated by the following clues:
+- keywords: ""loved you,"" ""greatest,"" and ""thank you""
+- sentimental phrases: ""i hope you know how much we really loved you,"" ""to the greatest shortstop""
+- the overall tone is positive and appreciative.
+
+**step 2: true intention**
+- there are no rhetorical devices or language styles suggesting irony or sarcasm. 
+- the tone and language are straightforward and sincere.
+- the message acknowledges and expresses genuine gratitude and admiration.
+
+**step 3: comparison and analysis**
+- the surface sentiment (step 1) is positive and appreciative.
+- the true intention (step 2) aligns with the surface sentiment.
+- there is no contradiction or hidden meaning that would indicate sarcasm.
+
+Label:
+not sarcastic"
+0,"Input:
+""giving 200 cr. water subsidy to 'public' is a crime & wasting 200 cr. on advertisement is development...waah ji waah http://t.co/q6xoguml9t""
+
+Steps:
+**step 1: surface sentiment**
+- sentimental phrases: ""crime,"" ""development""
+- clues: the use of capitalization in ""crime"" and ""development"" suggest strong emotions.
+- sarcastic indicators: the interjection ""waah ji waah"" typically implies admiration or amazement, but here it is used in a context that contradicts the sentiments expressed.
+
+**step 2: true intention**
+- the statement juxtaposes the government's allocation of resources: a subsidy considered a ""crime"" versus spending on advertisement labeled as ""development.""
+- the use of contrasting terms alongside a rhetorical device (juxtaposition) indicates criticism.
+- the interjection ""waah ji waah"" is used sarcastically to underscore the perceived absurdity of the contrasting actions.
+
+**step 3: comparison and analysis**
+- surface sentiment: seems admiring but context indicates criticism.
+- true intention: clearly, the author's intent is to criticize the allocation of funds.
+- the critical tone and use of ""waah ji waah"" sarcastically to highlight the absurdity suggest sarcasm.
+
+Label:
+not sarcastic"
+0,"Input: am really fuckin paying for it today #tequila #is  #the #one
+
+Steps:
+1. **surface sentiment analysis:** 
+   - **keywords:** ""am really fuckin paying for it today""
+   - **hashtags:** #tequila, #is, #the, #one
+   - **sentimental phrases:** the use of ""really fuckin paying for it"" suggests a negative or regretful sentiment.
+   - **emojis:** none present.
+
+2. **true intention deduction:** 
+   - **rhetorical devices/language style:** the hyperbolic and straightforward style does not contain irony or opposite meanings. it suggests genuine regret or discomfort, likely due to the aftermath of drinking tequila.
+   
+3. **comparison and analysis:**
+   - both the surface sentiment (regret/discomfort) and the true intention (regret/discomfort due to drinking) align directly. the expression lacks the contrast typically associated with sarcasm, where one says something but means the opposite.
+
+Label: not sarcastic"
+0,"Input:
+@panndder @mylittlebloggie @bloisolson how dare you accuse me of being a boomer.
+
+Steps:
+step 1: identify surface sentiment:
+the surface sentiment appears defensive and indignant, marked by the phrase ""how dare you accuse me,"" which typically expresses offense or affront. no sentimental phrases or emojis suggest a humorous or exaggerated tone.
+
+step 2: deduce true intention:
+the language style does not contain exaggerated praise, irony, or humor typically associated with sarcasm. the direct confrontation ""how dare you"" signals genuine indignation and a straightforward response to an accusation.
+
+step 3: compare and analyze:
+the surface sentiment of defensiveness aligns with the true intention of expressing genuine indignation. no discrepancy between the apparent emotion and the underlying purpose was identified.
+
+Label:
+not sarcastic"
+0,"Input: @dedpool1979 there wasn't room for #loveyoubro
+
+Steps:
+**step 1: surface sentiment**
+- **keywords and phrases:** the hashtag #loveyoubro typically conveys a positive and affectionate sentiment.
+- **sentimental indicators:** the use of ""love"" in the hashtag directly suggests a positive emotion.
+
+**step 2: deduction of true intent**
+- **rhetorical devices:** the phrase ""there wasn't room for"" could imply a literal or figurative lack of physical or metaphorical space.
+- **language style:** the sentence does not employ overtly sarcastic language, such as exaggerated praise or overly negative words.
+
+**step 3: comparison and analysis**
+- **surface vs. true intent:** the surface sentiment is affectionate due to #loveyoubro. the statement about ""there wasn't room"" likely refers to a context-specific situation (e.g., physical space, social media post limitations) rather than an attempt at sarcasm. no stark contrast between surface sentiment and true intent is evident.
+
+Label: not sarcastic"
+0,"Input:
+@the_bearded_1 and when you overpay for that talent you get stuck w/ that talent. which perpetuates the losing cycle the cubs are in.
+
+Steps:
+step 1: surface sentiment: the sentiment appears critical and negative, focusing on the consequences of overpaying for sports talent and its effect on the cubs' performance. key phrases include ""overpay for that talent"" and ""perpetuates the losing cycle,"" which suggest disapproval and frustration.
+
+step 2: true intention: upon examining the language, there is no indication of irony, exaggeration, or incongruity that would suggest sarcasm. the statement is straightforward in expressing a clear opinion about the correlation between financial decisions and the cubs' performance struggles.
+
+step 3: comparison and analysis: both the surface sentiment and true intention align in their critical viewpoint without any rhetorical devices implying sarcasm. the criticism appears genuine and earnest.
+
+Label:
+not sarcastic"
+0,"Input:
+""#finalsweekgotmelike ugh. make it stop. #finals #finalsweek #ewu http://t.co/eyyodv2anv""
+
+Steps:
+- **step 1: surface sentiment:**
+  - keywords and sentimental phrases: ""ugh. make it stop.""
+  - indicates frustration and exhaustion.
+  - hashtags: #finals, #finalsweek, #ewu indicate a stressful time.
+
+- **step 2: true intention:**
+  - rhetorical devices: the phrase ""ugh. make it stop."" is a common and straightforward expression of frustration.
+  - language style:
+    - direct complaint about finals week.
+    - no evident exaggeration, irony, or contradiction that suggests sarcasm.
+  
+- **step 3: compare and analyze:**
+  - surface sentiment matches the true intention: both indicate frustration and exhaustion due to finals week.
+  - no divergence from surface sentiment and deeper meaning.
+
+Label:
+not sarcastic"
+1,"Input:
+@tyquorshaaa: jackie just had the best joke i've heard in awhile | :face_with_tears_of_joy::weary_face::see-no-evil_monkey::see-no-evil_monkey::see-no-evil_monkey:
+
+Steps:
+#### step 1: surface sentiment
+- keywords: ""best joke i've heard in awhile"" suggests high praise.
+- emojis: 
+  - :face_with_tears_of_joy:: typically used to indicate something very funny.
+  - :weary_face:: often used to express sarcasm or exaggeration.
+  - :see-no-evil_monkey:: can imply something awkward or something meant to be hidden.
+
+#### step 2: true intention
+- rhetorical device: the phrase ""best joke i've heard in awhile"" could be an exaggeration.
+- contradictory emojis: :weary_face: and :see-no-evil_monkey: can hint at an underlying insincerity, suggesting that the speaker may not genuinely find the joke funny.
+
+#### step 3: comparison and analysis
+- the surface sentiment is seemingly positive.
+- the use of mixed emojis (particularly :weary_face:) indicates a potential disjunction between the expressed sentiment and the true intention.
+- the presence of :see-no-evil_monkey: multiple times adds a layer of awkwardness or disbelief to the statement.
+
+Label:
+sarcastic"
+1,"Input:
+listening to a guy who decimated his team explaining to another how to build teams... hahahahaha aaaah.  #tragedy
+
+Steps:
+**step 1: assessing the surface sentiment**
+- **keywords/phrases:** ""decimated his team,"" ""explaining to another how to build teams,"" ""hahahahaha aaaah,"" ""#tragedy.""
+- **sentimental phrases and emojis:** the laughter indicated by ""hahahahaha"" might seem positive, but the term ""decimated his team"" and the hashtag ""#tragedy"" introduce a negative connotation.
+
+**step 2: deducing the true intention**
+- **rhetorical devices & language style:** there's clear use of irony here. the phrase ""decimated his team"" starkly contrasts with the role of ""explaining to another how to build teams,"" suggesting incompetence rather than expertise. the ""hahahahaha aaah"" contrasts humor with disappointment, and ""#tragedy"" solidifies the negative reality being highlighted.
+
+**step 3: comparing surface sentiment and true intention**
+- **surface vs. true meaning:** while the surface appears mixed (some laughter and seemingly instructional content), the true intention is deeply ironic. the speaker finds it absurd that someone who failed (""decimated his team"") is giving advice on the same topic.
+
+Label:
+sarcastic"
+1,"Input: 
+those were some great last minute substitutions @tomcrean
+
+Steps:
+step 1: what is the surface sentiment, as indicated by clues such as keywords, sentimental phrases, emojis?
+- surface sentiment: on the surface, the sentence appears to be positive. the phrase ""great last minute substitutions"" suggests a compliment or approval of the action.
+
+step 2: deduce what the sentence really means, namely the true intention, by carefully checking any rhetorical devices, language style, etc.
+- true intention: given the context and the use of a public tag (@tomcrean), the sentence may imply criticism. the use of ""great"" in combination with ""last minute substitutions"" can indicate that the substitutions were unexpected and possibly led to a negative outcome, hinting at irony or sarcasm.
+
+step 3: compare and analysis step 1 and step 2, infer the final sarcasm label.
+- the surface sentiment is positive, but the true intention, given the context of how unexpected last-minute decisions typically backfire in sports, suggests criticism. the discrepancy between the surface praise and true criticism indicates the sentence is sarcastic.
+
+Label: sarcastic"
+1,"Input
+""learned to play 3 string notes on the guitar #pro#idiot""
+
+Steps:
+#### step 1: surface sentiment
+the sentence uses the hashtag ""#pro"" which is commonly associated with being proficient or skilled. however, it also uses the hashtag ""#idiot"", a derogatory term suggesting incompetence.
+
+#### step 2: true intention
+the juxtaposition of ""pro"" (professional) with ""idiot"" creates a contrast that is inherently sarcastic. the speaker claims to be a ""pro"" for a minimal achievement (""3 string notes""), which is an intentionally exaggerated statement to highlight their lack of real skill.
+
+#### step 3: comparison and analysis
+the surface sentiment has conflicting indicators: ""pro"" suggests competence while ""idiot"" suggests incompetence. the true meaning becomes clear through this contradiction, revealing the statement is not meant to be taken at face value but rather sarcastically mocks the minimal achievement.
+
+Label:
+sarcastic"
+1,"Input:
+""love being able to be comfortable in my own room:smiling_face_with_open_mouth::thumbs_up_sign:""
+
+Steps:
+#### step 1: surface sentiment
+the sentence superficially appears to have a positive sentiment. phrases like ""love being able to be comfortable in my own room"" and the use of emojis (smiling face and thumbs-up) contribute to this.
+
+#### step 2: true intention
+however, the structure and word choice need further examination to uncover the actual sentiment. ""love being able to be comfortable"" combined with the casual, almost exaggerated tone often suggests that the speaker is implying the opposite of what's being stated. 
+
+#### step 3: comparison and analysis
+by juxtaposing the surface sentiment (positive) with the inferred underlying sentiment (negative or frustrated), the incongruity indicates sarcasm. there could be an unintended situation that's the opposite of comfort, making the statement sarcastic.
+
+Label:
+sarcastic"
+1,"Input:
+""i like listening to dads truck drivers tell me about them going to the strip joint and their old lady getting mad at them over it :face_with_tears_of_joy:""
+
+Steps:
+**step 1: surface sentiment**
+- the phrase ""i like listening to"" suggests a positive sentiment.
+- the emoji "":face_with_tears_of_joy:"" usually indicates laughter or enjoyment.
+
+**step 2: true intention**
+- the content of the sentence involves truck drivers talking about visiting strip joints and their wives getting angry, which is typically not something people genuinely enjoy hearing about.
+- the use of informal and slightly derogatory terms like ""dads truck drivers"" and ""their old lady"" suggests a mocking tone.
+
+**step 3: compare and analysis**
+- the surface sentiment (positive, enjoyment) is sharply contrasted by the actual content (which implies annoyance or discomfort), indicating sarcasm.
+
+Label: 
+sarcastic"
+1,"Input:
+@mikeloburgio @barackobama protecting the namesake of a #palinspawn
+
+Steps:
+**step 1: surface sentiment**
+- keywords: ""protecting"", ""namesake"", ""palinspawn""
+- sentimental phrases or markers: the use of ""#palinspawn"" hints at mockery or disdain.
+
+**step 2: true intention**
+- rhetorical devices: the term ""palinspawn"" is a derogatory reference to sarah palin, indicating mockery.
+- language style: the phrase suggests the speaker is criticizing or making fun of someone related to sarah palin, using the idea of ""protecting"" sarcastically.
+
+**step 3: comparison and analysis**
+- surface sentiment seems positive with the word ""protecting.""
+- true intention, determined by the derogatory term ""palinspawn,"" indicates a mocking and critical tone.
+
+Label:
+sarcastic"
+1,"Input:
+guess its just me, brett and my mom this year. gotta love my family!
+
+Steps:
+#### step 1: surface sentiment
+- keywords: ""gotta love my family!""
+- sentimental phrases: ""gotta love""
+
+the surface sentiment appears positive. the phrase “gotta love my family!” typically expresses affection and gratitude.
+
+#### step 2: true intention
+- rhetorical devices: irony
+- language style: casual, familiar tone
+
+the sentence states, ""guess it's just me, brett, and my mom this year,"" suggesting a small, potentially disappointing gathering. given the context, ""gotta love my family!"" likely carries an ironic tone.
+
+#### step 3: comparison and analysis
+- surface sentiment is positive.
+- true intention is likely frustration or disappointment.
+
+the stark contrast between the surface sentiment and the true intention suggests sarcasm.
+
+Label:
+sarcastic"
+1,"Input:
+""oh look at me! i'm making people happy! i'm a magical man from happy land! who lives in a gumdrop house on lolly pop lane!""
+
+Steps:
+1. **surface sentiment:**
+   - the surface sentiment of the sentence is very positive and cheerful. phrases like ""making people happy,"" ""magical man from happy land,"" and ""gumdrop house on lolly pop lane"" invoke imagery of happiness, magic, and fantasy places filled with joy.
+   
+2. **true intention:**
+   - upon closer inspection, the exaggerated and fantastical nature of the language suggests it's not meant to be taken literally. there is an over-the-top quality to the statement that implies a mockery of the sentiment being expressed.
+   
+3. **comparison and analysis:**
+   - the contrast between the surface sentiment (overly cheerful and fantastical) and the likely true intention (mockery or criticism of something not actually happy or magical) indicates sarcasm. the speaker is likely expressing frustration or dissatisfaction in a sardonic manner.
+
+Label:
+sarcastic"
+1,"Input:
+@harrys64 @dale_harris14 @rioferdy5 well done. you have more twitter followers than me. you have succeeded in life.
+
+Steps:
+**step 1: surface sentiment**
+the keywords and phrases appear positive on the surface, such as ""well done,"" ""you have more twitter followers,"" and ""you have succeeded in life.""
+
+**step 2: true intention**
+the true intention can be detected through the use of exaggeration and possibly mocking language. the phrase ""you have succeeded in life"" is an exaggerated statement that implies having more twitter followers is a trivial achievement compared to true measures of success in life.
+
+**step 3: compare and analyze**
+by comparing the surface sentiment with the true intention, it becomes clear that the positive surface sentiment is not genuine. instead, it uses exaggeration and mock praise to ridicule the idea that having more followers equates to real success in life.
+
+Label:
+sarcastic"
+0,"Input:
+#sorry  #sorry i always do this... #cant #help #it #im #an #asshole #like #that http://t.co/zp4jibpsbj
+
+Steps:
+**step 1: examine the surface sentiment**
+- keywords: ""sorry,"" ""always do this,"" ""can't help it,"" ""i'm an asshole""
+- hashtags: repeat usage of ""sorry"" shows apology or regret.
+- sentiment phrases: the tweet contains self-deprecating phrases like ""i'm an asshole.""
+- overall, the surface sentiment appears to express regret and self-blame.
+
+**step 2: determine the true intention**
+- language style: the double use of ""sorry"" and phrases that are self-reflective indicate genuine regret rather than ironic humor.
+- absence of hyperbole or extreme contrast between statements that usually signifies sarcasm. 
+- the tone seems consistent in conveying remorse.
+
+**step 3: comparison and analysis**
+- the surface sentiment of regret aligns with the true intention. there's no contradictory element or exaggerated contrast that would indicate sarcasm.
+- given that both the surface sentiment and the deeper meaning point toward genuine regret, the tweet is likely not sarcastic.
+
+Label:
+not sarcastic"

@@ -1,0 +1,358 @@
+Label,Example
+0,"Input: ""auntie just called and said shes on her way..|i better get dressed then :astonished_face::face_with_tears_of_joy::face_with_tears_of_joy:""
+
+Steps:
+step 1: surface sentiment
+- the first part is neutral, stating a fact about auntie calling.
+- the second part expresses surprise and amusement with the astonished face and laughing emojis.
+- the phrase ""i better get dressed then"" could be read as slightly exasperated, but the emojis suggest it's meant lightheartedly.
+
+step 2: true intention
+- the speaker is genuinely informing about their aunt's imminent arrival.
+- they're humorously acknowledging that they're not fully prepared (not dressed yet).
+- the emojis indicate they find the situation funny rather than annoying.
+
+step 3: comparison and analysis
+- the surface sentiment aligns with the true intention.
+- there's no contradiction between the words and the emojis.
+- the humor is self-deprecating rather than sarcastic towards others.
+
+Label:
+not sarcastic"
+0,"Input: ""short hair  #really http://t.co/yafc94nyz4""
+
+Steps:
+step 1: surface sentiment
+- the text ""short hair"" is neutral.
+- the hashtag ""#really"" could potentially indicate emphasis or skepticism.
+- there's a link, which likely leads to an image or more information.
+
+step 2: true intention
+- the tweet appears to be a straightforward comment about short hair.
+- the ""#really"" hashtag, in this context, likely emphasizes the short hair rather than expressing doubt or sarcasm.
+- the link probably shows an image of the short hair being referred to.
+
+step 3: comparison and analysis
+- there's no clear mismatch between the surface sentiment and the likely true intention.
+- the tweet seems to be a simple statement about short hair, possibly showing off a new haircut.
+- the ""#really"" emphasizes the shortness rather than contradicting it.
+
+Label:
+not sarcastic"
+0,"Input: ""to be an ass but ohh yeaa!!!! http://t.co/sf8jm2zpfd""
+
+Steps:
+step 1: surface sentiment
+- negative element: ""to be an ass""
+- positive element: ""ohh yeaa!!!!"" (enthusiastic exclamation)
+- the surface sentiment is mixed, with a negative self-description followed by enthusiasm
+
+step 2: true intention
+- the phrase ""to be an ass"" appears to be self-deprecating or acknowledging potentially negative behavior
+- ""ohh yeaa!!!!"" suggests genuine excitement or approval
+- the link at the end implies sharing content the user finds interesting or agreeable
+- the overall tone seems casual and genuine rather than ironic
+
+step 3: comparison and analysis
+- there's no clear mismatch between the surface sentiment and true intention
+- the tweet doesn't employ typical sarcastic devices like exaggeration or mock enthusiasm
+- the combination of self-deprecation and excitement is more likely genuine than sarcastic
+
+Label:
+not sarcastic"
+0,"Input: ""these guys are just amazing #gottalisten @cindybm2 the allman brothers band - stormy monday ( at fil...: http://t.co/gcaqwt2a50""
+
+Steps:
+step 1: surface sentiment
+- positive sentiment expressed through ""amazing""
+- use of ""#gottalisten"" encourages others to listen
+- sharing a link indicates genuine interest in sharing the music
+
+step 2: true intention
+- direct praise for the band
+- enthusiastic recommendation to listen
+- sharing specific song and link to facilitate easy access for others
+
+step 3: comparison and analysis
+- surface sentiment aligns with true intention
+- no contradictory elements or exaggeration that might suggest sarcasm
+- straightforward expression of admiration and recommendation
+
+Label:
+not sarcastic"
+0,"Input: ""history check anyone know what this is? http://t.co/ktr2yqkrxd""
+
+Steps:
+step 1: surface sentiment
+- the tweet contains a straightforward question
+- no obvious positive or negative sentiment words
+- no emojis or strong emotional indicators
+
+step 2: true intention
+- the user appears to be genuinely asking for information
+- the inclusion of a link suggests they are sharing an image or resource for others to identify
+- the phrasing ""history check"" implies they are seeking factual information related to history
+
+step 3: comparison and analysis
+- the surface sentiment aligns with the true intention
+- there's no discrepancy between what is said and what is meant
+- the tweet lacks any indicators of irony or hidden meaning
+
+Label:
+not sarcastic"
+0,"Input: ""there are things we are made to go through  to harm us but to given us a lesson to teach to someone weaker""
+
+Steps:
+step 1: surface sentiment
+- the statement acknowledges difficulties (""things we are made to go through"")
+- it suggests a negative aspect (""to harm us"")
+- but it also indicates a positive purpose (""to given us a lesson"")
+- overall, the surface sentiment is mixed, leaning towards a thoughtful or philosophical tone
+
+step 2: true intention
+- the sentence appears to be a genuine reflection on life's challenges
+- it suggests that hardships serve a purpose beyond immediate harm
+- the intention seems to be to express a belief in learning from difficulties
+- the phrase ""to teach to someone weaker"" implies a cycle of learning and sharing wisdom
+
+step 3: comparison and analysis
+- the surface sentiment aligns with the true intention
+- there's no apparent contradiction or exaggeration that would indicate sarcasm
+- the statement is straightforward and lacks typical sarcastic markers like irony or mocking tone
+- the message seems sincere in its attempt to find meaning in hardship
+
+Label:
+not sarcastic"
+0,"Input: ""#legend says if you stand in front of a mirror+say ""i can't even"" 3 times, a girl in #yogapants will appear+give you a pumpkin spice latte.""
+
+Steps:
+step 1: surface sentiment
+- the tweet uses playful language and references popular culture elements (yoga pants, pumpkin spice latte)
+- the tone is lighthearted and humorous
+- no overtly negative or critical keywords are present
+
+step 2: true intention
+- the tweet is crafting a modern, tongue-in-cheek ""urban legend""
+- it's combining stereotypical elements associated with young women's culture
+- the intention appears to be humor and social commentary, not criticism
+
+step 3: comparison and analysis
+- the surface sentiment aligns with the true intention
+- there's no significant mismatch between the literal meaning and the intended meaning
+- the humor is derived from exaggeration and absurdity, not from saying one thing and meaning the opposite
+
+Label:
+not sarcastic"
+0,"Input: ""one more all nighter and the semester is done""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears neutral to slightly negative. the phrase ""all nighter"" typically has a negative connotation, suggesting stress or exhaustion. however, ""the semester is done"" implies a sense of relief or accomplishment.
+
+step 2: true intention
+the true intention seems to align with the surface sentiment. the speaker is likely expressing a factual statement about their current situation - they need to pull one more late night of studying or work, and then their academic semester will be complete.
+
+step 3: comparison and analysis
+there is no significant discrepancy between the surface sentiment and the true intention. the statement appears to be a straightforward expression of the speaker's current academic situation, without any apparent irony or exaggeration that would indicate sarcasm.
+
+Label:
+not sarcastic"
+0,"Input: ""is khallilah henriques nnn all there? she mostly sounds blonde,but this morning confirmed it#ignorant on race relations#articulate minority.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears negative and critical. key phrases like ""is [she] all there?"", ""sounds blonde"", and hashtags ""#ignorant"" and ""#articulate minority"" suggest a disapproving tone towards the subject.
+
+step 2: true intention
+the true intention seems to align with the surface sentiment. the tweet appears to be genuinely questioning the subject's intelligence and criticizing her understanding of race relations. there are no clear indicators of irony or exaggeration that would suggest sarcasm.
+
+step 3: comparison and analysis
+the surface sentiment and true intention appear to be in alignment. the tweet expresses a straightforward negative opinion without employing sarcastic devices like exaggeration, mock praise, or ironic contrast.
+
+Label:
+not sarcastic"
+0,"Input: ""come on, it's lovely weather for a sleigh ride together with ewe. http://t.co/ceprvyqlgc""
+
+Steps:
+step 1: surface sentiment
+- positive keywords: ""lovely weather""
+- cheerful tone: ""come on"" suggests enthusiasm
+- romantic/festive imagery: ""sleigh ride together""
+
+step 2: true intention
+- the tweet appears to be a playful reference to a christmas song lyric
+- ""ewe"" is a pun on ""you,"" aligning with the lighthearted tone
+- the included link likely leads to an image or content related to the tweet
+
+step 3: comparison and analysis
+- the surface sentiment and true intention align
+- there's no indication of mockery or criticism
+- the wordplay is fun rather than sarcastic
+
+Label:
+not sarcastic"
+1,"Input: ""really looked forward to waking up this early for finals......""
+
+Steps:
+step 1: surface sentiment
+the phrase ""looked forward to"" typically indicates positive anticipation. this suggests a surface-level positive sentiment about waking up early for finals.
+
+step 2: true intention
+several clues indicate the true intention is likely negative:
+- the use of ""really"" at the start often signals sarcasm.
+- finals are generally stressful and not eagerly anticipated.
+- waking up early is usually considered unpleasant.
+- the excessive ellipsis (......)  at the end implies a trailing off, often used to convey skepticism or irony.
+
+step 3: comparison and analysis
+the surface positive sentiment (""looked forward to"") sharply contrasts with the likely negative true feelings about early mornings and finals. this mismatch, combined with the linguistic clues, strongly suggests sarcasm.
+
+Label:
+sarcastic"
+1,"Input: ""students too busy protesting a grand jury decision to study deserve to fail. actions have consequences.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears critical and unsympathetic towards protesting students. key phrases like ""deserve to fail"" and ""actions have consequences"" suggest a harsh, judgmental tone.
+
+step 2: true intention
+upon closer examination, the statement likely aims to critique the notion that civic engagement should be penalized academically. the exaggerated stance that students ""deserve to fail"" for participating in protests is likely meant to highlight the absurdity of such a view.
+
+step 3: comparison and analysis
+the discrepancy between the surface-level harsh judgment and the likely intention to criticize such judgment indicates sarcasm. the statement employs hyperbole to make a point about the value of civic engagement versus the potential academic consequences.
+
+Label:
+sarcastic"
+1,"Input: ""3:30am is a great time to learn the male reproductive system. with the biggest and brightest power point slides ever. #biology""
+
+Steps:
+step 1: surface sentiment
+- positive words: ""great,"" ""biggest,"" ""brightest""
+- enthusiasm about learning at 3:30am and using large, bright slides
+
+step 2: true intention
+- 3:30am is generally considered a very inconvenient time for studying
+- exaggerated language about slide size and brightness seems unrealistic
+- the hashtag #biology adds a sense of forced positivity
+
+step 3: comparison and analysis
+- the surface positivity contrasts sharply with the likely frustration of studying at such a late hour
+- the exaggerated praise for the powerpoint slides further emphasizes the disconnect between words and probable feelings
+- the overall tone suggests the author is actually complaining about their study situation while pretending to be excited
+
+Label:
+sarcastic"
+1,"Input: ""@tyquorshaaa: jackie just had the best joke i've heard in awhile| :face_with_tears_of_joy::weary_face::see-no-evil_monkey::see-no-evil_monkey::see-no-evil_monkey:""
+
+Steps:
+step 1: surface sentiment
+- positive phrases: ""best joke i've heard in awhile""
+- emojis: face with tears of joy (😂) suggests laughter
+- mixed signals: weary face (😩) and see-no-evil monkeys (🙈) hint at discomfort or embarrassment
+
+step 2: true intention
+- the use of contrasting emojis (laughing vs. weary/embarrassed) suggests a mismatch between words and feelings
+- overuse of see-no-evil monkeys implies wanting to unsee or forget something
+- capitalization of ""best joke"" may indicate exaggeration
+
+step 3: compare and analyze
+- the surface praise of the joke conflicts with the negative emojis
+- the exaggerated language combined with conflicting emotions points to sarcasm
+- the tweet likely means the joke was actually terrible or inappropriate, not genuinely good
+
+Label:
+sarcastic"
+1,"Input: ""wow writing 3 reviews on 3 concerts i didn't attend is exactly what i want to be doing right now instead of sleeping""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears positive due to:
+- ""wow"" expressing enthusiasm
+- ""exactly what i want to be doing"" suggesting desire and satisfaction
+
+step 2: true intention
+the true intention is likely negative, indicated by:
+- writing reviews for concerts not attended implies dishonesty or pointlessness
+- mentioning ""instead of sleeping"" suggests the task is interfering with a basic need
+- the exaggerated specificity (""3 reviews on 3 concerts"") hints at frustration
+
+step 3: comparison and analysis
+the stark contrast between the seemingly positive surface sentiment and the clearly negative true intention strongly indicates sarcasm. the speaker is using exaggeration and false enthusiasm to express their actual frustration and displeasure with the task.
+
+Label:
+sarcastic"
+1,"Input: ""the true definition - #iran hosting a conference against extremist! http://t.co/bt5ujr1cpa""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears positive or neutral. the phrase ""the true definition"" suggests something genuine or authentic. the exclamation mark after ""extremist"" could indicate enthusiasm or emphasis.
+
+step 2: true intention
+the use of ""the true definition"" is likely ironic, implying the opposite. iran, often associated with supporting extremism, hosting a conference against extremism creates a stark contradiction. the exclamation mark now reads as exaggerated disbelief rather than enthusiasm.
+
+step 3: comparison and analysis
+the surface sentiment (step 1) of authenticity and possible enthusiasm sharply contrasts with the likely true intention (step 2) of pointing out hypocrisy or absurdity. this mismatch between apparent meaning and intended meaning is a hallmark of sarcasm.
+
+Label:
+sarcastic"
+1,"Input: ""my teacher just gave me an ""i feel sorry for you look"" i must look really adorable...""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears positive due to the use of the word ""adorable,"" which typically has a positive connotation.
+
+step 2: true intention
+the true intention is likely negative or self-deprecating. the phrase ""i feel sorry for you look"" from the teacher suggests a negative situation. the contrast between this and claiming to look ""adorable"" indicates irony or sarcasm.
+
+step 3: comparison and analysis
+the surface positive sentiment (""adorable"") sharply contrasts with the implied negative situation (teacher feeling sorry). this mismatch is a classic indicator of sarcasm. the author is likely using self-deprecating humor to comment on their own misfortune or appearance.
+
+Label:
+sarcastic"
+1,"Input: ""@zachsellsmagic i thought all people did for the holiday was to stream holiday cube all day?!?!""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears to be one of surprise or confusion, indicated by the use of multiple punctuation marks (""?!?!"") and the phrase ""i thought,"" which suggests a mistaken belief.
+
+step 2: true intention
+the true intention is to humorously exaggerate and mock the idea that streaming holiday cube (likely referring to a magic: the gathering format) is the only activity people engage in during holidays. the author is using hyperbole to comment on the popularity of this activity among a certain group.
+
+step 3: comparison and analysis
+the surface sentiment of genuine surprise contrasts with the true intention of mocking exaggeration. this mismatch between the literal statement and the implied meaning is a clear indicator of sarcasm.
+
+Label:
+sarcastic"
+1,"Input: ""@davidvitty to watch re blues? chelsea's of course""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears neutral to slightly positive. the phrase ""of course"" could indicate enthusiasm or certainty about watching chelsea's blues.
+
+step 2: true intention
+upon closer inspection, the ""of course"" likely carries a different tone. it suggests obviousness or inevitability, potentially mocking the idea of watching chelsea. the question format and brevity also hint at a dismissive attitude.
+
+step 3: comparison and analysis
+the surface enthusiasm conflicts with the underlying dismissive tone. the ""of course"" is likely used ironically to imply the opposite - that watching chelsea is not desirable or worth consideration.
+
+Label:
+sarcastic"
+1,"Input: ""@outsilver87 @lasvegascapper ya, because if history has told us anything, it's that betting on sports is a great way to make money!""
+
+Steps:
+step 1: surface sentiment
+- the use of ""ya"" (informal ""yes"") and ""great"" in all caps suggests strong agreement and enthusiasm.
+- the phrase ""betting on sports is a great way to make money"" appears to be a positive statement about sports betting.
+
+step 2: true intention
+- the phrase ""if history has told us anything"" is often used to introduce a contradictory statement.
+- the exaggerated use of ""great"" in all caps hints at overstatement.
+- historically, most people lose money betting on sports, not gain it.
+
+step 3: comparison and analysis
+- the surface sentiment is overly positive about sports betting.
+- the true intention is to criticize or mock the idea that sports betting is profitable.
+- the stark contrast between the surface meaning and the implied meaning indicates sarcasm.
+
+Label:
+sarcastic"

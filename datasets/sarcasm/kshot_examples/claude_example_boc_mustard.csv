@@ -1,0 +1,221 @@
+Label,Example
+0,"Input: raj: what else? sell it on ebay as ""slightly used.""
+
+Cues:
+1. special symbols: none present.
+2. punctuation: question mark and quotation marks used normally.
+3. context: raj found a smashed ipod, and howard asked what he'll do with it.
+4. emotional contrasts: not evident.
+5. surface emotion: neutral, matter-of-fact tone.
+
+Label:
+not sarcastic"
+0,"Input: ""hey, does somebody wanna hand me one of those tiles.""
+
+Cues:
+1. emotional words: none present
+2. surface emotion: neutral, casual
+3. cultural background: no specific cultural indicators
+4. language style: informal, colloquial
+5. context: appears to be a casual request for assistance during a task
+
+Label:
+not sarcastic"
+0,"Input: ""raj: yeah, but you were just sleeping, because i forboded you to have sex.""
+
+Cues:
+1. emotional words: no strong emotional words present.
+2. surface emotion: mild confusion or assertion.
+3. punctuation: standard use of period, no excessive punctuation.
+4. rhetorical devices: none apparent.
+5. language style: casual, direct speech.
+
+Label:
+not sarcastic"
+0,"Input: rachel: what was that?!
+
+Cues:
+1. surface emotion: the use of ""?!"" indicates surprise and confusion, not sarcasm.
+2. common knowledge: in conversations, asking ""what was that?"" is typically a genuine question seeking clarification.
+3. punctuation: the ""?!"" emphasizes rachel's genuine shock or confusion.
+4. keywords: ""what"" is a standard question word used for seeking information.
+5. language style: the brief, direct question is consistent with natural, non-sarcastic speech.
+
+Label:
+not sarcastic"
+0,"Input: chandler: just a sec, give me a minute to wake up for this,ah-ha-ha!!
+
+Cues:
+1. context: the preceding dialogue suggests a sudden, unexpected situation (a missing ring).
+2. punctuation: the use of exclamation marks indicates genuine excitement or surprise.
+3. surface emotion: the ""ah-ha-ha!!"" suggests laughter or sudden realization.
+4. rhetorical devices: none apparent.
+5. special symbols: none used.
+
+Label:
+not sarcastic"
+0,"Input: rachel: oh.
+
+Cues:
+1. topic: casual conversation, unexpected encounter
+2. special symbols: none present
+3. common knowledge: ""oh"" is often used as a neutral acknowledgment
+4. surface emotion: mild surprise or understanding
+5. rhetorical devices: none evident
+
+Label:
+not sarcastic"
+0,"Input: chandler: hey, do you know a six-letter word for red?
+
+Cues:
+1. rhetorical devices: none present
+2. special symbols: none used
+3. topic: crossword puzzle, seeking help with a clue
+4. surface emotion: neutral, inquisitive
+5. cultural background: common activity of solving crossword puzzles
+
+Label:
+not sarcastic"
+0,"Input: phoebe: some guy bought it. i'm sorry. i tired to stop it but they put me in jail!
+
+Cues:
+1. special symbols: exclamation mark (!) indicates emphasis or strong emotion.
+2. emotional contrasts: none evident.
+3. topic: discussing a purchase and an attempt to stop it.
+4. emotional words: ""sorry"" expresses regret.
+5. rhetorical devices: hyperbole in ""they put me in jail!""
+
+Label:
+not sarcastic"
+0,"Input: ""raj: i've, uh, created some other user accounts so i can post positive comments about their paper.""
+
+Cues:
+1. topic: academic papers and online engagement
+2. special symbols: none present
+3. keywords: ""created,"" ""user accounts,"" ""post positive comments""
+4. context: discussion about academic work and online interactions
+5. common knowledge: researchers often seek positive feedback on their work
+
+Label:
+not sarcastic"
+0,"Input: phoebe: uh-huh!
+
+Cues:
+1. special symbols: none present
+2. punctuation: exclamation mark (!)
+3. emotional words: none present
+4. surface emotion: enthusiastic agreement
+5. keywords: ""uh-huh"" (affirmative response)
+
+Label:
+not sarcastic"
+1,"Input: chandler: gee, if only she were one and had no idea what a birthday was.
+
+Cues:
+1. keywords: ""gee"" (often used sarcastically), ""if only"" (expressing wishful thinking)
+2. rhetorical device: irony - chandler is pointing out the absurdity of the situation
+3. language style: casual, conversational tone typical of sitcom dialogue
+4. emotional contrast: feigned wistfulness vs. actual frustration
+5. common knowledge: one-year-olds don't understand birthdays
+
+Label:
+sarcastic"
+1,"Input: leonard: sure. you want to see what all the scientists are wearing this year.
+
+Cues:
+1. common knowledge: nobel prize ceremonies are prestigious academic events, not fashion shows.
+2. rhetorical device: irony is used to highlight the absurdity of watching the ceremony for fashion.
+3. cultural background: scientists are stereotypically not associated with fashion consciousness.
+4. keywords: ""scientists,"" ""wearing"" - juxtaposition of academic and fashion contexts.
+5. special symbols: none present, but the tone is implied through context.
+
+Label:
+sarcastic"
+1,"Input: ""well, if that's all it takes, it's a good thing you don't have a dog.""
+
+Cues:
+1. cultural background: the comment plays on the stereotype of people being easily swayed by ""puppy dog eyes.""
+2. emotional words: ""good thing"" is used ironically here.
+3. rhetorical devices: hyperbole and analogy comparing the situation to having a dog.
+4. emotional contrasts: the seemingly positive ""good thing"" is used to convey disapproval.
+
+Label:
+sarcastic"
+1,"Input: sheldon: exactly what it was half an hour ago. it's like you're not even trying to get better.
+
+Cues:
+1. rhetorical devices: hyperbole (""it's like you're not even trying"")
+2. keywords: ""exactly,"" ""half an hour ago,"" ""not even trying""
+3. emotional contrast: frustration vs. expectation of improvement
+4. surface emotion: annoyance or impatience
+5. language style: exaggerated, accusatory
+
+Label:
+sarcastic"
+1,"Input: ""howard: on a dusty highway just outside bakersfield. where do you think? on mars!""
+
+Cues:
+1. punctuation: the use of exclamation mark and question mark indicates strong emotion and emphasis.
+2. surface emotion: frustration and exasperation are evident in howard's response.
+3. topic: the topic shifts from a literal interpretation to the actual situation on mars.
+4. special symbols: none present.
+5. rhetorical devices: howard uses a rhetorical question ""where do you think?"" and provides an absurd initial answer before revealing the truth.
+
+Label:
+sarcastic"
+1,"Input:
+chandler: all right i'll have one.
+
+Cues:
+1. language style: informal, conversational tone typical of sitcom dialogue.
+2. cultural background: american sitcom context, likely ""friends"" based on character names.
+3. emotional contrasts: indecision followed by reluctant agreement.
+4. surface emotion: feigned enthusiasm or resignation.
+5. keywords: ""all right"" suggests a change of mind or reluctant acceptance.
+
+Label:
+sarcastic"
+1,"Input: chandler: lovely
+
+Cues:
+cultural background: the conversation appears to be between a couple, monica and chandler, likely from a western context.
+topic: the discussion is about time spent at home.
+emotional words: ""lovely"" - typically positive, but context suggests otherwise.
+common knowledge: couples often discuss daily activities and time spent together.
+keywords: ""home,"" ""half an hour,"" ""lovely""
+
+Label:
+sarcastic"
+1,"Input: ""i'm sorry, fiddling with yourself in the bathtub is a real class act.""
+
+Cues:
+1. special symbols: none present, but the phrase ""class act"" is often used sarcastically.
+2. emotional contrasts: the apology ""i'm sorry"" contrasts with the critical content that follows.
+3. context: the previous messages indicate a sexually charged and uncomfortable interaction.
+4. keywords: ""fiddling with yourself,"" ""bathtub,"" ""class act"" - these combine vulgar imagery with a phrase typically used for refinement.
+5. language style: casual and mocking, using euphemism (""fiddling"") for a crude act.
+
+Label:
+sarcastic"
+1,"Input: ""yeah, my parents felt that naming me leonard and putting me in advanced placement classes wasn't getting me beaten up enough.""
+
+Cues:
+1. surface emotion: bitterness, self-deprecation
+2. topic: childhood experiences, parental decisions
+3. rhetorical devices: exaggeration, irony
+4. keywords: ""beaten up,"" ""advanced placement,"" ""wasn't getting... enough""
+5. cultural background: stereotypes about nerdy, intelligent kids being bullied
+
+Label:
+sarcastic"
+1,"Input: howard: oh, and the science dudes want to talk science with you. what do you want to talk about-- rocks, dinosaurs, our friend the beaver?
+
+Cues:
+1. topic: science, but presented in a simplistic manner
+2. rhetorical devices: rhetorical question, list of oversimplified science topics
+3. surface emotion: condescension, mock enthusiasm
+4. punctuation: use of dashes and question mark for emphasis
+5. special symbols: none
+
+Label:
+sarcastic"

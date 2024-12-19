@@ -1,0 +1,245 @@
+Label,Example
+0,"Input: [the provided text about abortion and criminalization]
+
+Cues:
+1. emotional contrasts: the text presents a balanced view, acknowledging both the potential wrongness of abortion and the problems with criminalizing it. this nuanced approach suggests sincerity rather than sarcasm.
+2. special symbols: none present, which is consistent with a straightforward, non-sarcastic statement.
+3. cultural background: the text discusses a sensitive and controversial topic in western societies, indicating a serious tone rather than a sarcastic one.
+4. language style: the writing is formal and argumentative, using logical reasoning and personal examples. this style is more associated with genuine expression than sarcasm.
+5. surface emotion: the text conveys a sense of concern and thoughtfulness, rather than mockery or exaggeration typically found in sarcastic statements.
+
+Label:
+not sarcastic"
+0,"Input: ""simply pointing out that swords cut in both directions.   be that as it may, no one has refuted that there are more cases of concealed carry permit holders who have gone off and assaulted people than there have been school shootings.   care to try? omegaman tried, failed, and went silent on the topic.""
+
+Cues:
+1. language style: direct, assertive, and argumentative
+2. emotional contrasts: none apparent; consistent tone throughout
+3. rhetorical devices: use of metaphor (""swords cut in both directions""), rhetorical question (""care to try?"")
+4. punctuation: multiple ellipses, suggesting pauses or separate thoughts
+5. topic: gun control debate, specifically concealed carry permits vs. school shootings
+
+Label:
+not sarcastic"
+0,"Input: ""i believe that science explains the way god created the universe.""
+
+Cues:
+1. rhetorical devices: none apparent
+2. topic: science and religion
+3. punctuation: standard period, no exclamation marks or question marks
+4. keywords: ""science,"" ""god,"" ""universe,"" ""created""
+5. emotional words: ""believe"" (indicates sincere conviction)
+
+Label:
+not sarcastic"
+0,"Input: ""this is true from the atheistic and secular humanist perspective since they will grasp at any natural explanation, no matter how flimsy and shallow rather than the spiritual explanation. but it doesn't answer the specific question i asked at all.""
+
+Cues:
+1. punctuation: the text uses periods to separate complete thoughts and doesn't employ exaggerated punctuation often associated with sarcasm.
+2. cultural background: the text references atheism, secular humanism, and spirituality, suggesting a serious discussion about different worldviews.
+3. common knowledge: the contrast between naturalistic and spiritual explanations is a well-known debate in philosophical and religious circles.
+4. surface emotion: the tone appears critical but straightforward, without obvious indicators of mockery or irony.
+5. emotional contrasts: there's no sudden shift in emotional tone that might indicate sarcasm. the criticism is consistent throughout.
+
+Label:
+not sarcastic"
+0,"Input: [the provided text about religious groups, child abuse in churches, and the catholic church's credibility]
+
+Cues:
+1. punctuation: the text uses ellipses, quotation marks, and periods to separate thoughts and emphasize points, indicating a serious tone rather than sarcasm.
+2. surface emotion: the text conveys frustration and disapproval towards religious institutions, particularly the catholic church, without using sarcastic language.
+3. cultural background: the text references various religious groups and specific issues within the catholic church, suggesting a knowledgeable critique rather than sarcastic commentary.
+4. language style: the writing is direct and argumentative, using examples and analogies to support the points being made. this style is more consistent with sincere criticism than sarcasm.
+5. common knowledge: the text refers to widely reported issues of child abuse in religious institutions and controversies within the catholic church, using these as the basis for a serious argument rather than sarcastic remarks.
+
+Label:
+not sarcastic"
+0,"Input: ""funny. that's not what the articles say. all of the articles pretty much concentrate on the research as significant in support of the dinosaur/bird link. if you had been paying attention, you would have been aware that it had been previously established through other tests that protein remnants were present. thus, the amazement that protein remnants so old had been found had already passed.""
+
+Cues:
+1. emotional words: ""funny"" at the beginning might initially suggest sarcasm, but the rest of the text is factual and informative.
+2. context: the text discusses scientific articles and research findings, indicating a serious discussion.
+3. emotional contrasts: none present; the tone remains consistent throughout.
+4. keywords: ""articles,"" ""research,"" ""significant,"" ""dinosaur/bird link,"" ""protein remnants,"" ""tests"" - all suggest a factual, scientific context.
+5. rhetorical devices: the use of ""if you had been paying attention"" is a mild rebuke, not sarcasm.
+
+Label:
+not sarcastic"
+0,"Input: ""by all means, burn those books . . . er, i mean, take down those nativity scenes.""
+
+Cues:
+1. keywords: ""burn those books"", ""take down those nativity scenes""
+2. common knowledge: book burning is often associated with censorship and oppression. nativity scenes are religious displays during christmas.
+3. cultural background: debates about religious displays in public spaces and censorship are ongoing issues in many societies.
+4. topic: comparing book burning to removing nativity scenes
+5. punctuation: ellipsis (...) indicates a pause or hesitation
+
+Label:
+not sarcastic"
+0,"Input: [the provided text about liberals, crime control, civil rights, and gun control]
+
+Cues:
+1. punctuation: the text uses standard punctuation, including periods and quotation marks. there are no exaggerated punctuation marks that might indicate sarcasm.
+2. topic: the text discusses political views on crime control, civil rights, and gun control, focusing on liberal perspectives.
+3. surface emotion: the tone appears frustrated and critical of liberal viewpoints, but not overtly sarcastic.
+4. context: the author is presenting their perspective on liberal approaches to crime and gun control, contrasting them with civil rights concerns.
+5. cultural background: the text references american political debates on gun control and civil liberties, indicating a u.s. context.
+
+Label:
+not sarcastic"
+0,"Input: ""oh sorry, i didn't understand what you were asking. ok, what i think happened {like tasyfish hinted at} was that moses recorded what god told him or genesis 1 because it is in more detail, and genesis 2 is what was passed down through noah, in oral history, so it would differ slightly, but that's becaue of man's error, not god's.""
+
+Cues:
+1. emotional contrasts: no stark contrasts present. the tone is consistent throughout.
+2. keywords: ""sorry"", ""didn't understand"", ""i think"", ""recorded"", ""passed down"", ""differ slightly"", ""man's error""
+3. language style: explanatory and sincere, using informal language
+4. emotional words: ""sorry"" (apologetic)
+5. topic: biblical interpretation, specifically regarding genesis 1 and 2
+
+Label:
+not sarcastic"
+0,"Input: ""this is retarded. a species would be defined by the genome, not which organs work the way they are supposed to or not.""
+
+Cue:
+1. language style: direct, blunt, and informal
+2. cultural background: scientific context (discussion of species and genomes)
+3. keywords: ""retarded,"" ""species,"" ""genome,"" ""organs""
+4. emotional contrasts: none apparent
+5. special symbols: none present
+
+Label:
+not sarcastic"
+1,"Input: ""more evangelical christian brotherly love and understanding based on racial discrimination.""
+
+Cues:
+1. common knowledge: evangelical christianity typically promotes love, understanding, and acceptance of all people.
+2. topic: religion, specifically evangelical christianity, and its relationship with racial issues.
+3. cultural background: there's a complex history between some religious groups and racial discrimination in various societies.
+4. rhetorical devices: the statement uses irony by juxtaposing positive concepts (love, understanding) with a negative one (racial discrimination).
+5. context: this statement appears to be criticizing hypocrisy or contradictions within certain religious practices.
+
+Label:
+sarcastic"
+1,"Input: [provided example text about abortion]
+
+Cues:
+1. keywords: ""murder!"", ""opinion"" (in quotes), ""leftist media"", ""world view""
+2. punctuation: excessive use of exclamation marks, quotation marks for emphasis
+3. surface emotion: anger, frustration, sarcasm
+4. topic: abortion debate
+5. emotional words: ""terrible"", ""negative"", ""ignore"", ""effects""
+
+Label:
+sarcastic"
+1,"Input: ""well you'd know fascist wingnuts for sure. hitting a meeting tonite?""
+
+Cues:
+1. cultural background: references to ""fascist wingnuts"" suggest a politically charged context, likely in a western democratic society.
+2. emotional words: ""fascist wingnuts"" is a strongly negative, emotionally loaded term.
+3. topic: political ideology and group association.
+4. rhetorical devices: 
+   - rhetorical question: ""hitting a meeting tonite?""
+   - irony: implying the person being addressed is associated with fascists.
+5. context: the statement appears to be a response in a political argument or discussion.
+
+Label:
+sarcastic"
+1,"Input: ""i'm one of those cruel heartless bastards that thinks the constitution doesn't apply to terrorists. break out the cattle prods and ""let't party"" emoticonxrolleyes""
+
+Cues:
+1. rhetorical devices: 
+   - hyperbole: ""cruel heartless bastards""
+   - irony: suggesting extreme measures while critiquing such attitudes
+2. surface emotion: 
+   - feigned enthusiasm for harsh treatment
+3. topic: 
+   - constitutional rights for terrorists
+   - torture/interrogation methods
+4. emotional contrasts:
+   - pretended cruelty vs implied actual disapproval
+5. language style:
+   - casual and colloquial
+   - use of quotation marks for emphasis
+   - emoticon indicating eye-rolling
+
+Label:
+sarcastic"
+1,"Input: ""i suppose piltdown man was the product of newspapers, cute indeed!""
+
+Cues:
+1. emotional contrasts:
+   - the tone shifts from seemingly casual (""i suppose"") to mock admiration (""cute indeed!"")
+2. keywords:
+   - ""piltdown man"" - a famous scientific hoax
+   - ""newspapers"" - implying media involvement
+   - ""cute indeed!"" - exaggerated praise
+3. context:
+   - piltdown man was a fraudulent archaeological discovery, not a media creation
+4. rhetorical devices:
+   - irony: suggesting newspapers created a scientific hoax
+   - exclamation: ""cute indeed!"" emphasizes sarcasm
+5. topic:
+   - scientific fraud and media sensationalism
+
+Label:
+sarcastic"
+1,"Input: [the provided example input text]
+
+Cues:
+1. surface emotion: the text displays a condescending and dismissive tone, often associated with sarcasm.
+2. cultural background: the text references concepts like ""red letter edition"" and ""modus operandi,"" suggesting a somewhat educated or intellectual context.
+3. punctuation: the use of periods at the end of each statement gives a forceful, emphatic tone, which can amplify sarcastic intent.
+4. language style: the text uses formal language and complex sentence structures, creating a contrast with the insulting content – a common sarcastic technique.
+5. emotional words: ""silly,"" ""glee,"" ""boast,"" and ""poor"" are used in a mocking context, indicating sarcasm.
+
+Label:
+sarcastic"
+1,"Input: ""this is pathetic monty. taking snippets of long exchanges completely out of context to suit your purpose on a unrelated thread, in repsonse to someone else. are you still stewing over this? get over it. in the future, please refrain from involving me in your nonsense. waxy""
+
+Cues:
+1. cultural background: the use of names (monty, waxy) suggests an online or forum-based interaction, likely in an english-speaking context.
+2. keywords: ""pathetic,"" ""out of context,"" ""stewing,"" ""get over it,"" ""nonsense""
+3. surface emotion: anger, frustration, dismissiveness
+4. language style: informal, direct, confrontational, uses capitalization for emphasis
+5. common knowledge: online arguments and discussions often involve taking comments out of context or bringing up old disputes
+
+Label:
+sarcastic"
+1,"Input: ""...but you are just fine with marijuana smoke huh?
+i am working on the assumption that you run home to tell mommie or you run to find your teacher and report it immediately. midgets like you got to have some backup.
+how and why do you always change the subject? can't take the heat? do you ever read headers?
+you got a mouth on you as big as grand canyon.""
+
+Cues:
+1. surface emotion: hostility, mockery, condescension
+2. common knowledge: references to tattling behavior, changing subjects in arguments
+3. emotional words: ""midgets,"" ""can't take the heat,"" ""mouth as big as grand canyon""
+4. cultural background: stereotypes about people who report others, size-based insults
+5. punctuation: use of question marks for rhetorical questions, ellipsis for trailing thought
+
+Label:
+sarcastic"
+1,"Input: ""emoticonxfrazzled
+you call gays ""degenerate"", and then complain about ""demonizing"" others???
+emoticonxdonno""
+
+Cues:
+1. topic: lgbtq+ rights, hypocrisy in language use
+2. common knowledge: discrimination against lgbtq+ people, use of derogatory terms
+3. cultural background: ongoing debates about lgbtq+ rights and acceptance
+4. language style: informal, confrontational, use of emoticons
+5. rhetorical devices: rhetorical question, irony
+
+Label:
+sarcastic"
+1,"Input: ""seems short compared to the hit list on infants since the last 36 ...""
+
+Cues:
+1. punctuation: the ellipsis (...) at the end suggests an incomplete thought or implied meaning.
+2. common knowledge: references to ""hit list"" and ""infants"" are shocking and morally reprehensible.
+3. context: the statement implies a comparison between something unspecified and harm to infants.
+4. emotional words: ""hit list"" and ""infants"" evoke strong negative emotions.
+5. topic: the topic appears to be violence against children, presented in a casual manner.
+
+Label:
+sarcastic"

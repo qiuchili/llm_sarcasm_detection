@@ -1,0 +1,312 @@
+Label,Example
+0,"Input: ""sheldon: yeah, that was five weeks ago. how much longer is he gonna milk that cow?""
+
+Steps:
+step 1 (surface sentiment): 
+the surface sentiment appears to be one of annoyance or frustration. the phrase ""milk that cow"" is an idiom expressing irritation at someone who is overusing a situation for their benefit or attention.
+
+step 2 (true intention):
+the true intention aligns with the surface sentiment. sheldon is genuinely expressing frustration about someone continually bringing up or using an event that happened five weeks ago. the rhetorical question ""how much longer is he gonna milk that cow?"" reinforces this sentiment.
+
+step 3 (comparison and analysis):
+comparing steps 1 and 2, we see that the surface sentiment and true intention are consistent. there's no reversal of meaning or subtle contradiction that would indicate sarcasm. the idiom ""milk that cow"" is used in its standard figurative sense, not in a sarcastic way.
+
+Label:
+not sarcastic"
+0,"Input: ""rachel: i did not mean to touch that,i mean""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears apologetic and slightly flustered. the phrase ""i did not mean to"" indicates an unintended action, and the trailing ""i mean"" suggests some hesitation or attempt to clarify.
+
+step 2: true intention
+the true intention seems to align with the surface sentiment. rachel appears to be genuinely expressing that she accidentally touched something and is trying to explain or apologize for it. the incomplete sentence structure and the use of ""i mean"" at the end suggest a spontaneous, sincere reaction rather than a carefully crafted sarcastic remark.
+
+step 3: comparison and analysis
+there is no significant discrepancy between the surface sentiment and the true intention. the statement lacks typical markers of sarcasm such as exaggeration, irony, or a mocking tone. instead, it presents as a straightforward, albeit slightly flustered, expression of an accidental action.
+
+Label:
+not sarcastic"
+0,"Input: ""joey: look now, phoebe remember, hey, their just fulfilling their christmas....""
+
+Steps:
+step 1: surface sentiment
+- the statement appears to be neutral or slightly positive
+- keywords like ""look"" and ""remember"" suggest joey is trying to draw attention to a point
+- mentioning ""fulfilling their christmas"" implies a positive holiday-related activity
+
+step 2: true intention
+- joey seems to be genuinely explaining or reminding phoebe about something related to christmas
+- the sentence is incomplete, but there's no apparent irony or contradiction
+- the casual, conversational tone matches joey's character and doesn't indicate hidden meaning
+
+step 3: comparison and analysis
+- the surface sentiment aligns with the likely true intention
+- there are no clear indicators of sarcasm such as exaggeration, contradiction, or mocking tone
+- the statement appears to be a straightforward, sincere comment about christmas activities
+
+Label:
+not sarcastic"
+0,"Input: ""monica: no!! you have been screwing us all day!""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment is strongly negative and frustrated, indicated by:
+- the emphatic ""no!!"" with double exclamation marks
+- the accusatory phrase ""you have been screwing us all day!""
+- the use of aggressive language (""screwing"")
+
+step 2: true intention
+the true intention appears to align with the surface sentiment:
+- the speaker (monica) seems genuinely upset and angry
+- there are no obvious rhetorical devices or subtle language cues suggesting a hidden meaning
+- the statement is direct and confrontational, typical of sincere anger or frustration
+
+step 3: comparison and analysis
+- the surface sentiment and true intention appear to be in alignment
+- there is no detectable irony or mismatch between what is said and what is meant
+- the statement lacks the typical markers of sarcasm such as exaggeration, mock politeness, or incongruity
+
+Label:
+not sarcastic"
+0,"Input: ""chandler: hey, do you know a six-letter word for red?""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment is neutral. chandler is simply asking a question about vocabulary. there are no obvious emotional keywords, sentimental phrases, or emojis that would indicate sarcasm.
+
+step 2: true intention
+the true intention seems to align with the surface meaning. chandler appears to be genuinely asking for help with a word puzzle or crossword, looking for a six-letter synonym for ""red"". there's no evident use of rhetorical devices or unusual language style that would suggest a hidden meaning.
+
+step 3: comparison and analysis
+the surface sentiment (step 1) and the true intention (step 2) are consistent with each other. there's no discrepancy between what chandler is saying and what he means. the question is straightforward and practical, without any indicators of irony or mockery.
+
+Label:
+not sarcastic"
+0,"Input: ""howard: no, just me, her and a couple of the big wigs. it's part of a bonus she got.""
+
+Steps:
+step 1: surface sentiment
+the statement appears neutral to slightly positive. there are no overtly emotional keywords or phrases. the mention of ""bonus"" suggests a potentially positive context.
+
+step 2: true intention
+the speaker seems to be straightforwardly describing a situation involving a small group of people, including some higher-ranking individuals (""big wigs""), attending an event or activity as part of a bonus reward. there are no apparent rhetorical devices or unusual language styles that would suggest a hidden meaning.
+
+step 3: comparison and analysis
+the surface meaning and the likely true intention align closely. there's no discrepancy between what is said and what is meant that would indicate sarcasm. the statement appears to be a simple, factual description of a situation.
+
+Label:
+not sarcastic"
+0,"Input: ""joey: and it came out, ""squatternut buash?""""
+
+Steps:
+step 1: surface sentiment
+- the sentence doesn't contain any obviously sentimental keywords or phrases.
+- there's a question mark, indicating confusion or uncertainty.
+- the misspelling ""buash"" instead of ""bosh"" suggests a mispronunciation.
+
+step 2: true intention
+- joey seems to be recounting something he said, likely mispronouncing ""butternut squash.""
+- the intent appears to be genuine confusion or embarrassment over the mispronunciation.
+- there's no indication of irony or mockery in the statement.
+
+step 3: comparison and analysis
+- the surface sentiment and true intention align.
+- there's no contrast between what's said and what's meant.
+- the statement appears to be a straightforward recounting of a verbal mistake.
+
+Label:
+not sarcastic"
+0,"Input: ""rachel: yeah, i don't think so joe.""
+
+Steps:
+step 1 (surface sentiment): 
+the surface sentiment appears negative or disagreeing. ""yeah"" typically indicates agreement, but it's immediately followed by ""i don't think so,"" which is a clear expression of disagreement or doubt.
+
+step 2 (true intention):
+the true intention seems to align with the surface sentiment. rachel is directly expressing disagreement with joe. the ""yeah"" at the beginning might be a conversational filler or a way to soften the disagreement, but it doesn't change the overall meaning of the statement.
+
+step 3 (comparison and analysis):
+the surface sentiment and true intention are consistent. there's no apparent mismatch or irony that would indicate sarcasm. the statement is a straightforward expression of disagreement.
+
+Label:
+not sarcastic"
+0,"Input: ""ross: thank you.""
+
+Steps:
+step 1 (surface sentiment):
+the surface sentiment is positive and appreciative. ""thank you"" is a common expression of gratitude or acknowledgment.
+
+step 2 (true intention):
+without additional context, there's no reason to suspect that the true intention differs from the surface meaning. ""thank you"" is a straightforward, polite expression that doesn't typically carry hidden meanings or complex rhetorical devices.
+
+step 3 (comparison and analysis):
+the surface sentiment (gratitude) aligns with the likely true intention (expressing genuine thanks). there are no indicators of sarcasm such as exaggeration, unexpected context, or contradictory tone. the brevity and simplicity of the statement further support a literal interpretation.
+
+Label:
+not sarcastic"
+0,"Input: ""person1: well, that wady took high-wes pictures of my junk wast night for cwaigswist.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment seems neutral to slightly positive. the use of ""well"" at the beginning suggests a matter-of-fact tone. there are no explicitly positive or negative words or phrases.
+
+step 2: true intention
+the sentence appears to be describing a real event, albeit with some unusual spelling. ""wady"" likely means ""lady,"" ""high-wes"" could be ""high-res"" (high-resolution), and ""cwaigswist"" is probably ""craigslist."" the speaker is describing someone taking pictures of their ""junk"" (likely personal belongings) for an online marketplace.
+
+step 3: comparison and analysis
+there is no significant discrepancy between the surface sentiment and the true intention. the statement appears to be a straightforward description of an event, albeit with some spelling idiosyncrasies. there are no signs of irony, exaggeration, or contrast that would typically indicate sarcasm.
+
+Label:
+not sarcastic"
+1,"Input: ""joey: uh, rachel's here, so good luck man, let me know how it works out.""
+
+Steps:
+step 1 (surface sentiment):
+the surface sentiment appears positive and supportive. joey wishes good luck and expresses interest in the outcome.
+
+step 2 (true intention):
+the ""uh"" at the beginning suggests hesitation or unease. the abrupt mention of rachel's presence followed by ""good luck"" implies a challenging situation. the casual ""let me know how it works out"" hints at joey distancing himself from the situation.
+
+step 3 (comparison and analysis):
+while the surface sentiment is positive, the underlying tone suggests joey believes the situation will be difficult or awkward. the contrast between the seemingly supportive words and the implied negative expectation indicates sarcasm.
+
+Label:
+sarcastic"
+1,"Input: ""gee, if only she were one and had no idea what a birthday was.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears positive or wishful due to:
+- ""gee"" - an exclamation often used to express enthusiasm or surprise
+- ""if only"" - a phrase typically used to express a desire for something
+
+step 2: true intention
+the true intention is likely critical or frustrated:
+- the exaggerated scenario of someone being ""one"" (presumably one year old) and not knowing what a birthday is seems absurd and impossible.
+- this impossibility suggests chandler is not actually wishing for this scenario, but rather pointing out a flaw in someone else's reasoning or behavior.
+
+step 3: comparison and analysis
+there's a clear mismatch between the surface positivity and the underlying criticism. chandler is using an impossible scenario to highlight the absurdity of a situation or someone's behavior, rather than genuinely wishing for it.
+
+Label:
+sarcastic"
+1,"Input: ""chandler: nice jon joe, you are quite the craftsman!""
+label: sarcastic
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears positive. keywords like ""nice"" and phrases like ""quite the craftsman"" indicate praise and admiration for joe's work.
+
+step 2: true intention
+given that this is chandler speaking (likely referring to the character from ""friends""), who is known for his sarcastic humor, we need to look deeper. the misspelling of ""job"" as ""jon"" suggests that whatever joe did might not actually be well-crafted or impressive. chandler's exaggerated praise (""quite the craftsman"") for what is likely a poor job further indicates sarcasm.
+
+step 3: comparison and analysis
+the surface-level praise contrasts sharply with the likely reality of joe's poor workmanship. this mismatch, combined with chandler's character tendency, strongly suggests sarcasm.
+
+Label:
+sarcastic"
+1,"Input: ""did you tell her about the magical night that starts with the flush of every toilet?""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears positive and enchanting due to phrases like ""magical night"" which typically convey wonder and excitement.
+
+step 2: true intention
+the true intention is to mock or ridicule an event or situation. chandler is using exaggerated, flowery language to describe something mundane and unpleasant (toilets flushing). this stark contrast between the grandiose description and the banal reality is a classic sarcastic technique.
+
+step 3: comparison and analysis
+the surface sentiment (magical, exciting) directly contradicts the true intention (mocking, belittling). this mismatch is a clear indicator of sarcasm. chandler is using irony to emphasize how un-magical and unpleasant the situation actually is.
+
+Label:
+sarcastic"
+1,"Input: ""raj: ooh, big talk from a man who was once treed by a chicken.""
+
+Steps:
+step 1: surface sentiment
+- ""ooh"" suggests excitement or admiration
+- ""big talk"" implies impressive or boastful speech
+- overall, the surface sentiment appears positive or impressed
+
+step 2: true intention
+- the phrase ""treed by a chicken"" is absurd and embarrassing
+- juxtaposing ""big talk"" with this ridiculous situation creates irony
+- the speaker is actually mocking or belittling the person they're addressing
+
+step 3: comparison and analysis
+- the surface admiration (step 1) contrasts sharply with the mocking intention (step 2)
+- this mismatch between apparent praise and actual ridicule is a hallmark of sarcasm
+- the statement uses irony to emphasize the target's perceived incompetence or weakness
+
+Label:
+sarcastic"
+1,"Input: ""rose: i'm sorry sophia, but in dorothy's defence, it sure sounds a lot like her.""
+
+Steps:
+step 1 (surface sentiment): 
+the surface sentiment appears apologetic and defensive. rose starts with ""i'm sorry"" and uses the phrase ""in dorothy's defence,"" which initially suggests sincerity and support for dorothy.
+
+step 2 (true intention):
+however, the phrase ""it sure sounds a lot like her"" suggests that rose is actually agreeing with a negative characterization of dorothy. the use of ""sure"" emphasizes this agreement, contradicting the apparent defense.
+
+step 3 (comparison and analysis):
+the surface apology and defense (step 1) contrasts with the underlying agreement with criticism (step 2). this mismatch between the apparent sentiment and the true meaning indicates sarcasm. rose is using a seemingly supportive statement to actually reinforce criticism of dorothy.
+
+Label:
+sarcastic"
+1,"Input: ""raj: no, stuart picked out those throw pillows all on his own.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears neutral to positive. the statement seems to affirm stuart's independence in choosing throw pillows, which on its face could be seen as a compliment to stuart's taste or decision-making ability.
+
+step 2: true intention
+however, the emphasis on ""all on his own"" and the context of discussing throw pillows (typically considered a minor decorative item) suggest a mocking tone. the speaker (raj) is likely implying that stuart's choice of throw pillows is poor or questionable, and is sarcastically attributing full responsibility to stuart for this presumably bad decision.
+
+step 3: comparison and analysis
+the discrepancy between the surface-level praise of stuart's independence and the likely intended criticism of his taste reveals the sarcastic nature of the statement. the use of exaggeration (""all on his own"") for such a trivial matter further supports the sarcastic interpretation.
+
+Label:
+sarcastic"
+1,"Input: ""amy: oh, i could so see you being the face of hemorrhoids.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears positive or complimentary. the phrase ""i could so see you"" typically introduces a positive observation or compliment. the enthusiastic ""oh"" at the beginning adds to this seemingly positive tone.
+
+step 2: true intention
+the true intention is actually insulting or mocking. being ""the face of hemorrhoids"" is not a desirable or flattering association. hemorrhoids are an uncomfortable medical condition, and no one would genuinely want to be associated with them publicly.
+
+step 3: comparison and analysis
+the stark contrast between the seemingly positive opening and the actually negative association creates the sarcastic effect. the speaker is using a complimentary structure to deliver an insult, which is a classic sarcastic technique.
+
+Label:
+sarcastic"
+1,"Input: ""moderator: sarcasm? noo.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears negative or dismissive towards sarcasm due to the ""noo"" response.
+
+step 2: true intention
+the exaggerated ""noo"" with an extra 'o' suggests insincerity. the statement is framed as a question-answer format, implying a self-aware or performative tone. coming from a ""moderator,"" there's an implied authority or oversight role.
+
+step 3: comparison and analysis
+the overly emphatic denial (""noo"") contrasts with the straightforward question about sarcasm. this mismatch, combined with the moderator context, strongly suggests the response itself is sarcastic.
+
+Label:
+sarcastic"
+1,"Input: ""moderator: and i am sure every person here really really wants you to join our group.""
+
+Steps:
+step 1: surface sentiment
+the surface sentiment appears positive and enthusiastic. key phrases like ""i am sure"" and the repetition of ""really really wants"" suggest strong positive feelings about the person joining the group.
+
+step 2: true intention
+the exaggerated enthusiasm (""really really"") and the use of ""every person here"" hint at insincerity. in a genuine invitation, such emphatic language would be unusual for a moderator. the statement likely masks irritation or dismissiveness towards the person in question.
+
+step 3: comparison and analysis
+there's a clear mismatch between the overly positive surface sentiment and the likely true intention of the speaker. this discrepancy is a hallmark of sarcasm, where the literal meaning contradicts the intended message.
+
+Label:
+sarcastic"

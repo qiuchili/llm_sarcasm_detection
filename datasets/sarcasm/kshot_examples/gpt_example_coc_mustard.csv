@@ -1,0 +1,344 @@
+Label,Example
+0,"Input: rachel: no! i'm so happy for them!
+
+Steps:
+step 1: what is the surface sentiment, as indicated by clues such as keywords, sentimental phrases, emojis?
+- surface sentiment: happiness and excitement, indicated by keywords like ""so happy.""
+
+step 2: deduce what the sentence really means, namely the true intention, by carefully checking any rhetorical devices, language style, etc.
+- true intention: the phrase ""no! i'm so happy for them!"" does not contain any obvious rhetorical devices like exaggeration, irony, or contradiction that are typical indicators of sarcasm. the excitement in the expression ""so happy"" seems genuine.
+
+step 3: compare and analysis step 1 and step 2, infer the final sarcasm label.
+- both the surface sentiment and the true intention suggest genuine happiness without any hint of sarcasm.
+
+Label: not sarcastic"
+0,"Input:
+- **howard:** ""trust me, you're not jewish. that's how they get you.""
+
+Steps:
+#### step 1: surface sentiment
+- **keywords and phrases:** ""trust me,"" ""you're not jewish,"" ""that's how they get you.""
+- **sentimental tone:** generally flat with a possible hint of an advisory tone.
+
+#### step 2: true intention
+- **rhetorical devices**: the phrase ""that's how they get you"" could be interpreted as a casual or serious assertion but doesn't inherently carry a sarcastic tone.
+- **language style:** the language doesn't show a clear contradictory or ironic style that typically defines sarcasm. 
+
+#### step 3: compare and analyze
+- **surface sentiment vs. true intention:** there is no strong contradiction between the surface sentiment of advice or declaration and the deeper intention behind the statement.
+  
+Label:
+not sarcastic"
+0,"Input:
+person1: look, please, please don't go anywhere, okay?
+
+Steps:
+1. **step 1: surface sentiment**
+   - **keywords and phrases:** ""please, please"" is a repetition that indicates urgency or earnestness.
+   - **sentiment:** the surface sentiment appears to be a plea or request, suggesting concern or worry.
+
+2. **step 2: true intention**
+   - **analysis of rhetorical devices and language style:** there are no obvious indicators of sarcasm, such as hyperbole, contradiction, or exaggerated tones. the repetition of ""please"" further supports a genuine plea rather than mockery or irony.
+   - **intention:** the speaker seems to be making an earnest request, driven by genuine emotions rather than employing sarcasm.
+
+3. **step 3: comparison and analysis**
+   - both the surface sentiment (a plea) and the true intention (an earnest request) align.
+   - there is no contradiction or underlying irony between what is said and what is meant.
+
+Label:
+not sarcastic"
+0,"Input:
+howard: it was the kind of thing that makes it kind of hard to face her now.
+
+Steps:
+**step 1: surface sentiment**
+the phrase ""it was the kind of thing that makes it kind of hard to face her now"" contains elements of introspection and discomfort. keywords like ""hard"" suggest a negative or difficult sentiment.
+
+**step 2: true intention**
+there are no rhetorical devices or exaggerated language that imply a sarcastic tone. the language used is straightforward, describing a genuine emotion of difficulty or embarrassment when facing the person mentioned.
+
+**step 3: compare and analyze**
+both the surface sentiment and the true intention align in expressing a feeling of discomfort without any hint of irony, exaggeration, or insincerity. the sentence is direct and earnest.
+
+**conclusion:**
+the sentence is not sarcastic because the sentiment expressed on the surface aligns with the true intention, and there is no indication of sarcasm.
+
+Label:
+not sarcastic"
+0,"Input:
+monica: no!! you have been screwing us all day!
+
+Steps:
+step 1: the surface sentiment is clearly negative. phrases like ""no!!"" and ""you have been screwing us all day!"" indicate anger and frustration.
+step 2: deducing the true intention, monica is expressing genuine anger and accusation towards the other person. there are no rhetorical devices or language styles used that suggest a different, sarcastic meaning.
+step 3: the surface sentiment and the true intention align in their negativity. there isn't a disparity that would suggest sarcasm.
+
+Label:
+not sarcastic"
+0,"Input:
+ross: all right.
+
+Steps:
+1. **surface sentiment analysis (step 1):**
+   - the phrase ""all right"" is neutral and doesn't contain obvious sentimental keywords or emotional phrases like ""great"" or ""terrible."" there are also no emojis or exclamatory marks indicating heightened emotion.
+
+2. **true intention deduction (step 2):**
+   - ""all right"" is often used to convey acceptance or acknowledgment. there are no specific rhetorical devices or exaggerated language in this statement that suggest a deeper, sarcastic meaning. the tone appears straightforward, devoid of irony or mockery.
+
+3. **comparison and analysis (step 3):**
+   - the surface sentiment is neutral, and the true intention seems to align with the surface expression of acceptance. there are no discrepancies or hyperbolic cues that would indicate sarcasm.
+
+Label:
+not sarcastic"
+0,"Input:
+person: i was going to ask leonard to do it, but he seemed a bit emotionally unstable and you don't want someone like that operating heavy machinery.
+
+Steps:
+#### step 1: surface sentiment
+- **clues:**
+  - emotionally unstable
+  - heavy machinery
+- **sentiment:**
+  the surface sentiment is cautionary and concerned.
+
+#### step 2: true intention
+- **analysis:**
+  - the speaker is providing a reason for not asking leonard to operate heavy machinery.
+  - mentions ""emotionally unstable"" explicitly, which suggests genuine concern about leonard's mental state affecting his ability to handle a potentially dangerous task.
+  - no evident rhetorical devices like irony, exaggeration, or understatement that would lead to sarcasm.
+  - direct and clear language with no hidden or oppositional meanings.
+
+#### step 3: compare and analyze
+- **comparison:**
+  - both surface sentiment and true intention align as expressions of concern and caution.
+  - there is no discrepancy between what is being said and what is meant.
+  - the statement is straightforward and lacks the complexity typical of sarcasm where the literal and intended meanings diverge.
+
+Label:
+not sarcastic"
+0,"Input:
+amy: oh, screw her. she's just lucky we let her hang out with us.
+
+Steps:
+#### step 1: surface sentiment
+the initial sentiment appears to be negative. phrases like ""oh, screw her"" and ""she's just lucky we let her hang out with us"" indicate a contemptuous or dismissive attitude.
+
+#### step 2: true intention
+by analyzing the language and tone, it becomes evident that amy's words are expressing frustration or disdain toward the mentioned person. there are no rhetorical devices such as hyperbole or irony that would suggest the sentiment is meant in an opposite or sarcastic manner.
+
+#### step 3: comparison and analysis
+comparing the surface sentiment and the deeper meaning, both align in a negative context. amy seems to genuinely hold a negative view about the person and is voicing a straightforward opinion without an underlying sarcastic tone.
+
+Label:
+not sarcastic"
+0,"Input: phoebe: yeah!
+
+Steps:
+1. **what is the surface sentiment?**
+    - the surface sentiment is positive. ""yeah!"" is an affirmative and enthusiastic response, often indicating agreement or excitement.
+
+2. **what is the true intention?**
+    - given that ""yeah!"" is a short and seemingly straightforward response, there are no strong indicators of sarcasm such as overly exaggerated enthusiasm or contradictory language. 
+
+3. **compare and analyze step 1 and step 2:**
+    - the surface sentiment (positive) matches the true intention (agreeing or expressing excitement) without any signs of sarcasm.
+
+Label:
+not sarcastic"
+0,"Input:
+chandler: yeah, she couldn't live without the chan love.
+
+Steps:
+**step 1: surface sentiment**
+- keywords: ""couldn't live without,"" ""chan love""
+- sentimental phrases: the phrase ""couldn't live without"" suggests a high level of affection or dependency, typically positive.
+- surface sentiment: positive, implying strong affection or need.
+
+**step 2: true intention**
+- analyze rhetorical devices: look for exaggeration, irony, or any language style that alters the surface meaning.
+- language style: chandler often uses humorous and self-deprecating remarks. however, in this statement, there is no clear indication of intentional exaggeration or irony.
+- true intention: the sentence appears to straightforwardly suggest that someone finds chandler's love invaluable.
+
+**step 3: compare surface sentiment and true intention**
+- the surface sentiment (positive affection) aligns with the true intention (valuing chandler's love). there isn’t a significant gap between what is said and what is meant.
+  
+Label:
+not sarcastic"
+1,"Input: chandler: oh i left them in my bulldozer .. i don't have tools!
+
+Steps:
+step 1: surface sentiment: the keywords ""oh i left them in my bulldozer"" indicate an absurd or highly unlikely scenario, especially following the statement ""i don't have tools!"". there's a hint of exaggeration and irony.
+
+step 2: true intention: chandler is using hyperbole (mentioning a bulldozer) to emphasize that he never had tools in the first place. the true intention is to humorously indicate a lack of tools, rather than to provide an actual explanation.
+
+step 3: comparison and analysis: the surface sentiment shows an exaggerated and humorous scenario, while the true intention is to emphasize a lack of tools through irony. this incongruence between the absurd statement and the true message suggests sarcasm.
+
+label: sarcastic"
+1,"Input:
+chandler: let me think! let me think! oh, i don't care.
+
+Steps:
+#### step 1: surface sentiment
+- keywords/emphasis: ""let me think!"" repeated twice, followed by ""oh, i don't care.""
+- surface sentiment: chandler initially appears to be in deep thought or considering something important due to the repeated phrase.
+
+#### step 2: true intention
+- rhetorical device: sarcasm typically involves saying something in a tone that is meant to convey the opposite of what the words denote.
+- language style: the abrupt shift from a seemingly serious consideration (""let me think!"") to dismissal (""oh, i don't care."") indicates a sarcastic tone.
+- chandler’s known tendencies: given chandler’s established character traits, this switch is likely meant to mock the importance of whatever he was pretending to think about.
+
+#### step 3: comparison and analysis
+- surface sentiment vs. true intention: the surface sentiment shows a pretense of caring deeply, while the true intention is to convey indifference.
+- inference: the stark contrast between the surface sentiment and true intention confirms the use of sarcasm.
+
+Label:
+sarcastic
+"
+1,"Input:
+leonard: said horrible things about each other in public... all in all, a pretty magical night.
+
+Steps:
+**step 1: surface sentiment**
+- keywords: ""horrible things"", ""all in all"", ""pretty magical night"".
+- sentimental phrases: ""horrible things"" carries a negative connotation, whereas ""pretty magical night"" carries a positive connotation.
+
+**step 2: true intention**
+- the phrase ""said horrible things about each other in public"" clearly describes a negative situation.
+- the follow-up phrase ""a pretty magical night"" is incongruous with the prior negative situation, indicating a use of irony—a key component of sarcasm.
+
+**step 3: compare and analysis**
+- the stark contrast between the negative sentiment of experiencing verbal conflict (""horrible things"") and the positive phrase ""a pretty magical night"" suggests the speaker does not mean the night was actually magical, but is rather being sarcastic to emphasize how bad the night actually was.
+
+Label:
+sarcastic
+"
+1,"Input:** 
+chandler: ah you see perfect might be a problem. had you said co-dependent or self-destructive.
+
+Steps:
+1. **surface sentiment:**
+   - **keywords:** ""perfect"", ""might be a problem"", ""co-dependent"", ""self-destructive"".
+   - surface sentiment appears confusing since ""perfect"" generally has positive connotations, whereas ""problem"", ""co-dependent"", and ""self-destructive"" are negative.
+
+2. **true intention:**
+   - **rhetorical devices:** the statement employs irony and contradiction by juxtaposing ""perfect"" (a positive adjective) with problematic terms like ""co-dependent"" and ""self-destructive"".
+   - **language style:** the word choice and context suggest that the speaker (chandler) doesn't literally see ""perfect"" as a problem but is highlighting the absurdity or exaggeration for comedic effect.
+
+3. **comparison and analysis:**
+   - the surface sentiment of ""perfect might be a problem"" is contradicted when paired with extreme negatives (""co-dependent"" or ""self-destructive""). 
+   - this contradiction, combined with the playful and exaggerated tone, indicates that chandler is being sarcastic, not serious.
+
+Label:
+sarcastic
+"
+1,"Input:
+sheldon: darn. if you weren't busy, i'd ask you to join us.
+
+Steps:
+**step 1: surface sentiment**
+- the statement includes ""darn,"" which indicates mild disappointment.
+- ""if you weren't busy, i'd ask you to join us"" sounds like a polite regret or an exclusion.
+
+**step 2: true intention**
+- knowing sheldon’s character, the audience should consider his frequent use of sarcasm and dry humor.
+- the phrase ""if you weren't busy"" suggests that the speaker is implying the listener's busyness as a reason for not inviting them, though sheldon might not actually want their company.
+- there's a possibility that sheldon never intended to ask the person to join.
+
+**step 3: compare and analysis**
+- the surface sentiment appears polite and mildly disappointed.
+- sheldon’s known tendency for sarcasm and the context suggest a hidden, sarcastic meaning, as he is likely masking his true feelings behind a veneer of politeness.
+  
+Label:
+sarcastic
+"
+1,"Input:
+dorothy: what are these? claws?
+
+Steps:
+**step 1: surface sentiment:**
+- the phrase ""what are these? claws?"" uses a direct question format. there are no immediate sentimental phrases or emojis present. the keywords ""claws"" suggest something sharp or beastly.
+
+**step 2: true intention:**
+- given the context, dorothy is likely facing something not actually claws but is comparing them sarcastically to claws. this indicates a rhetorical device where she is emphasizing how rough or unrefined something seems.
+
+**step 3: comparison and analysis:**
+- the surface sentiment is a benign question, but the true intention is to highlight the absurdity or unsuitability of the object/feature dorothy is referring to by comparing it to something much more extreme (claws).
+- this juxtaposition between the mundane observation and the exaggerated implication suggests sarcasm.
+
+Label:
+sarcastic
+"
+1,"Input:
+chandler: you know some might find it amusing, i myself find it regular.
+
+Steps:
+**step 1: surface sentiment**
+
+- chandler uses the words ""amusing"" and ""regular.""
+- the word ""amusing"" typically indicates something funny or enjoyable.
+- the word ""regular"" usually means something ordinary or mundane.
+
+**step 2: true intention**
+
+- chandler often uses sarcasm and understatement to convey his true feelings.
+- the phrase ""i myself find it regular"" is likely an understatement to enhance humor.
+- the contrast between ""amusing"" (which implies high enjoyment) and ""regular"" (implies something boring or normal) suggests an ironic intent.
+
+**step 3: compare and analyze**
+
+- on the surface, chandler uses neutral to mildly positive words.
+- however, the true intention is to humorously understate his reaction, implying that what others find amusing, he finds dull.
+- this disconnect between surface sentiment and true intention, combined with chandler's known character traits, signals sarcasm.
+
+Label:
+sarcastic
+"
+1,"Input:
+chandler: this is so good, that i am gonna enjoy it in the balcony. i can enjoy my view, whilst i enjoy my dessert.
+
+Steps:
+- **step 1: surface sentiment:**
+  - the keywords and phrases like ""this is so good,"" ""gonna enjoy,"" and ""enjoy my view"" indicate a positive sentiment on the surface.
+
+- **step 2: true intention:**
+  - considering chandler's well-known sarcastic nature from the character's context in ""friends,"" phrases that seem overly enthusiastic and repeated use of ""enjoy"" can suggest exaggeration. this style of exaggeration is characteristic of sarcasm where the real meaning is quite the opposite.
+
+- **step 3: comparison and analysis:**
+  - the surface sentiment is highly positive. however, the true intention, when factoring in chandler's personality and the over-the-top phrasing, is likely to convey the complete opposite—a negative or indifferent sentiment. this discrepancy between surface sentiment and true intention flags the sentence as sarcastic.
+
+Label:
+sarcastic
+"
+1,"Input:
+dorothy: no, i haven't taken her out of the trunk of the car yet.
+
+Steps:
+**step 1: surface sentiment**
+- the literal meaning suggests that dorothy has not yet performed the action of taking someone or something out of the trunk of the car.
+- the surface sentiment appears nonchalant and factual.
+
+**step 2: true intention**
+- common sense implies that it is unlikely someone would leave a person or important item in a car trunk, especially if asked about it.
+- the phrasing implies a rhetorical device called irony, where the literal statement contrasts sharply with logic or common behavior. this disparity suggests an undertone of exaggeration or absurdity.
+- the word ""yet"" signals a degree of casual dismissal or joking discomfort, punctuating the unlikelihood of the literal action being true.
+
+**step 3: comparison and analysis**
+- the surface sentiment is neutral but peculiar, leading to an expectation of improbability in literal actions.
+- the true intention is to convey the absurdity or impossibility of the situation, highlighting a sarcastic undertone.
+- the mismatch between the surface meaning and the true intention indicates sarcasm.
+
+Label:
+sarcastic
+"
+1,"Input:
+penny: ooh, i'm gonna check the fridge, and see if there are any clues inside a beer.
+
+Steps:
+step 1: **surface sentiment**: the surface emotion appears excited or enthusiastic, indicated by the exclamation ""ooh"" and the casual, almost playful tone about looking for clues.
+
+step 2: **true intention**: the phrase ""clues inside a beer"" uses irony and humor. checking a fridge for clues inside a beer is an absurd and unlikely activity, suggesting penny isn't genuinely searching for clues but rather hinting at wanting to have a beer.
+
+step 3: **comparison and analysis**: the surface excitement contrasted with the ridiculousness of finding clues inside a beer reveals a sarcastic tone. the playful nature and absurdity of the concept indicate it's not to be taken literally, confirming the sarcastic intent.
+
+Label:
+sarcastic"

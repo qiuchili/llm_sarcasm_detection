@@ -1,0 +1,377 @@
+Label,Example
+0,"Input:
+""actually, i don't have any respect for creationism in most of its varied forms. i have had great respect for several individual creationists that i have met. but they earned that respect.""
+
+Steps:
+1. **step 1: surface sentiment**
+   - keywords: ""respect,"" ""don't have any respect,"" ""great respect,"" ""earned that respect.""
+   - sentimental phrases: the phrases used are direct and convey respect and lack of respect with clarity, without emotional exaggeration or negativity.
+   - emojis: none present.
+
+2. **step 2: true intention**
+   - rhetorical devices: the sentence utilizes contrast but does not employ hyperbole, irony, or other rhetorical figures commonly associated with sarcasm.
+   - language style: the language is straightforward and factual, pointing out a distinction between creationist beliefs and individual creationists based on personal experiences.
+
+3. **step 3: compare and analysis**
+   - the surface sentiment is one of clear distinction and conditional respect, which correlates directly with the true intention of the speaker.
+   - there is no discrepancy or contrasting meaning that would indicate sarcasm; the message is honest and direct.
+
+Label:
+not sarcastic*"
+0,"Input:
+""and religion is what caused the crusades and most other wars in the past, and many wars, and bloody disputes, to this very day. many, many, many, many, many more people have died in the name of religion than in anything that could be called 'in the name of atheism'.""
+
+Steps:
+**step 1: analyze the surface sentiment**
+- the input expresses a negative sentiment towards religion, emphasizing its association with wars and bloody disputes.
+- keywords like ""wars,"" ""bloody disputes,"" ""died,"" and the repeated use of ""many"" convey a serious and critical tone.
+
+**step 2: deduce the true intention**
+- the statement uses strong language to argue that religion has been the cause of many deaths and conflicts throughout history.
+- there are no evident rhetorical devices or exaggerated praise that suggest sarcasm; the repetition of ""many"" is used to stress the gravity of the point rather than to mock.
+
+**step 3: compare and analyze**
+- the sentiment in step 1 aligns with the intention deduced in step 2; both indicate a critical stance without veering into sarcastic or ironic tones.
+- the earnest and serious critique of religion and its impact on history does not exhibit the characteristics of sarcasm, such as contrast between literal and intended meanings, mock praise, or exaggeration for comedic effect.
+
+Label:
+not sarcastic"
+0,"Input:
+i wish you could put your hands on that poll as well. until then i'll remain skeptical. let's remember that democrats and liberals hunt. remove that group and what's left? something less than 20% of americans that own only handguns.
+
+Steps:
+**step 1 - surface sentiment:** 
+surface sentiment appears to be skeptical and somewhat challenging. keywords such as ""skeptical"" clearly indicate doubt or disbelief. 
+
+**step 2 - true intention:** 
+upon analyzing the true intention, the speaker seems to be genuinely questioning the validity of some claims about gun ownership statistics, strongly implying that removing groups such as democrats and liberals from the statistics skews the meaningful representation. there are no exaggerated or ironic statements suggesting the opposite of the literal meaning.
+
+**step 3 - comparison and analysis:**
+the surface sentiment of skepticism matches the true intention of questioning the claims’ validity. there’s no obvious attempt to use irony, exaggeration, or mockery, hallmarks of sarcasm.
+
+Label: not sarcastic"
+0,"Input:
+""so, you would vote to legislate against it? ok, now that thats cleared up, why do you consider sex to be so bad? sex is a healthy part of a relationship or marrige, and i would not go to these lengths to minimize it. sex has a small risk of ending in pregnancy, and an even smaller risk if using a condom, and even smaller than that if the woman uses a contraceptive. then, if everything fails, there would be abortion in the extreme circumstances that it does result in a pregnancy. i doubt that criminalized abortion will reduce sex. it will only cause suffering and fear for women. i thought we were out of the dark ages already.""
+
+Steps:
+**step 1: surface sentiment analysis**
+- keywords: ""legislate against it,"" ""sex is a healthy part,"" ""condom,"" ""contraceptive,"" ""abortion,"" ""suffering and fear for women,"" ""out of the dark ages.""
+- sentimental phrases: the overall sentiment seems serious and informative. the use of the phrase ""out of the dark ages"" could imply frustration or a strong opinion.
+
+**step 2: deduce true intention**
+- the passage is structured as a direct argument against criminalizing abortion.
+- it includes logical statements about the risks and choices around sex and contraception.
+- the final sentence ""i thought we were out of the dark ages already"" could be interpreted as a strong stance rather than sarcasm, emphasizing the backwardness of opposing views.
+
+**step 3: compare and analyze**
+- surface sentiment: informative and assertive.
+- true intention: a clear argument presenting factual data and logical reasoning against criminalizing abortion.
+- the surface and true intention align, showing no contradictory, exaggerated, or ironic elements typical of sarcasm.
+
+Label: 
+not sarcastic"
+0,"Input:
+everything basically. you're held captive by hostile natives that have set up barricades and checkpoints around the property you live on. they decide when you get to come in and go out, and the police have decided to abandon you rather than come to your aid. and canada has laws that make defense with a firearm either impractical or outright illegal depending on just where you live.
+
+Steps:
+1. surface sentiment:
+   - the text uses negative and serious language like ""held captive,"" ""hostile natives,"" ""barricades,"" ""checkpoints,"" ""abandon,"" ""illegal.""
+   - there are no sarcastic indicators such as exaggeration for humor, irony in tone, or contrasting sentiments.
+   
+2. true intention:
+   - the intention seems to be a genuine expression of frustration or disbelief at the described situation, emphasizing the severity and hardship.
+   - the detailed descriptions point towards realistic grievances rather than mockery or satire.
+   
+3. comparison and analysis:
+   - both the surface sentiment and the true intention align on conveying a sincere complaint and distress about the depicted circumstances.
+   - there is no evidence of sarcasm; rather, the text communicates actual concern or anger about the situation.
+
+Label: not sarcastic"
+0,"Input:
+""not entirely true. while we can't disprove that god created the universe, we can disprove many creationist claims. for example, we can disprove that the earth is 6000 years old.""
+
+Steps:
+**step 1: surface sentiment**
+- keywords: ""not entirely true,"" ""we can disprove,"" ""for example""
+- sentimental tone: informative and corrective
+- there are no sentimental phrases or emojis indicative of sarcasm.
+
+**step 2: true intention**
+- the intention is to provide factual information and correct a misconception.
+- the speaker is presenting a logical argument and providing evidence to support their point.
+
+**step 3: compare and analyze**
+- the surface sentiment aligns with the true intention. both indicate an informative and corrective tone without any signs of mockery, irony, or exaggerated sentiment typical of sarcasm.
+
+Label: not sarcastic"
+0,"Input:
+""well, if burglars want to steal guns then it makes sense that they would be likely to target the homes of gun owners. and the source is from the recently published book evaluating gun policy which you can read and review. the source is listed at the bottom.""
+
+Steps:
+**step 1: surface sentiment**
+- keywords/phrases: ""makes sense,"" ""recently published book,"" ""you can read and review.""
+- sentiment indicators: the text is straightforward with no obvious negative sentiment or exaggerated claims that might suggest sarcasm.
+
+**step 2: true intention**
+- rhetorical devices / language style: the statement is factual and offers a logical explanation about why burglars might target gun owners. it also cites a credible source (a book) for further reading, adding to its credibility.
+- there is no use of irony, hyperbole, or other rhetorical devices that would suggest the author is implying the opposite of what they are saying.
+
+**step 3: comparison and analysis**
+- the surface sentiment aligns with the true intention. both are factual and straightforward, without any hidden or contradictory meanings.
+- the tone of the statement is informative and educational, rather than sarcastic or mocking.
+
+Label:
+not sarcastic"
+0,"Input:
+""like the docking simulation, in development there is a pre-existing fitness landscape (the womb). both processes converge on similar endpoints each time it is run, both process are biased to a few endpoints and both processes reach local optima (e.g. skin cells) after the process id complete. http://mybroadband.co.za/vb/picture....pictureid=1857 figure 1: similarities between development and a docking simulation employing a memetic algorithm. there are certainly many parallels between our own designed simulated docking runs and the development of life.""
+
+Steps:
+**step 1: surface sentiment**
+- the surface sentiment in the excerpt is neutral and informative.
+- the text focuses on comparing biological development to a docking simulation.
+- terms like ""pre-existing fitness landscape,"" ""converge on similar endpoints,"" and ""many parallels,"" are scientific and factual in nature.
+
+**step 2: true intention**
+- the true intention of the text appears to be educational and explanatory.
+- there is no indication of a rhetorical device aimed at mocking or conveying irony.
+- the objective seems to convey a comparison and similarities between two processes sincerely.
+
+**step 3: comparison and analysis**
+- both the surface sentiment and true intention align in being neutral, factual, and non-ironical.
+- there is no apparent discrepancy or hidden sarcasm in the language or style used.
+
+Label:
+not sarcastic"
+0,"Input: 
+""yes. (and this is to add stuff to make the post stick....)""
+
+Steps:
+**step 1: surface sentiment**
+- keywords: ""yes.""
+- clues: the phrase ""yes"" indicates a straightforward affirmation. 
+
+**step 2: true intention**
+- rhetorical devices: the parenthetical note ""(and this is to add stuff to make the post stick....)"" seems to indicate a technical or procedural reason for adding more text. 
+- language style: the style is casual and explanatory, not inherently sarcastic.
+
+**step 3: comparison and analysis**
+- the straightforward affirmation ""yes"" aligns with an affirmative response.
+- the explanatory parenthesis simply clarifies the purpose of additional text without any detectable irony or mockery.
+
+Label:
+not sarcastic"
+1,"Input:
+
+""and in those 150 years, all the evolutionists in the world haven't been able to falsify or debunk the book of genesis. of course, in their own deluded minds, they actually believe they have done just that.""
+
+Steps:
+**step 1: surface sentiment:**
+
+- keywords: ""haven't been able to,"" ""falsify,"" ""debunk,"" ""deluded minds.""
+- sentimental phrases: the term ""deluded minds"" suggests a negative sentiment towards the evolutionists.
+- the surface sentiment seems to mock or criticize the efforts of evolutionists.
+
+**step 2: true intention:**
+
+- rhetorical devices: use of hyperbole in ""all the evolutionists in the world"" and ""150 years.""
+- language style: the use of ""of course"" implies an obviousness that may not be sincere.
+- the statement seems to dismiss the efforts of evolutionists sarcastically, suggesting that their belief in debunking genesis is without merit and delusional.
+
+**step 3: comparison and analysis:**
+
+- the surface sentiment (mocking evolutionists) contrasts with what the statement pretends to convey (that genesis has not been debunked despite attempts).
+- this contrast between mocking evolutionists and the seemingly straightforward statement of genesis's resilience indicates sarcasm.
+
+Label:
+sarcastic"
+1,"Input:
+oh free market???? im goin to take the embryos and fetuses slain in abortion centers and turn it into a new food source and sell it at the grocery store!!!!!!!!!!!!!!!!
+
+Steps:
+**step 1: surface sentiment**
+- **keywords and phrases**: words like ""oh free market????"" and the excessive exclamation points suggest heightened emotional expression.
+- **surface emotion**: outrage or extreme excitement.
+
+**step 2: true intention**
+- **rhetorical devices**: the suggestion of using “embryos and fetuses” as a “new food source” is so extreme and morally outrageous that it’s unlikely to be sincere.
+- **language style**: over-the-top and provocative language used to criticize or mock the concept of a free market by highlighting a hyperbolic and unethical scenario.
+- **true emotion**: deep criticism or disdain towards the idea being mocked—the free market.
+
+**step 3: compare and analysis**
+- the surface sentiment is one of extreme excitement or outrage.
+- the true intention, deduced through hyperbolic and morally questionable suggestions, reveals a critical stance towards the free market.
+- the disparity between the extreme surface sentiment and the evident criticism indicates the speaker is not serious but sarcastic.
+
+Label:
+sarcastic"
+1,"Input: gee the thimble wearing comic relief slides in.
+
+Steps:
+1. **surface sentiment:** 
+   - the word ""gee"" typically suggests surprise or excitement.
+   - ""comic relief"" usually refers to a humorous character or element.
+   - surface level sentiment appears light-hearted and possibly positive.
+
+2. **true intention:** 
+   - ""thimble wearing"" could imply a character who is delicate or overly cautious, an unexpected trait for someone providing comic relief.
+   - the phrase ""slides in"" might suggest a lack of importance or a sneaky entrance.
+   - combined, these elements create an image that the character's presence is being mocked or not taken seriously.
+
+3. **comparison and analysis:** 
+   - the surface sentiment of excitement doesn't match the underlying mockery or disdain.
+   - the contrast between the playful tone and the implied derision indicates sarcasm.
+
+Label: sarcastic"
+1,"Input: 
+""hey, thanks for the quote! am i published now?""
+
+Steps:
+1. **step 1: surface sentiment**
+   - the phrase starts with ""hey, thanks for the quote!"" which suggests a positive and grateful tone.
+   - the follow-up question, ""am i published now?"" sounds like a genuine inquiry about publication status.
+
+2. **step 2: true intention**
+   - upon analyzing the context, the expression ""thanks for the quote"" coupled with the question ""am i published now?"" indicates potential irony. the speaker likely already knows the answer to their question and might be highlighting the trivial nature of their quote being published.
+   - the use of a rhetorical question ""am i published now?"" implies that the speaker doesn't actually expect publication to be the outcome, suggesting frustration or mockery rather than genuine inquiry.
+
+3. **step 3: comparison and analysis**
+   - the discrepancy between the surface courtesy and the underlying skepticism or mockery reveals a sarcastic tone.
+   - the surface sentiment indicates gratitude while the true intention shows irony. this contrast is a hallmark of sarcasm.
+
+Label: sarcastic"
+1,"Input:
+""is there some sort of a symbolic potent phallic aspect to holding a gun in one's hand? is sarah palin being a manly sort when she shoots a wolf from a helicopter?""
+
+Steps:
+**step 1: surface sentiment**
+- **sentiment clues**: critical and incredulous tone.
+- **keywords**: ""symbolic potent phallic aspect,"" ""manly sort.""
+- **sentimental phrases**: the use of complex and somewhat mocking language suggests a negative sentiment.
+
+**step 2: true intention**
+- **rhetorical devices**: the questions posed are rhetorical, implying that the author does not genuinely seek answers but rather implies a critique.
+- **language style**: the exaggerated language (""symbolic potent phallic aspect,"" ""manly sort"") suggests a tone of mockery and disdain, specifically targeted towards sarah palin’s actions.
+- **intended meaning**: the author is likely criticizing the idea that shooting a wolf from a helicopter, something sarah palin did, could be seen as 'manly' or tied to masculinity. it satirizes this portrayal through exaggeration.
+
+**step 3: comparative analysis and inference**
+- **comparison**: the surface sentiment suggests mockery and incredulity, while the true intention confirms a critical stance through rhetorical questions and exaggerated phrasing.
+- **inference**: the disparity between the exaggerated, mocking tone at the surface and the underlying critical intention clearly supports the label of sarcasm.
+
+Label:
+sarcastic"
+1,"Input:
+""again your failure to understand what science is and how it works. whatever your apostle tells you, science can't deny that something you may have seen is true. it can deny that it isn't science if it cannot be explained by naturalistic observation. most especially, if the observation can't be repeated by another, then it isn't science. science can make no assertion as to what you saw. you may think it is wonderful, but lsd had that effect. how strange that you think that your emotions are scientific. actually, it's sad.""
+
+Steps:
+step 1: surface sentiment
+- initial phrases like ""again your failure"" start with a critical tone.
+- phrases like ""whatever your apostle tells you,"" are mocking.
+- the sentence ""you may think it is wonderful, but lsd had that effect"" trivializes the other person's perception.
+- keywords indicating negativity and sarcasm: ""failure,"" ""lsd,"" ""it's sad.""
+
+step 2: true intention
+- the language is heavily loaded with sarcasm, using rhetorical questioning and mocking the other person's understanding and beliefs.
+- the statement ""how strange that you think that your emotions are scientific"" ridicules the opposite viewpoint.
+- the concluding ""actually, it's sad,"" adds a sarcastic tone indicating mock pity or disdain.
+
+step 3: comparison and analysis
+- the surface sentiment contains sharp criticism and mockery.
+- the true intention, revealed through rhetorical devices, confirms the presence of sarcasm.
+- there is a stark contrast between the purportedly explanatory tone and the underlying mockery, confirming the use of sarcasm.
+
+Label:
+sarcastic"
+1,"Input:
+well, both traffic in waste material. many traps are present in each for them to function properly. and don't forget where biological evolution and plumbing both lead you--into a cesspool.
+
+Steps:
+**step 1:** **surface sentiment:**
+- keywords and phrases: ""traffic in waste material,"" ""many traps,"" ""lead you--into a cesspool.""
+- the surface sentiment appears to be a factual or cynical description, focusing on waste and cesspools.
+
+**step 2:** **true intention:**
+- the comparison of biological evolution and plumbing both leading to a ""cesspool"" suggests a rhetorical device, namely an ironic twist.
+- the language style, particularly the unexpected punchline about a cesspool, indicates mockery or dark humor, emphasizing the absurdity of comparing such distinct processes.
+
+**step 3:** **comparison and analysis:**
+- the surface sentiment (factual/cynical) contrasts with the true intention (mockery/irony).
+- this contrast between a seemingly serious tone and an absurd punchline leads to the inference of sarcasm.
+
+Label: sarcastic"
+1,"Input:
+""i believe the hunter who handed the rifle to the actor and the tv crew lacked an awareness of the firearm's potential danger,"" another police official said. how is anyone to learn any potential of a firearm if it is to be locked away and not seen? besides that little piece about lacking awareness i don't really buy it. a gun death is a gun death, whoever pulls the trigger? serious question, penfold, and i will even dispense with the comrade, are you a plant just to get people going? or did you actually have someone close to you hurt or killed by a firearm? and if so, i apologize.""
+
+Steps:
+**step 1: surface sentiment**
+- keywords and phrases: ""lacked an awareness of the firearm's potential danger,"" ""how is anyone to learn any potential of a firearm if it is to be locked away and not seen?"" 
+- sentimental phrases: ""i don't really buy it.""
+- overall, the tone appears conflicted, with elements of skepticism and rhetorical questioning.
+
+**step 2: true intention**
+- rhetorical devices: the use of rhetorical questions like ""how is anyone to learn any potential of a firearm if it is to be locked away and not seen?"" and ""a gun death is a gun death, whoever pulls the trigger?"" suggests irony or sarcasm. these questions imply that the argument is not genuine.
+- language style: the formal dressing down of the phrase ""lacked an awareness"" juxtaposed with casual dismissal ""i don't really buy it"" suggests a mocking tone.
+- the final sentences with sharp questions directed at ""penfold"" with a sarcastic ""comrade"" and finally an insincere apology put focus on an underlying mockery.
+
+**step 3: compare and analyze**
+- analysis: there is a clear discrepancy between the surface sentiment (seemingly serious concern) and the true intention (mocking, skeptical, dismissive).
+- inference: the use of rhetorical questions and insincere language indicates an attempt to mock or criticize rather than genuinely inquire or debate.
+
+Label:
+sarcastic"
+1,"Input:
+""this topic was discussed in another thread. kelvin said that-'if it were not the private ownership of guns in 1941, you would be speaking japanese if you live on the westcoast, german if you live on the eastcoast.' urban legend. it should be illegal for women to have sex.""
+
+Steps:
+**step 1: surface sentiment**
+- **clues such as keywords:** ""urban legend"", ""it should be illegal for women to have sex.""
+- **sentimental phrases:** the phrase suggests an absurd extreme (making it illegal for women to have sex) which is a hyperbole often used in sarcasm.
+
+**step 2: true intention**
+- **rhetorical devices:** the use of ""urban legend"" indicates skepticism towards the statement about gun ownership and wwii.
+- **language style:** the claim about making it illegal for women to have sex is so outrageous that it's likely not a serious suggestion, but rather a sarcastic comment intended to highlight the absurdity.
+
+**step 3: compare and analyze**
+- **surface vs. true meaning:** while the surface sentiment might seem serious or extreme, the underlying use of hyperbole and irony indicates it is not meant to be taken literally.
+  
+Label:
+sarcastic"
+0,"Input:
+""not knowing isn't the same as claiming magic.""
+
+Steps:
+#### step 1: surface sentiment
+- **surface sentiment**:
+  - keywords: ""not knowing,"" ""claiming magic""
+  - the tone is neutral to informative. there are no sentimental phrases or emojis.
+
+#### step 2: true intention
+- **intent**:
+  - the sentence is making a clear distinction between two concepts.
+  - ""not knowing"" implies a lack of knowledge, while ""claiming magic"" could suggest an illogical or superstitious explanation.
+  - the speaker is likely clarifying that ignorance doesn't equate to believing in irrational explanations.
+
+#### step 3: compare and analysis
+- **comparison**:
+  - there is no irony or contradiction between the surface sentiment and true intention.
+  - the language is straightforward and lacks any rhetorical devices commonly associated with sarcasm, such as exaggeration or sarcasm markers.
+
+Label:
+not sarcastic"
+1,"Input:
+so if you quoted ted kennedy when he said to his wife in an event that wasn't even publicized ""good morning, sweetie"", that would be an answer?
+
+Steps:
+**step 1: surface sentiment**
+- on the surface, the sentence appears to be questioning the relevance of a mundane quote, suggesting that quoting ""good morning, sweetie"" in an unspecified event might serve as an appropriate answer.
+- keywords like ""good morning, sweetie"" are typically affectionate and positive, but the surrounding context introduces doubt and potential disdain.
+
+**step 2: true intention**
+- the phrase ""in an event that wasn't even publicized"" introduces a tone of irony, suggesting that the event—and therefore the quote—are trivial or irrelevant.
+- the rhetorical question form implies disbelief or criticism; it suggests that the quoted material is insufficient or inappropriate as a substantial answer to an unspecified but presumably more serious question.
+
+**step 3: comparison and analysis**
+- the initial surface sentiment seems neutral to positive as it refers to a benign greeting (""good morning, sweetie"").
+- however, the true intention, clarified through the rhetorical structure and accompanying context, reveals a critical and mocking undertone. the speaker is not genuinely inquiring but rather ridiculing the idea that such a trivial quote could be useful in any meaningful context.
+
+Label:
+sarcastic"

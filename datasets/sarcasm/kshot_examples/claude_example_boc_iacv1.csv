@@ -1,0 +1,286 @@
+Label,Example
+0,"Input: ""you should be allowed to buy as many as you want to""
+
+Cues:
+1. cultural background: no specific cultural references are present.
+2. emotional words: none detected.
+3. language style: simple, straightforward, and declarative.
+4. keywords: ""allowed,"" ""buy,"" ""as many as you want""
+5. special symbols: none present.
+
+Label:
+not sarcastic"
+0,"Input: the founding fathers were afraid to trust the common people with the right to vote. they didn't want mob rule and chaos. ""most of the founders believed that property ownership was essential to good citizenship and therefore that only property owners should be able to vote. 'property', in those days, also included slaves, of course, and half of the founders were slave owners....the maintenance of power in the hands of the elite was further strengthened by who could vote. in 1787, there were about four million people living in the 13 original states. but only about four percent of them, it is estimated, could vote. excluded were the one million slaves, the two million women, anyone under the age of 21, and all non-property owners.""
+
+Cues:
+1. emotional words: ""afraid"", ""trust"", ""chaos"" - these convey genuine concern rather than sarcasm.
+2. rhetorical devices: use of statistics and quotations to support the argument.
+3. cultural background: references to founding fathers, early american history, and voting rights.
+4. common knowledge: general understanding of early american democracy and voting restrictions.
+5. keywords: ""founding fathers"", ""property ownership"", ""slaves"", ""elite"", ""vote""
+
+Label:
+not sarcastic"
+0,"Input: ""i'll assume this is figurative since they do not literally melt.""
+
+Cues:
+1. emotional contrasts: none present. the tone is consistent and matter-of-fact.
+2. keywords: ""assume,"" ""figurative,"" ""literally""
+3. special symbols: none present
+4. emotional words: none present
+5. language style: analytical and straightforward
+
+Label:
+not sarcastic"
+0,"Input: ""because self-defence, unlike most other 'reasons', automatically allows all citizens firearm access, and in most cases allows firearm acess without mandatory training/evaluation. when this occurs, you are much more likely to get misuse of firearms.   if you read around you'll see that i consider all rights as needing justification. this comes both from my stance as a relativist and as a uk citizen, where there is no formalised constitution. ask yourself this - if a right cannot be justified, why should it be treated as a 'right'?""
+
+Cues:
+1. emotional words: none significant
+2. topic: gun rights, self-defense, and justification of rights
+3. rhetorical devices: rhetorical question at the end
+4. context: serious discussion about firearm access and rights
+5. keywords: self-defence, firearm access, mandatory training, misuse, rights, justification, relativist, constitution
+
+Label:
+not sarcastic"
+0,"Input: ""actually, i snipped your remarks because 1) you twisted what i said and 2) i'm already spending too much time arguing with random complainers and i was in a hurry to do something more important at the time.""
+
+Cues:
+1. topic: explanation for editing/snipping remarks
+2. context: defending actions in an online discussion
+3. punctuation: use of parentheses and numbers for listing reasons
+4. emotional words: ""twisted"", ""complainers"", ""hurry"", ""important""
+5. special symbols: none present
+
+Label:
+not sarcastic"
+0,"Input: ""and religious folk in the south used the bible to justify enslavement of thousands or millions of blacks, and also to justify their treating blacks as mere property. i suppose (but am not familiar enough with all of the details to know for sure) that some even used the bible to justify linching blacks.""
+
+Cues:
+1. special symbols: none present, indicating straightforward communication.
+2. common knowledge: references to historical facts about slavery and racism in the southern united states.
+3. keywords: ""bible,"" ""justify,"" ""enslavement,"" ""blacks,"" ""property,"" ""lynching"" - all serious topics.
+4. language style: formal, matter-of-fact tone without exaggeration or humor.
+5. context: discussion of historical misuse of religious texts to support racism and slavery.
+
+Label:
+not sarcastic"
+0,"Input: [the provided text discussing religious views on homosexuality and marriage]
+
+Cues:
+keywords:
+- ""inability""
+- religious issue
+- ""antis""
+- homosexuality
+- morality
+- immorality
+
+common knowledge:
+- debates around homosexuality and gay marriage often involve religious perspectives
+- some people view homosexuality as a moral issue
+
+context:
+- the text appears to be a response in a discussion about homosexuality and marriage rights
+- the author is challenging someone else's viewpoint
+
+surface emotion:
+- frustration or disagreement with the other person's stance
+- defensive of religious perspectives
+
+cultural background:
+- refers to ongoing societal debates about lgbtq+ rights and religious freedom
+
+Label:
+not sarcastic"
+0,"Input: ""no they don't. we didn't have a tyrannical society back in the 1830s when without a doubt personal autonomy didn't exist for some. the thing is, you don't have absolute personal autonomy now either. and it still doesn't answer my question about where the right came from, you just said there had to be one.""
+
+Cues:
+1. common knowledge: the text references historical facts about personal autonomy in the 1830s and compares it to the present day.
+2. language style: the language is direct, argumentative, and formal. it lacks typical sarcastic markers like exaggeration or irony.
+3. topic: the text discusses concepts of personal autonomy, rights, and societal structures across different time periods.
+4. surface emotion: the tone is assertive and slightly frustrated, as evidenced by phrases like ""no they don't"" and ""it still doesn't answer my question.""
+5. emotional contrasts: there are no significant emotional contrasts that would indicate sarcasm. the tone remains consistent throughout the text.
+
+Label:
+not sarcastic"
+0,"Input: ""same thing happened in rwanda. first they put the names of all tutsis on lists. then, the hutu came around with machettes and took them off of the lists....permanently.""
+
+Cues:
+1. keywords: rwanda, tutsis, hutu, machetes, lists, permanently
+2. surface emotion: serious, somber
+3. rhetorical devices: understatement (""took them off of the lists"" for genocide)
+4. context: referencing the rwandan genocide
+5. special symbols: ellipsis (...) for dramatic pause
+
+Label:
+not sarcastic"
+0,"Input: ""i disagree for the same reasons i have been giving all along. there may be some legislation that was passed that has kept corporations small (anti-trust) but did it really benefit the society?""
+
+Cues:
+1. context: the text appears to be part of a discussion about corporate regulations and their societal impact.
+2. language style: the language is direct and argumentative, presenting a clear stance and questioning the effectiveness of certain policies.
+3. punctuation: standard use of punctuation, including a question mark at the end to emphasize the point being made.
+4. surface emotion: the tone is serious and slightly skeptical, but not overtly emotional.
+5. emotional words: no strong emotional words are present. the language is relatively neutral.
+
+Label:
+not sarcastic"
+1,"Input: ""well that explains your anger.   i hope you are blessed with homeliness. makes your commitment easier to keep. how old are you now?""
+
+Cues:
+1. punctuation: short sentences with periods suggest a blunt, matter-of-fact tone often used in sarcasm.
+2. keywords:
+   - ""blessed with homeliness"" - an oxymoron, as homeliness is typically not considered a blessing
+   - ""commitment easier to keep"" - implies a negative view of the person's appearance
+3. cultural background: in many cultures, commenting on someone's appearance negatively is considered rude, so doing so indirectly can be a form of sarcasm.
+4. common knowledge: being ""homely"" is generally not seen as desirable, so wishing it upon someone is likely not sincere.
+5. special symbols: none present, but the lack of emojis or softening language reinforces the sarcastic tone.
+
+Label:
+sarcastic"
+1,"Input: ""i ""pretend"" to nothing. i am not ""pretending"" to beilieve you to be a materialit/darwinist. i do believe exactly that.   and as for your threat to make my arguments look silly, i'm not shaking in my boots. i've made your arguments look presumptuous, pretentious and silly, but you have never yet succeeded in doing that to any of mine.""
+
+Cues:
+1. topic: debate about beliefs (materialism/darwinism)
+2. emotional words: ""threat,"" ""silly,"" ""presumptuous,"" ""pretentious""
+3. cultural background: intellectual discourse, possibly in an academic or online debate setting
+4. language style: confrontational, defensive, using quotation marks for emphasis
+5. surface emotion: indignation, confidence
+
+Label:
+sarcastic"
+1,"Input: [the provided text about the big bang theory and cosmological age estimates]
+
+Cues:
+1. punctuation:
+   - excessive use of question marks, suggesting rhetorical questions
+   - frequent use of quotation marks around phrases like ""so called theory,"" indicating skepticism
+
+2. context:
+   - discussion of scientific theories (big bang, evolution) with a critical tone
+   - comparison of scientific community to ""lemmings""
+
+3. language style:
+   - informal and conversational tone
+   - use of exaggerated language and rhetorical questions
+
+4. keywords:
+   - ""so called theory""
+   - ""wiggle room""
+   - ""no wonder""
+   - ""holy grail""
+   - ""imaginings""
+   - ""lemmings""
+
+5. rhetorical devices:
+   - rhetorical questions: ""so, you consider...?"" ""if they have any evidence, why...?""
+   - hyperbole: ""holy grail of the scientific community""
+   - analogy: comparing scientists to lemmings
+
+Label:
+sarcastic"
+1,"Input: ""oh yeah and did i forget to mention. how in the world do you get off saying i'm a liar? by the time im twenty two i will have accomplished so much more than you have. you pedegouge/scholars mistake being intellectual with blending in with everyone else. try and stand out from the croud next time.""
+
+Cues:
+1. cultural background: the text suggests a context of academic or intellectual discourse, with references to scholars and intellectualism.
+2. common knowledge: there's an implied understanding of the value placed on accomplishments and standing out in society.
+3. topic: the text is about defending oneself against accusations of lying and criticizing intellectuals or scholars.
+4. emotional words: ""liar,"" ""accomplished,"" ""mistake,"" ""stand out""
+5. context: the writer appears to be responding to someone who called them a liar and is now attacking that person's intellectual status.
+
+Label:
+sarcastic"
+1,"Input: ""just as being anti-gun won't compensate for being born with a small brain.""
+
+Cues:
+1. emotional words: ""small brain"" - implies intellectual inferiority, potentially evoking strong reactions.
+2. rhetorical devices: 
+   - false equivalence: comparing anti-gun stance to brain size
+   - ad hominem: attacking intelligence rather than addressing arguments
+3. topic: gun control debate
+4. cultural background: likely referencing american gun rights controversy
+5. language style: 
+   - informal
+   - confrontational
+   - implies caustic humor
+
+Label:
+sarcastic"
+1,"Input: ""so that's a problem of ""fundamentalism"", and not a problem with the one creating the ""parody""? apparently the creation of parodies for ""fundamentalism"" is a large part of atheism.""
+
+Cues:
+1. surface emotion: the tone seems incredulous and mocking.
+2. context: the text appears to be discussing religious fundamentalism, parody, and atheism.
+3. common knowledge: there's often tension between religious fundamentalism and atheism.
+4. rhetorical devices: 
+   - rhetorical questions used to express doubt
+   - quotation marks around ""fundamentalism"" and ""parody"" suggest skepticism
+5. punctuation: use of question marks emphasizes the sarcastic tone
+
+Label:
+sarcastic"
+1,"Input: ""well, this guy is so bad ad arguing and so good at alienating people that if we sent him into the abortion forum, it is likely, he'd be so ineffective at defending his pro-life position thathe'd actually be contributing to the pro-choice position...""
+
+Cues:
+1. common knowledge: debates on abortion are often heated and polarizing.
+2. context: the speaker is describing someone's argumentation skills negatively.
+3. keywords: ""so bad at arguing,"" ""so good at alienating,"" ""ineffective,"" ""contributing to the opposite""
+4. special symbols: ellipsis (...) at the end, suggesting a trailing thought or implication.
+5. surface emotion: frustration or mockery towards the person being described.
+
+Label:
+sarcastic"
+1,"Input: ""how were they able to get an ""aggravated assault"" charge pinned on you?   i'm assuming she never had a mark on herself to show the cops.   had you two had a previous domestic call history with the police?   hopefully justice will be served when you get your day in court.   then you'll get to experience the wonder that is ""family court"", if you haven't already.   you have my sympathies.""
+
+Cues:
+1. surface emotion: feigned sympathy and curiosity
+2. keywords: ""aggravated assault"", ""pinned on you"", ""wonder"", ""family court"", ""sympathies""
+3. topic: legal troubles related to domestic issues
+4. emotional contrasts: apparent concern vs. underlying mockery
+5. context: discussing a legal situation with skepticism about the charges
+
+Label:
+sarcastic"
+1,"Input: ""zardozy, honey, whushoo gotta b'lieve in?   you related to that frenchie guy with the skinny wife?""
+
+Cues:
+1. topic: unclear, possibly referencing a political figure
+2. cultural background: informal american english, reference to french culture
+3. keywords: ""zardozy,"" ""honey,"" ""frenchie,"" ""skinny wife""
+4. emotional contrasts: false sweetness (""honey"") vs mocking tone
+5. punctuation: informal, multiple question marks
+
+Label:
+sarcastic"
+1,"Input: ""well he can defend his tax difficulties by claiming he is a creationist and thus cannot be trusted with quantitative processes involving a bit of mathematics. then again he can tell irs that god will provide and they should contact bush to get gods cell number. i am sure that irs, god, and hovind can work it all out.""
+
+Cues:
+1. language style:
+   - exaggerated and absurd suggestions
+   - use of mock logical reasoning
+   - casual tone with serious topics
+
+2. keywords:
+   - ""creationist""
+   - ""irs""
+   - ""god""
+   - ""bush""
+   - ""hovind""
+
+3. common knowledge:
+   - creationists often reject scientific evidence
+   - irs deals with tax matters
+   - reference to religious beliefs and government
+
+4. topic:
+   - tax evasion defense
+   - mixing religion with government and finance
+
+5. cultural background:
+   - american context (irs, bush)
+   - debate between creationism and science
+   - religious influence in politics
+
+Label:
+sarcastic"
